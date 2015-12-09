@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <title>PLZ-Suche Ajax - Javascript Postleitzahlen Widget</title>
@@ -55,30 +50,15 @@ and open the template in the editor.
                         event.stopPropagation();
                         var query = $('#search-query').val();
                         
-                        var results = [];
-                        
                         var table = $('<table class="table table-striped"><thead><tr><th>PLZ</th><th>Ort</th><th>Bundesland</th></tr></thead><tbody></tbody></table>');
                         $.each(csvData, function(index, value) {
                             if(value.ort.search(query) !== -1 || value.plz.search(query) !== -1) {
                                 // Tabelle erstellen
                                 $('<tr><td>' + value.plz + '</td><td>' + value.ort + '</td><td>' + value.bundesland + '</td></tr>').appendTo(table.find('tbody'));
-                                
-                                
-                                
-                                results.push(value);
                             }
                         });
                         
                         $('#search-result').html(table);
-                        
-                        
-                        
-                        
-                        console.dir(results);
-                        
-                        
-                        
-                        
                         return false;
                     });
                 });
