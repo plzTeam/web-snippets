@@ -9,6 +9,13 @@ Dieses Skript zeigt eine mögliche Einbindung einer Postleitzahlen- und Ortssuch
 
 Für die Suchabfrage wird eine Zuordnungsdatei im CSV-Format mit aktuellen Postleitzahlen und Städte/Gemeinden von Deutschland verwendet. Eine aktuelle PLZ-Liste (zuordnung_plz_ort.csv) finden sie [hier zum Downloaden](http://www.suche-postleitzahl.org/downloads)
 
+Diese Datei wird in regelmäßigen Abständen aktualisiert und sollte nach dem Herunterladen in folgenden Ordner verschoben werden:
+
+    |-- plz-suche
+    |   |-- data
+    |       |-- zuordnung_plz_ort.csv
+    |   |-- ...
+
 #### Datengröße & Pagespeed
 
 Die verwendete CSV-Datei hat eine Größe von ~500kb/150kb(gzip) und wird in unserem Skript-Beispiel nur einmal beim Seitenaufruf geladen, d.h. nach der Sucheingabe sind keine Requests an den Server mehr nötig. Des Weiteren steht die CSV-Datei bei erneutem Seitenaufruf im Cache des Browsers ohne erforderliche Ladezeit zur Verfügung.
