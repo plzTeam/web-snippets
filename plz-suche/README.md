@@ -11,7 +11,7 @@ Für die Suchabfrage wird eine Zuordnungsdatei im CSV-Format mit aktuellen Postl
 
 #### Datengröße & Pagespeed
 
-Die verwendete CSV-Datei hat eine Größe von ~500kb/150kb(gzip) und wird in unserem Skript-Beispiel nur einmal beim Seitenaufruf geladen, d.h. nach der Sucheingabe sind keine Requests an den Server mehr nötig. Des weiteren steht die CSV-Datei bei erneutem Seitenaufruf im Cache des Browsers ohne erforderliche Ladezeit zur Verfügung.
+Die verwendete CSV-Datei hat eine Größe von ~500kb/150kb(gzip) und wird in unserem Skript-Beispiel nur einmal beim Seitenaufruf geladen, d.h. nach der Sucheingabe sind keine Requests an den Server mehr nötig. Des Weiteren steht die CSV-Datei bei erneutem Seitenaufruf im Cache des Browsers ohne erforderliche Ladezeit zur Verfügung.
 
 ### Verwendeter CSV-Parser
 
