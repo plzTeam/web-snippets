@@ -8,7 +8,6 @@
         <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <script src="./js/papaparse.min.js"></script>
-        <script src="./js/plz-api.js"></script>
     </head>
     <body>
         <div class="container">
@@ -38,7 +37,6 @@
                     var settings = { 
                         download: true,
                         delimiter: ",",
-                        newline: "",
                         header: true,
                         skipEmptyLines: true,
                         complete: function(data) {
@@ -46,16 +44,25 @@
                             $('#search-result').html('<h3><span class="glyphicon glyphicon-ok"></span> Bereit für Ihre Suchabfrage</h3>');
                         }                        
                     };
-                    Papa.parse('zuordnung_plz_ort.csv', settings);
+                    Papa.parse('./data/zuordnung_plz_ort.csv', settings);
                     
                     // Starte Suche
                     $('#search-form').on('submit', function(event) {
                         event.stopPropagation();
-                        var query = $('#search-query').val();
+                        var query = $('#search-query').val().toLowerCase();
                         
                         var table = $('<table class="table table-striped"><thead><tr><th>PLZ</th><th>Ort</th><th>Bundesland</th></tr></thead><tbody></tbody></table>');
                         $.each(csvData, function(index, value) {
-                            if(value.ort.search(query) !== -1 || value.plz.search(query) !== -1) {
+                            // Pattern
+                            var pattern_plz         = new RegExp("^" + query + ".*$");
+                            var pattern_ort         = new RegExp("\\b" + query + "\\b");
+                            var pattern_bundesland  = new RegExp("^" + query + "$");
+                            
+                            // Suchabfrage
+                            if( value.ort.toLowerCase().match(pattern_ort) ||
+                                value.plz.match(pattern_plz) ||
+                                value.bundesland.toLowerCase().match(pattern_bundesland)
+                            ) {
                                 // Tabelle erstellen
                                 $('<tr><td>' + value.plz + '</td><td>' + value.ort + '</td><td>' + value.bundesland + '</td></tr>').appendTo(table.find('tbody'));
                             }
