@@ -7,7 +7,7 @@ Dieses Skript zeigt eine mögliche Einbindung einer Postleitzahlen- und Ortssuch
 
 ### PLZ Daten
 
-Für die Suchabfrage wird eine Zuordnungsdatei im CSV-Format mit aktuellen Postleitzahlen und Städte/Gemeinden von Deutschland verwendet. Eine aktuelle Zuordnungsdatei (zuordnung_plz_ort.csv) finden sie [hier zum Downloaden](http://www.suche-postleitzahl.org/downloads)
+Für die Suchabfrage wird eine Zuordnungsdatei im CSV-Format mit aktuellen Postleitzahlen und Städte/Gemeinden von Deutschland verwendet. Eine aktuelle PLZ-Liste (zuordnung_plz_ort.csv) finden sie [hier zum Downloaden](http://www.suche-postleitzahl.org/downloads)
 
 #### Datengröße & Pagespeed
 
