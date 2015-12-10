@@ -28,7 +28,7 @@ Um die Datei zuordnung_plz_ort.csv ohne vorherige Konvertierung (z.B. in JSON) f
 
 Der Scriptbereich befindet sich ausschließlich in der **index.html**, dort können Sie gewünschte Änderungen am Code vornehmen.
 
-### Feedback & Anregungen
+#### Feedback & Anregungen
 
 Wir würden uns sehr über Fragen und Rückmeldungen freuen 
 
