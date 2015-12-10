@@ -1,6 +1,6 @@
 # Postleitzahlensuche mit HTML & jQuery
 
-Dieses Skript zeigt eine mögliche Einbindung einer Postleitzahlen- und Ortssuche auf der eigenen Webseite ohne serverseitiger Programmierung. 
+Dieses Skript zeigt eine mögliche Einbindung einer Postleitzahlen- und Ortssuche auf der eigenen Webseite ohne serverseitiger PHP/MySQL Programmierung. 
 
 ### Demo
 > [Beispiel anzeigen](http://rawgit.com/plzTeam/web-snippets/master/plz-suche/index.html)
