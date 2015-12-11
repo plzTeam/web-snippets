@@ -1,6 +1,6 @@
 # Codebeispiele zur Einbindung in Websites
 
-Hier finden Sie Einbindungsmöglichkeiten der Postleitzahlendaten welche auf [**suche-postleitzahl.org**](http://www.suche-postleitzahl.org) kostenlos heruntergeladen werden können.
+Hier finden Sie Einbindungsmöglichkeiten von Postleitzahlendaten welche auf [**suche-postleitzahl.org**](http://www.suche-postleitzahl.org) kostenlos heruntergeladen werden können.
 
 ### Liste aller Snippets
 
