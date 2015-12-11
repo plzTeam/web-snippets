@@ -21,7 +21,7 @@ Nachdem Sie in unserem PLZ-Verzeichnis Ihre gewünschten SVG-Karten heruntergela
         |-- berlin.svg
       |-- ...
       
-Danach müssen Sie die hinzugefügten PLZ-Karten dem Skript bekanntgeben, dazu öffnen Sie die Datei index.html und scrollen zum Scriptbereich:
+Danach müssen Sie die hinzugefügten PLZ-Karten dem Skript bekanntgeben, dazu öffnen Sie die Datei **index.html** und scrollen zum Scriptbereich:
 
 ```js
 var _maps = [
@@ -35,4 +35,15 @@ var _maps = [
     }
 ];
 ```
-Dort fügen Sie der Array-Liste Ihre Karten hinzu. Die Liste wird der Reihenfolge nach in das Kartenauswahlmenü geladen - **_name_** entspricht der Linkbezeichnung im Menü und über den Parameter **_url_** werden nach Menüauswahl die entsprechenden SVG-Karten geladen. Das erste Objekt in der Kartenliste wird direkt bei Anwendungsstart geladen.
+Dort fügen Sie der Array-Liste Ihre Karten hinzu. Die Liste wird der Reihenfolge nach in das Kartenauswahlmenü geladen - **_name_** entspricht der Linkbezeichnung im Menü und über den Parameter **_url_** werden nach Menüauswahl die entsprechenden SVG-Karten geladen. Das erste Objekt in der Kartenliste wird direkt beim Anwendungsstart geladen.
+
+### Suchergebnisliste
+
+Die Ergebnisliste wird nach einem Klick auf eines der Posleitzahlengebiete angezeigt bzw. aktualisiert. Dieser Bereich wurde, mit kleiner Modifikation, aus dem schon vorhandenen [PLZ-Suche Snippet](https://github.com/plzTeam/web-snippets/tree/master/plz-suche) entnommen.
+
+
+#### Feedback & Anregungen
+
+Wir würden uns sehr über Fragen und Rückmeldungen freuen
+
+> https://github.com/plzTeam/web-snippets/issues
