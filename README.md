@@ -8,7 +8,7 @@ Hier finden Sie Einbindungsmöglichkeiten von Postleitzahlendaten welche auf [**
 > Eine einfache Postleitzahlensuche: Die Suchabfrage läuft komplett clientseitig und es wird keine serverseitige Sprache wie PHP benötigt. [[...]](https://github.com/plzTeam/web-snippets/tree/master/plz-suche "PLZ Suche zum Einbinden")
 
 ### [**Interaktive PLZ Karte**](https://github.com/plzTeam/web-snippets/tree/master/plz-karte)
-> Über diese Anwendung können individuelle Postleitzahlenkarten im SVG-Format, zur interaktiven Nutzung, angezeigt werden. Bei PLZ-Gebietsauswahl wird eine Ergebnisliste mit entspechender Ortszugehörigkeit angezeigt. [[...]](https://github.com/plzTeam/web-snippets/tree/master/plz-karte "Interaktive Postleitzahlenkarte")
+> Über diese Anwendung können individuelle Postleitzahlenkarten im SVG-Format, zur interaktiven Nutzung, angezeigt werden. Bei PLZ-Gebietsauswahl wird eine Ergebnisliste mit entspechender Ortszugehörigkeit eingeblendet. [[...]](https://github.com/plzTeam/web-snippets/tree/master/plz-karte "Interaktive Postleitzahlenkarte")
 
 
 ### Grundaufbau aller Codebeispiele
