@@ -1,4 +1,4 @@
-# Codebeispiele zur Einbindung in Websites
+## PLZ-Daten zur Einbindung in Websites
 
 Hier finden Sie Einbindungsmöglichkeiten von Postleitzahlendaten welche auf [**suche-postleitzahl.org**](http://www.suche-postleitzahl.org) kostenlos heruntergeladen werden können.
 
