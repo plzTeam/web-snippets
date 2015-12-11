@@ -35,7 +35,7 @@ var _maps = [
     }
 ];
 ```
-Dort fügen Sie der Array-Liste Ihre Karten hinzu. Die Liste wird der Reihenfolge nach in das Kartenauswahlmenü geladen - **_name_** entspricht der Linkbezeichnung im Menü und über den Parameter **_url_** werden nach Menüauswahl die entsprechenden SVG-Karten geladen. Das erste Objekt in der Kartenliste wird direkt beim Anwendungsstart geladen.
+Dort fügen Sie der Array-Liste Ihre Karten hinzu. Die Liste wird der Reihenfolge nach in das Kartenauswahlmenü geladen - **_name_** entspricht der Linkbezeichnung im Menü und über den Parameter **_url_** wird nach Menüauswahl die angegebene SVG-Karte geladen. Das erste Objekt in der Kartenliste wird direkt beim Anwendungsstart geladen.
 
 ### Suchergebnisliste
 
