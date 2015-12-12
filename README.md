@@ -17,6 +17,6 @@ Damit alle Beispiele ein solides Layout erhalten und über Javascript ohne groß
 
 Source                      | CDN
 :--------------------------- | :--------------------------------------------------------------------
-jQuery                       | [//code.jquery.com/jquery-1.11.3.min.js](//code.jquery.com/jquery-1.11.3.min.js)
-Bootstrap                    | [http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js](https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js)
-                             | [http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css](http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css)
+jQuery                       | http://code.jquery.com/jquery-1.11.3.min.js
+Bootstrap                    | http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
+                             | http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
