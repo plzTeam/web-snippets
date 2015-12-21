@@ -39,7 +39,7 @@ Dort fügen Sie der Array-Liste Ihre Karten hinzu. Die Liste wird der Reihenfolg
 
 ### Suchergebnisliste
 
-Die Ergebnisliste wird nach einem Klick auf eines der Posleitzahlengebiete angezeigt bzw. aktualisiert. Dieser Bereich wurde, mit kleiner Modifikation, aus dem schon vorhandenen [PLZ-Suche Snippet](https://github.com/plzTeam/web-snippets/tree/master/plz-suche) entnommen.
+Die Ergebnisliste wird nach einem Klick auf eines der Postleitzahlengebiete angezeigt bzw. aktualisiert. Dieser Bereich wurde, mit kleiner Modifikation, aus dem schon vorhandenen [PLZ-Suche Snippet](https://github.com/plzTeam/web-snippets/tree/master/plz-suche) entnommen.
 
 
 #### Feedback & Anregungen
