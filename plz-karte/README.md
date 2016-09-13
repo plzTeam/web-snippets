@@ -9,7 +9,7 @@ Mit diesem Skript-Beispiel können Sie interaktive Postleitzahlenkarten, inklusi
 
 ### Datenquelle & Format der verwendeten PLZ-Karten
 
-Die im Codebeispiel verwendeten Karten sind im [SVG-Format](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics "Wikipedia") und können nach Ihren Wünschen ausgetauscht werden. Eine große Auswahl finden Sie auf allen Ortsseiten von [suche-postleitzahl.org](http://www.suche-postleitzahl.org) über den Button "Verfügbare Downloads" - Die Rohdaten stammen von **OpenStreetMap** und können unter Einhaltung der [Lizenz](http://www.openstreetmap.org/copyright) frei genutzt werden.
+Die im Codebeispiel verwendeten Karten sind im [SVG-Format](https://de.wikipedia.org/wiki/Scalable_Vector_Graphics "Wikipedia") und können nach Ihren Wünschen ausgetauscht werden. Eine große Auswahl finden Sie auf allen Ortsseiten von [suche-postleitzahl.org](https://www.suche-postleitzahl.org) über den Button "Verfügbare Downloads" - Die Rohdaten stammen von **OpenStreetMap** und können unter Einhaltung der [Lizenz](http://www.openstreetmap.org/copyright) frei genutzt werden.
 
 #### SVG Karten hinzufügen
 
