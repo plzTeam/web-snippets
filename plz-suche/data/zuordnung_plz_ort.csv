@@ -52,12 +52,9 @@ osm_id,ort,plz,bundesland
 1246784,Adenbach,67742,Rheinland-Pfalz
 1363679,Adenbüttel,38528,Niedersachsen
 1392133,Adendorf,21365,Niedersachsen
-1182650,Adenstedt,31079,Niedersachsen
-55756,Adlershof,12487,Berlin
-55756,Adlershof,12489,Berlin
 191347,Adlkofen,84166,Bayern
 391131,Admannshagen-Bargeshagen,18211,Mecklenburg-Vorpommern
-443610,Adorf,08626,Sachsen
+443610,Adorf/Vogtland,08626,Sachsen
 448016,Aebtissinwisch,25572,Schleswig-Holstein
 1169356,Aerzen,31855,Niedersachsen
 405290,Affalterbach,71563,Baden-Württemberg
@@ -155,10 +152,10 @@ osm_id,ort,plz,bundesland
 396563,Alkersleben,99310,Thüringen
 1428588,Alkersum,25938,Schleswig-Holstein
 1245131,Allenbach,55758,Rheinland-Pfalz
-418611,Allendorf,35469,Hessen
 443591,Allendorf,35108,Hessen
 539713,Allendorf,56370,Rheinland-Pfalz
 1273287,Allendorf,07426,Thüringen
+418611,Allendorf (Lumda),35469,Hessen
 1244219,Allenfeld,55595,Rheinland-Pfalz
 2784841,Allensbach,78476,Baden-Württemberg
 158406,Allersberg,90584,Bayern
@@ -172,7 +169,6 @@ osm_id,ort,plz,bundesland
 2397385,Allstedt,06542,Sachsen-Anhalt
 1567454,Almdorf,25821,Schleswig-Holstein
 418894,Almersbach,57610,Rheinland-Pfalz
-1182648,Almstedt,31079,Niedersachsen
 58618,Alpen,46519,Nordrhein-Westfalen
 453150,Alpenrod,57642,Rheinland-Pfalz
 453150,Alpenrod,57647,Rheinland-Pfalz
@@ -228,7 +224,7 @@ osm_id,ort,plz,bundesland
 418895,Altenkirchen (Westerwald),57610,Rheinland-Pfalz
 382409,Altenkrempe,23730,Schleswig-Holstein
 1026858,Altenkunstadt,96264,Bayern
-941639,Altenmarkt a.d. Alz,83352,Bayern
+941639,Altenmarkt an der Alz,83352,Bayern
 1460228,Altenmedingen,29575,Niedersachsen
 447188,Altenmoor,25335,Schleswig-Holstein
 452561,Altenmünster,86450,Bayern
@@ -237,7 +233,7 @@ osm_id,ort,plz,bundesland
 450108,Altenstadt,63674,Hessen
 936742,Altenstadt,86972,Bayern
 941073,Altenstadt,89281,Bayern
-1059433,Altenstadt a.d.Waldnaab,92665,Bayern
+1059433,Altenstadt an der Waldnaab,92665,Bayern
 1174479,Altensteig,72213,Baden-Württemberg
 964624,Altenthann,93177,Bayern
 1427888,Altentreptow,17087,Mecklenburg-Vorpommern
@@ -245,15 +241,11 @@ osm_id,ort,plz,bundesland
 2829503,Altersbach,98587,Thüringen
 180669,Altertheim,97237,Bayern
 191496,Altfraunhofen,84169,Bayern
-162913,Altglienicke,12524,Berlin
 933521,Althegnenberg,82278,Bayern
 2802280,Altheim,88499,Baden-Württemberg
 2803632,Altheim,89605,Baden-Württemberg
 2790973,Altheim (Alb),89174,Baden-Württemberg
 933498,Althengstett,75382,Baden-Württemberg
-409203,Alt-Hohenschönhausen,13051,Berlin
-409203,Alt-Hohenschönhausen,13053,Berlin
-409203,Alt-Hohenschönhausen,13055,Berlin
 1250687,Althornbach,66484,Rheinland-Pfalz
 400938,Althütte,71566,Baden-Württemberg
 1318343,Althüttendorf,16247,Brandenburg
@@ -273,23 +265,6 @@ osm_id,ort,plz,bundesland
 414485,Altmittweida,09648,Sachsen
 1467346,Alt Mölln,23881,Schleswig-Holstein
 167317,Altomünster,85250,Bayern
-30223,Altona,20257,Hamburg
-30223,Altona,20357,Hamburg
-30223,Altona,20359,Hamburg
-30223,Altona,22525,Hamburg
-30223,Altona,22547,Hamburg
-30223,Altona,22549,Hamburg
-30223,Altona,22559,Hamburg
-30223,Altona,22587,Hamburg
-30223,Altona,22589,Hamburg
-30223,Altona,22605,Hamburg
-30223,Altona,22607,Hamburg
-30223,Altona,22609,Hamburg
-30223,Altona,22761,Hamburg
-30223,Altona,22763,Hamburg
-30223,Altona,22765,Hamburg
-30223,Altona,22767,Hamburg
-30223,Altona,22769,Hamburg
 942029,Altötting,84503,Bayern
 1259135,Altrich,54518,Rheinland-Pfalz
 418402,Altrip,67122,Rheinland-Pfalz
@@ -299,7 +274,6 @@ osm_id,ort,plz,bundesland
 1269731,Altstrimmig,56858,Rheinland-Pfalz
 1996945,Alt Sührkow,17166,Mecklenburg-Vorpommern
 1427539,Alt Tellin,17129,Mecklenburg-Vorpommern
-55762,Alt-Treptow,12435,Berlin
 1332921,Alt Tucheband,15328,Brandenburg
 957781,Altusried,87452,Bayern
 1408065,Altwarp,17375,Mecklenburg-Vorpommern
@@ -402,9 +376,7 @@ osm_id,ort,plz,bundesland
 534472,Arnshöfen,56244,Rheinland-Pfalz
 393582,Arnstadt,99310,Thüringen
 336476,Arnstein,97450,Bayern
-2408603,Arnstein,06333,Sachsen-Anhalt
 2408603,Arnstein,06456,Sachsen-Anhalt
-2408603,Arnstein,06543,Sachsen-Anhalt
 957058,Arnstorf,94424,Bayern
 553601,Arpsdorf,24634,Schleswig-Holstein
 959919,Arrach,93474,Bayern
@@ -458,10 +430,10 @@ osm_id,ort,plz,bundesland
 1244153,Auen,55569,Rheinland-Pfalz
 1263898,Auengrund,98673,Thüringen
 400935,Auenwald,71549,Baden-Württemberg
-444398,Auerbach,08209,Sachsen
 536016,Auerbach,09392,Sachsen
 959825,Auerbach,94530,Bayern
 1028547,Auerbach in der Oberpfalz,91275,Bayern
+444398,Auerbach/Vogtland,08209,Sachsen
 1169353,Auetal,31749,Niedersachsen
 966625,Aufhausen,93089,Bayern
 1070999,Aufseß,91347,Bayern
@@ -535,7 +507,7 @@ osm_id,ort,plz,bundesland
 1252824,Bad Bergzabern,76887,Rheinland-Pfalz
 2856985,Bad Berka,99438,Thüringen
 1891507,Bad Berleburg,57319,Nordrhein-Westfalen
-1070989,Bad Berneck i.Fichtelgebirge,95460,Bayern
+1070989,Bad Berneck im Fichtelgebirge,95460,Bayern
 1269808,Bad Bertrich,56864,Rheinland-Pfalz
 1460241,Bad Bevensen,29549,Niedersachsen
 2402429,Bad Bibra,06647,Sachsen-Anhalt
@@ -552,7 +524,9 @@ osm_id,ort,plz,bundesland
 324314,Bad Camberg,65520,Hessen
 1270319,Bad Colberg-Heldburg,98663,Thüringen
 1432674,Baddeckenstedt,38271,Niedersachsen
+2772178,Bad Ditzenbach,73312,Baden-Württemberg
 2772178,Bad Ditzenbach,73342,Baden-Württemberg
+2772178,Bad Ditzenbach,73345,Baden-Württemberg
 394348,Bad Doberan,18209,Mecklenburg-Vorpommern
 148591,Bad Driburg,33014,Nordrhein-Westfalen
 445993,Bad Düben,04849,Sachsen
@@ -603,7 +577,7 @@ osm_id,ort,plz,bundesland
 2778356,Bad Klosterlausnitz,07639,Thüringen
 937894,Bad Kohlgrub,82433,Bayern
 451777,Bad König,64732,Hessen
-387529,Bad Königshofen i.Grabfeld,97631,Bayern
+387529,Bad Königshofen im Grabfeld,97631,Bayern
 2501390,Bad Köstritz,07586,Thüringen
 959885,Bad Kötzting,93444,Bayern
 611084,Bad Kreuznach,55543,Rheinland-Pfalz
@@ -613,7 +587,6 @@ osm_id,ort,plz,bundesland
 163247,Bad Laasphe,57334,Nordrhein-Westfalen
 1418992,Bad Laer,49196,Niedersachsen
 2874751,Bad Langensalza,99947,Thüringen
-2406473,Bad Lauchstädt,06246,Sachsen-Anhalt
 422335,Bad Lausick,04651,Sachsen
 1416144,Bad Lauterberg,37431,Niedersachsen
 2498094,Bad Liebenstein,36448,Thüringen
@@ -627,7 +600,7 @@ osm_id,ort,plz,bundesland
 402687,Bad Mergentheim,97980,Baden-Württemberg
 367045,Bad Münder am Deister,31848,Niedersachsen
 158145,Bad Münstereifel,53902,Nordrhein-Westfalen
-1310515,Bad Muskau,02953,Sachsen
+1310515,Bad Muskau - Mužakow,02953,Sachsen
 167408,Bad Nauheim,61231,Hessen
 1169366,Bad Nenndorf,31542,Niedersachsen
 378389,Bad Neuenahr-Ahrweiler,53474,Rheinland-Pfalz
@@ -654,6 +627,9 @@ osm_id,ort,plz,bundesland
 142623,Bad Salzuflen,32107,Nordrhein-Westfalen
 142623,Bad Salzuflen,32108,Nordrhein-Westfalen
 2874389,Bad Salzungen,36433,Thüringen
+2874389,Bad Salzungen,36460,Thüringen
+2874389,Bad Salzungen,36469,Thüringen
+2874389,Bad Salzungen,99819,Thüringen
 153518,Bad Sassendorf,59505,Nordrhein-Westfalen
 2805478,Bad Saulgau,88348,Baden-Württemberg
 534534,Bad Schandau,01814,Sachsen
@@ -670,9 +646,9 @@ osm_id,ort,plz,bundesland
 549414,Bad Sooden-Allendorf,37242,Hessen
 1026857,Bad Staffelstein,96231,Bayern
 1021713,Bad Steben,95138,Bayern
-2856440,Bad Sulza,99510,Thüringen
 2856440,Bad Sulza,99518,Thüringen
 372885,Bad Sülze,18334,Mecklenburg-Vorpommern
+2816590,Bad Tabarz,99891,Thüringen
 1183355,Bad Teinach-Zavelstein,75385,Baden-Württemberg
 2895776,Bad Tennstedt,99955,Thüringen
 935181,Bad Tölz,83646,Bayern
@@ -740,7 +716,6 @@ osm_id,ort,plz,bundesland
 1253822,Bann,66851,Rheinland-Pfalz
 535124,Bannberscheid,56424,Rheinland-Pfalz
 455481,Bannewitz,01728,Sachsen
-1168915,Banteln,31029,Niedersachsen
 449928,Banzkow,19079,Mecklenburg-Vorpommern
 1252836,Barbelroth,76889,Rheinland-Pfalz
 964619,Barbing,93092,Bayern
@@ -811,13 +786,11 @@ osm_id,ort,plz,bundesland
 1959686,Baumgarten,18246,Mecklenburg-Vorpommern
 1959686,Baumgarten,18249,Mecklenburg-Vorpommern
 1245060,Baumholder,55774,Rheinland-Pfalz
-55760,Baumschulenweg,12437,Berlin
-55760,Baumschulenweg,12487,Berlin
 1077543,Baunach,96148,Bayern
 533536,Baunatal,34225,Hessen
 1258631,Bausendorf,54538,Rheinland-Pfalz
 1152671,Baustert,54636,Rheinland-Pfalz
-1309674,Bautzen,02625,Sachsen
+1309674,Bautzen - Budyšin,02625,Sachsen
 1809876,Bawinkel,49844,Niedersachsen
 957056,Bayerbach,94137,Bayern
 179066,Bayerbach b. Ergoldsbach,84092,Bayern
@@ -855,7 +828,6 @@ osm_id,ort,plz,bundesland
 152282,Beelen,48361,Nordrhein-Westfalen
 531653,Beelitz,14547,Brandenburg
 1286629,Beendorf,39343,Sachsen-Anhalt
-451801,Beerfelden,64743,Hessen
 1384849,Beeskow,15848,Brandenburg
 2006778,Beesten,49832,Niedersachsen
 1285606,Beetzendorf,38489,Sachsen-Anhalt
@@ -939,17 +911,9 @@ osm_id,ort,plz,bundesland
 2397458,Berga,06536,Sachsen-Anhalt
 2786785,Berga/Elster,07980,Thüringen
 289113,Bergatreute,88368,Baden-Württemberg
-1028810,Berg bei Neumarkt in der Oberpfalz,92348,Bayern
+1028810,Berg b.Neumarkt i.d.OPf.,92348,Bayern
 1289818,Berge,19348,Brandenburg
 1808615,Berge,49626,Niedersachsen
-28936,Bergedorf,21029,Hamburg
-28936,Bergedorf,21031,Hamburg
-28936,Bergedorf,21033,Hamburg
-28936,Bergedorf,21035,Hamburg
-28936,Bergedorf,21037,Hamburg
-28936,Bergedorf,21039,Hamburg
-28936,Bergedorf,22113,Hamburg
-28936,Bergedorf,22115,Hamburg
 444285,Bergen,08239,Sachsen
 941749,Bergen,83346,Bayern
 1015148,Bergen,91790,Bayern
@@ -995,6 +959,196 @@ osm_id,ort,plz,bundesland
 2801244,Berkheim,88450,Baden-Württemberg
 1334101,Berkholz-Meyenburg,16306,Brandenburg
 1171853,Berkoth,54673,Rheinland-Pfalz
+62422,Berlin,10115,Berlin
+62422,Berlin,10117,Berlin
+62422,Berlin,10119,Berlin
+62422,Berlin,10178,Berlin
+62422,Berlin,10179,Berlin
+62422,Berlin,10243,Berlin
+62422,Berlin,10245,Berlin
+62422,Berlin,10247,Berlin
+62422,Berlin,10249,Berlin
+62422,Berlin,10315,Berlin
+62422,Berlin,10317,Berlin
+62422,Berlin,10318,Berlin
+62422,Berlin,10319,Berlin
+62422,Berlin,10365,Berlin
+62422,Berlin,10367,Berlin
+62422,Berlin,10369,Berlin
+62422,Berlin,10405,Berlin
+62422,Berlin,10407,Berlin
+62422,Berlin,10409,Berlin
+62422,Berlin,10435,Berlin
+62422,Berlin,10437,Berlin
+62422,Berlin,10439,Berlin
+62422,Berlin,10551,Berlin
+62422,Berlin,10553,Berlin
+62422,Berlin,10555,Berlin
+62422,Berlin,10557,Berlin
+62422,Berlin,10559,Berlin
+62422,Berlin,10585,Berlin
+62422,Berlin,10587,Berlin
+62422,Berlin,10589,Berlin
+62422,Berlin,10623,Berlin
+62422,Berlin,10625,Berlin
+62422,Berlin,10627,Berlin
+62422,Berlin,10629,Berlin
+62422,Berlin,10707,Berlin
+62422,Berlin,10709,Berlin
+62422,Berlin,10711,Berlin
+62422,Berlin,10713,Berlin
+62422,Berlin,10715,Berlin
+62422,Berlin,10717,Berlin
+62422,Berlin,10719,Berlin
+62422,Berlin,10777,Berlin
+62422,Berlin,10779,Berlin
+62422,Berlin,10781,Berlin
+62422,Berlin,10783,Berlin
+62422,Berlin,10785,Berlin
+62422,Berlin,10787,Berlin
+62422,Berlin,10789,Berlin
+62422,Berlin,10823,Berlin
+62422,Berlin,10825,Berlin
+62422,Berlin,10827,Berlin
+62422,Berlin,10829,Berlin
+62422,Berlin,10961,Berlin
+62422,Berlin,10963,Berlin
+62422,Berlin,10965,Berlin
+62422,Berlin,10967,Berlin
+62422,Berlin,10969,Berlin
+62422,Berlin,10997,Berlin
+62422,Berlin,10999,Berlin
+62422,Berlin,12043,Berlin
+62422,Berlin,12045,Berlin
+62422,Berlin,12047,Berlin
+62422,Berlin,12049,Berlin
+62422,Berlin,12051,Berlin
+62422,Berlin,12053,Berlin
+62422,Berlin,12055,Berlin
+62422,Berlin,12057,Berlin
+62422,Berlin,12059,Berlin
+62422,Berlin,12099,Berlin
+62422,Berlin,12101,Berlin
+62422,Berlin,12103,Berlin
+62422,Berlin,12105,Berlin
+62422,Berlin,12107,Berlin
+62422,Berlin,12109,Berlin
+62422,Berlin,12157,Berlin
+62422,Berlin,12159,Berlin
+62422,Berlin,12161,Berlin
+62422,Berlin,12163,Berlin
+62422,Berlin,12165,Berlin
+62422,Berlin,12167,Berlin
+62422,Berlin,12169,Berlin
+62422,Berlin,12203,Berlin
+62422,Berlin,12205,Berlin
+62422,Berlin,12207,Berlin
+62422,Berlin,12209,Berlin
+62422,Berlin,12247,Berlin
+62422,Berlin,12249,Berlin
+62422,Berlin,12277,Berlin
+62422,Berlin,12279,Berlin
+62422,Berlin,12305,Berlin
+62422,Berlin,12307,Berlin
+62422,Berlin,12309,Berlin
+62422,Berlin,12347,Berlin
+62422,Berlin,12349,Berlin
+62422,Berlin,12351,Berlin
+62422,Berlin,12353,Berlin
+62422,Berlin,12355,Berlin
+62422,Berlin,12357,Berlin
+62422,Berlin,12359,Berlin
+62422,Berlin,12435,Berlin
+62422,Berlin,12437,Berlin
+62422,Berlin,12439,Berlin
+62422,Berlin,12459,Berlin
+62422,Berlin,12487,Berlin
+62422,Berlin,12489,Berlin
+62422,Berlin,12524,Berlin
+62422,Berlin,12526,Berlin
+62422,Berlin,12527,Berlin
+62422,Berlin,12555,Berlin
+62422,Berlin,12557,Berlin
+62422,Berlin,12559,Berlin
+62422,Berlin,12587,Berlin
+62422,Berlin,12589,Berlin
+62422,Berlin,12619,Berlin
+62422,Berlin,12621,Berlin
+62422,Berlin,12623,Berlin
+62422,Berlin,12627,Berlin
+62422,Berlin,12629,Berlin
+62422,Berlin,12679,Berlin
+62422,Berlin,12681,Berlin
+62422,Berlin,12683,Berlin
+62422,Berlin,12685,Berlin
+62422,Berlin,12687,Berlin
+62422,Berlin,12689,Berlin
+62422,Berlin,13051,Berlin
+62422,Berlin,13053,Berlin
+62422,Berlin,13055,Berlin
+62422,Berlin,13057,Berlin
+62422,Berlin,13059,Berlin
+62422,Berlin,13086,Berlin
+62422,Berlin,13088,Berlin
+62422,Berlin,13089,Berlin
+62422,Berlin,13125,Berlin
+62422,Berlin,13127,Berlin
+62422,Berlin,13129,Berlin
+62422,Berlin,13156,Berlin
+62422,Berlin,13158,Berlin
+62422,Berlin,13159,Berlin
+62422,Berlin,13187,Berlin
+62422,Berlin,13189,Berlin
+62422,Berlin,13347,Berlin
+62422,Berlin,13349,Berlin
+62422,Berlin,13351,Berlin
+62422,Berlin,13353,Berlin
+62422,Berlin,13355,Berlin
+62422,Berlin,13357,Berlin
+62422,Berlin,13359,Berlin
+62422,Berlin,13403,Berlin
+62422,Berlin,13405,Berlin
+62422,Berlin,13407,Berlin
+62422,Berlin,13409,Berlin
+62422,Berlin,13435,Berlin
+62422,Berlin,13437,Berlin
+62422,Berlin,13439,Berlin
+62422,Berlin,13465,Berlin
+62422,Berlin,13467,Berlin
+62422,Berlin,13469,Berlin
+62422,Berlin,13503,Berlin
+62422,Berlin,13505,Berlin
+62422,Berlin,13507,Berlin
+62422,Berlin,13509,Berlin
+62422,Berlin,13581,Berlin
+62422,Berlin,13583,Berlin
+62422,Berlin,13585,Berlin
+62422,Berlin,13587,Berlin
+62422,Berlin,13589,Berlin
+62422,Berlin,13591,Berlin
+62422,Berlin,13593,Berlin
+62422,Berlin,13595,Berlin
+62422,Berlin,13597,Berlin
+62422,Berlin,13599,Berlin
+62422,Berlin,13627,Berlin
+62422,Berlin,13629,Berlin
+62422,Berlin,14050,Berlin
+62422,Berlin,14052,Berlin
+62422,Berlin,14053,Berlin
+62422,Berlin,14055,Berlin
+62422,Berlin,14057,Berlin
+62422,Berlin,14059,Berlin
+62422,Berlin,14089,Berlin
+62422,Berlin,14109,Berlin
+62422,Berlin,14129,Berlin
+62422,Berlin,14163,Berlin
+62422,Berlin,14165,Berlin
+62422,Berlin,14167,Berlin
+62422,Berlin,14169,Berlin
+62422,Berlin,14193,Berlin
+62422,Berlin,14195,Berlin
+62422,Berlin,14197,Berlin
+62422,Berlin,14199,Berlin
 1074559,Berlingen,54570,Rheinland-Pfalz
 2393736,Berlingerode,37339,Thüringen
 2856988,Berlstedt,99439,Thüringen
@@ -1047,7 +1201,6 @@ osm_id,ort,plz,bundesland
 379883,Bessenbach,63856,Bayern
 1352904,Bestensee,15741,Brandenburg
 157422,Bestwig,59909,Nordrhein-Westfalen
-1168900,Betheln,31032,Niedersachsen
 2532075,Bethenhausen,07554,Thüringen
 949970,Betteldorf,54570,Rheinland-Pfalz
 540445,Bettendorf,56355,Rheinland-Pfalz
@@ -1060,7 +1213,6 @@ osm_id,ort,plz,bundesland
 957714,Betzigau,87488,Bayern
 1182317,Beulich,56283,Rheinland-Pfalz
 1269814,Beuren,56825,Rheinland-Pfalz
-1269814,Beuren,56864,Rheinland-Pfalz
 2795771,Beuren,72660,Baden-Württemberg
 1257087,Beuren (Hochwald),54413,Rheinland-Pfalz
 2805752,Beuron,88631,Baden-Württemberg
@@ -1070,8 +1222,8 @@ osm_id,ort,plz,bundesland
 2012142,Beverstedt,27616,Niedersachsen
 148589,Beverungen,37688,Nordrhein-Westfalen
 1184820,Bexbach,66450,Saarland
-3375478,Biberach,77781,Baden-Württemberg
 2801346,Biberach an der Riß,88400,Baden-Württemberg
+3375478,Biberach (Baden),77781,Baden-Württemberg
 445867,Biberbach,86485,Bayern
 964469,Bibertal,89346,Bayern
 537048,Biblis,68647,Hessen
@@ -1116,11 +1268,9 @@ osm_id,ort,plz,bundesland
 62646,Bielefeld,33729,Nordrhein-Westfalen
 62646,Bielefeld,33739,Nordrhein-Westfalen
 394328,Biendorf,18230,Mecklenburg-Vorpommern
-394328,Biendorf,18233,Mecklenburg-Vorpommern
 1460238,Bienenbüttel,29553,Niedersachsen
 2818331,Bienstädt,99100,Thüringen
 1152700,Biersdorf am See,54636,Rheinland-Pfalz
-409208,Biesdorf,12683,Berlin
 1171874,Biesdorf,54675,Rheinland-Pfalz
 1318341,Biesenthal,16359,Brandenburg
 447976,Biessenhofen,87640,Bayern
@@ -1206,14 +1356,10 @@ osm_id,ort,plz,bundesland
 534001,Blankenbach,63825,Bayern
 449945,Blankenberg,19412,Mecklenburg-Vorpommern
 2179149,Blankenberg,07366,Thüringen
-408307,Blankenburg,13051,Berlin
-408307,Blankenburg,13129,Berlin
 1352949,Blankenburg,06502,Sachsen-Anhalt
 1352949,Blankenburg,38889,Sachsen-Anhalt
 1352949,Blankenburg,38895,Sachsen-Anhalt
 2903159,Blankenburg,99955,Thüringen
-408305,Blankenfelde,13127,Berlin
-408305,Blankenfelde,13159,Berlin
 55770,Blankenfelde-Mahlow,15827,Brandenburg
 55770,Blankenfelde-Mahlow,15831,Brandenburg
 393348,Blankenhagen,18182,Mecklenburg-Vorpommern
@@ -1252,9 +1398,6 @@ osm_id,ort,plz,bundesland
 2785259,Blumberg,78176,Baden-Württemberg
 1419599,Blumenholz,17237,Mecklenburg-Vorpommern
 548510,Blumenthal,24241,Schleswig-Holstein
-1114214,Blumenthal,28755,Bremen
-1114214,Blumenthal,28777,Bremen
-1114214,Blumenthal,28779,Bremen
 442927,Blunk,23813,Schleswig-Holstein
 2778357,Bobeck,07646,Thüringen
 1249952,Bobenheim am Berg,67273,Rheinland-Pfalz
@@ -1333,7 +1476,6 @@ osm_id,ort,plz,bundesland
 1405507,Bohmstedt,25853,Schleswig-Holstein
 1931067,Bohmte,49163,Niedersachsen
 548511,Böhnhusen,24220,Schleswig-Holstein
-410444,Bohnsdorf,12526,Berlin
 1515661,Boiensdorf,23974,Mecklenburg-Vorpommern
 1924097,Boitze,21368,Niedersachsen
 1334092,Boitzenburger Land,17268,Brandenburg
@@ -1411,7 +1553,6 @@ osm_id,ort,plz,bundesland
 1891489,Borgentreich,34434,Nordrhein-Westfalen
 1474267,Börger,26904,Niedersachsen
 395725,Börgerende-Rethwisch,18211,Mecklenburg-Vorpommern
-1126017,Borgfeld,28357,Bremen
 138696,Borgholzhausen,33829,Nordrhein-Westfalen
 548609,Borgstedt,24794,Schleswig-Holstein
 1428594,Borgsum,25938,Schleswig-Holstein
@@ -1435,7 +1576,7 @@ osm_id,ort,plz,bundesland
 556121,Bornholt,25725,Schleswig-Holstein
 405629,Bornhöved,24619,Schleswig-Holstein
 539913,Bornich,56348,Rheinland-Pfalz
-422346,Börnichen,09437,Sachsen
+422346,Börnichen/Erzgebirge,09437,Sachsen
 156829,Börnsen,21039,Schleswig-Holstein
 2409458,Bornstedt,06295,Sachsen-Anhalt
 453153,Borod,57614,Rheinland-Pfalz
@@ -1444,7 +1585,6 @@ osm_id,ort,plz,bundesland
 1246484,Börsborn,66904,Rheinland-Pfalz
 422923,Borsdorf,04451,Sachsen
 447197,Borsfleth,25376,Schleswig-Holstein
-2212056,Borsigwalde,13509,Berlin
 2791017,Börslingen,89177,Baden-Württemberg
 1432654,Börßum,38312,Niedersachsen
 423189,Borstel,24616,Schleswig-Holstein
@@ -1478,7 +1618,7 @@ osm_id,ort,plz,bundesland
 1399079,Bovenden,37120,Niedersachsen
 402685,Boxberg,97944,Baden-Württemberg
 1075140,Boxberg,54552,Rheinland-Pfalz
-1310637,Boxberg,02943,Sachsen
+1310637,Boxberg/O.L. - Hamor,02943,Sachsen
 1156033,Böxlund,24994,Schleswig-Holstein
 454245,Braak,22145,Schleswig-Holstein
 422319,Brachbach,57555,Rheinland-Pfalz
@@ -1534,7 +1674,6 @@ osm_id,ort,plz,bundesland
 1204727,Braunshorn,56288,Rheinland-Pfalz
 1244224,Braunweiler,55595,Rheinland-Pfalz
 1244120,Brauweiler,55606,Rheinland-Pfalz
-1149239,Brebel,24392,Schleswig-Holstein
 413578,Brechen,65611,Hessen
 1152691,Brecht,54636,Rheinland-Pfalz
 1814897,Breckerfeld,58339,Nordrhein-Westfalen
@@ -1581,6 +1720,40 @@ osm_id,ort,plz,bundesland
 557139,Brekendorf,24811,Schleswig-Holstein
 1571761,Breklum,25821,Schleswig-Holstein
 539700,Bremberg,56370,Rheinland-Pfalz
+62559,Bremen,27568,Bremen
+62559,Bremen,28195,Bremen
+62559,Bremen,28197,Bremen
+62559,Bremen,28199,Bremen
+62559,Bremen,28201,Bremen
+62559,Bremen,28203,Bremen
+62559,Bremen,28205,Bremen
+62559,Bremen,28207,Bremen
+62559,Bremen,28209,Bremen
+62559,Bremen,28211,Bremen
+62559,Bremen,28213,Bremen
+62559,Bremen,28215,Bremen
+62559,Bremen,28217,Bremen
+62559,Bremen,28219,Bremen
+62559,Bremen,28237,Bremen
+62559,Bremen,28239,Bremen
+62559,Bremen,28259,Bremen
+62559,Bremen,28277,Bremen
+62559,Bremen,28279,Bremen
+62559,Bremen,28307,Bremen
+62559,Bremen,28309,Bremen
+62559,Bremen,28325,Bremen
+62559,Bremen,28327,Bremen
+62559,Bremen,28329,Bremen
+62559,Bremen,28355,Bremen
+62559,Bremen,28357,Bremen
+62559,Bremen,28359,Bremen
+62559,Bremen,28717,Bremen
+62559,Bremen,28719,Bremen
+62559,Bremen,28755,Bremen
+62559,Bremen,28757,Bremen
+62559,Bremen,28759,Bremen
+62559,Bremen,28777,Bremen
+62559,Bremen,28779,Bremen
 62658,Bremerhaven,27568,Bremen
 62658,Bremerhaven,27570,Bremen
 62658,Bremerhaven,27572,Bremen
@@ -1599,7 +1772,6 @@ osm_id,ort,plz,bundesland
 1451512,Bresegard bei Picher,19230,Mecklenburg-Vorpommern
 446431,Brest,21698,Niedersachsen
 2387555,Bretleben,06556,Thüringen
-1307642,Bretnig-Hauswalde,01900,Sachsen
 158352,Bretten,75015,Baden-Württemberg
 533247,Bretthausen,56479,Rheinland-Pfalz
 1243999,Bretzenheim,55559,Rheinland-Pfalz
@@ -1627,11 +1799,6 @@ osm_id,ort,plz,bundesland
 1152695,Brimingen,54646,Rheinland-Pfalz
 548584,Brinjahe,24816,Schleswig-Holstein
 2012928,Brinkum,26835,Niedersachsen
-162901,Britz,12099,Berlin
-162901,Britz,12347,Berlin
-162901,Britz,12349,Berlin
-162901,Britz,12351,Berlin
-162901,Britz,12359,Berlin
 1318356,Britz,16230,Brandenburg
 394337,Bröbberow,18258,Mecklenburg-Vorpommern
 965590,Brockel,27386,Niedersachsen
@@ -1640,7 +1807,7 @@ osm_id,ort,plz,bundesland
 1665293,Brockum,49448,Niedersachsen
 546624,Brodenbach,56332,Rheinland-Pfalz
 554514,Brodersby,24398,Schleswig-Holstein
-1149338,Brodersby,24864,Schleswig-Holstein
+8111524,Brodersby-Goltoft,24864,Schleswig-Holstein
 288262,Brodersdorf,24235,Schleswig-Holstein
 2676469,Broderstorf,18184,Mecklenburg-Vorpommern
 1266504,Brohl,56754,Rheinland-Pfalz
@@ -1677,7 +1844,6 @@ osm_id,ort,plz,bundesland
 449949,Brüel,19412,Mecklenburg-Vorpommern
 548515,Brügge,24582,Schleswig-Holstein
 88741,Brüggen,41379,Nordrhein-Westfalen
-1168918,Brüggen,31033,Niedersachsen
 2818241,Brüheim,99869,Thüringen
 168481,Brühl,50321,Nordrhein-Westfalen
 454167,Brühl,68782,Baden-Württemberg
@@ -1705,7 +1871,6 @@ osm_id,ort,plz,bundesland
 964471,Bubesheim,89347,Bayern
 1246779,Buborn,67742,Rheinland-Pfalz
 1231953,Bubsheim,78585,Baden-Württemberg
-408306,Buch,13125,Berlin
 540447,Buch,56357,Rheinland-Pfalz
 941086,Buch,89290,Bayern
 1204722,Buch,56290,Rheinland-Pfalz
@@ -1734,7 +1899,6 @@ osm_id,ort,plz,bundesland
 1169365,Buchholz,31710,Niedersachsen
 1469263,Buchholz,23911,Schleswig-Holstein
 1593428,Buchholz,17209,Mecklenburg-Vorpommern
-2400322,Buchholz,99762,Thüringen
 1808861,Buchholz (Aller),29690,Niedersachsen
 111406,Buchholz in der Nordheide,21244,Niedersachsen
 443468,Buchholz (Westerwald),53567,Rheinland-Pfalz
@@ -1745,16 +1909,7 @@ osm_id,ort,plz,bundesland
 1169355,Bückeburg,31675,Niedersachsen
 1183271,Bücken,27333,Niedersachsen
 1016514,Buckenhof,91054,Bayern
-162573,Buckow,12107,Berlin
-162573,Buckow,12305,Berlin
-162573,Buckow,12349,Berlin
-162573,Buckow,12351,Berlin
-162573,Buckow,12353,Berlin
-162573,Buckow,12357,Berlin
-162573,Buckow,12359,Berlin
 1332899,Buckow,15377,Brandenburg
-1446657,Büddenstedt,38350,Niedersachsen
-1446657,Büddenstedt,38372,Niedersachsen
 548571,Büdelsdorf,24782,Schleswig-Holstein
 1241633,Budenbach,55469,Rheinland-Pfalz
 660348,Budenheim,55257,Rheinland-Pfalz
@@ -1793,7 +1948,7 @@ osm_id,ort,plz,bundesland
 154557,Burg,39288,Sachsen-Anhalt
 1171866,Burg,54646,Rheinland-Pfalz
 964473,Burgau,89331,Bayern
-957861,Burgberg im Allgäu,87545,Bayern
+957861,Burgberg i.Allgäu,87545,Bayern
 356766,Burgbernheim,91593,Bayern
 1050575,Burgbrohl,56659,Rheinland-Pfalz
 943896,Burg (Dithmarschen),25712,Schleswig-Holstein
@@ -1814,11 +1969,6 @@ osm_id,ort,plz,bundesland
 415009,Burglahr,57632,Rheinland-Pfalz
 387468,Burglauer,97724,Bayern
 962186,Burglengenfeld,93133,Bayern
-1086527,Burglesum,28237,Bremen
-1086527,Burglesum,28717,Bremen
-1086527,Burglesum,28719,Bremen
-1086527,Burglesum,28757,Bremen
-1086527,Burglesum,28759,Bremen
 1261697,Burg (Mosel),56843,Rheinland-Pfalz
 534395,Burgoberbach,91595,Bayern
 388836,Burgpreppach,97496,Bayern
@@ -1840,7 +1990,7 @@ osm_id,ort,plz,bundesland
 1077564,Burgwindheim,96154,Bayern
 534185,Burk,91596,Bayern
 384334,Burkardroth,97705,Bayern
-1307624,Burkau,01906,Sachsen
+1307624,Burkau - Porchow,01906,Sachsen
 536008,Burkhardtsdorf,09235,Sachsen
 2778959,Burladingen,72393,Baden-Württemberg
 1427898,Burow,17089,Mecklenburg-Vorpommern
@@ -1880,7 +2030,7 @@ osm_id,ort,plz,bundesland
 1388878,Byhleguhre-Byhlen,15913,Brandenburg
 532370,Caan,56237,Rheinland-Pfalz
 2786726,Caaschwitz,07586,Thüringen
-1180882,Cadenberge,21781,Niedersachsen
+6683573,Cadenberge,21781,Niedersachsen
 1016404,Cadolzburg,90556,Bayern
 1322899,Calau,03205,Brandenburg
 1357630,Calberlah,38547,Niedersachsen
@@ -1915,27 +2065,6 @@ osm_id,ort,plz,bundesland
 960533,Cham,93413,Bayern
 961936,Chamerau,93466,Bayern
 537137,Charlottenberg,56379,Rheinland-Pfalz
-110126,Charlottenburg,10585,Berlin
-110126,Charlottenburg,10587,Berlin
-110126,Charlottenburg,10589,Berlin
-110126,Charlottenburg,10623,Berlin
-110126,Charlottenburg,10625,Berlin
-110126,Charlottenburg,10627,Berlin
-110126,Charlottenburg,10629,Berlin
-110126,Charlottenburg,10707,Berlin
-110126,Charlottenburg,10709,Berlin
-110126,Charlottenburg,10711,Berlin
-110126,Charlottenburg,10719,Berlin
-110126,Charlottenburg,10787,Berlin
-110126,Charlottenburg,10789,Berlin
-110126,Charlottenburg,14050,Berlin
-110126,Charlottenburg,14055,Berlin
-110126,Charlottenburg,14057,Berlin
-110126,Charlottenburg,14059,Berlin
-16346,Charlottenburg-Nord,10589,Berlin
-16346,Charlottenburg-Nord,13353,Berlin
-16346,Charlottenburg-Nord,13627,Berlin
-16346,Charlottenburg-Nord,13629,Berlin
 62594,Chemnitz,09111,Sachsen
 62594,Chemnitz,09112,Sachsen
 62594,Chemnitz,09113,Sachsen
@@ -1985,22 +2114,22 @@ osm_id,ort,plz,bundesland
 1419898,Cölpin,17094,Mecklenburg-Vorpommern
 1250686,Contwig,66497,Rheinland-Pfalz
 367050,Coppenbrügge,31863,Niedersachsen
-1168909,Coppengrave,31091,Niedersachsen
 238956,Cornberg,36219,Hessen
 207975,Coswig,01640,Sachsen
 934599,Coswig (Anhalt),06868,Sachsen-Anhalt
 934599,Coswig (Anhalt),06869,Sachsen-Anhalt
-62430,Cottbus,03042,Brandenburg
-62430,Cottbus,03044,Brandenburg
-62430,Cottbus,03046,Brandenburg
-62430,Cottbus,03048,Brandenburg
-62430,Cottbus,03050,Brandenburg
-62430,Cottbus,03051,Brandenburg
-62430,Cottbus,03052,Brandenburg
-62430,Cottbus,03053,Brandenburg
-62430,Cottbus,03054,Brandenburg
-62430,Cottbus,03055,Brandenburg
+62430,Cottbus - Chóśebuz,03042,Brandenburg
+62430,Cottbus - Chóśebuz,03044,Brandenburg
+62430,Cottbus - Chóśebuz,03046,Brandenburg
+62430,Cottbus - Chóśebuz,03048,Brandenburg
+62430,Cottbus - Chóśebuz,03050,Brandenburg
+62430,Cottbus - Chóśebuz,03051,Brandenburg
+62430,Cottbus - Chóśebuz,03052,Brandenburg
+62430,Cottbus - Chóśebuz,03053,Brandenburg
+62430,Cottbus - Chóśebuz,03054,Brandenburg
+62430,Cottbus - Chóśebuz,03055,Brandenburg
 390790,Crailsheim,74564,Baden-Württemberg
+390790,Crailsheim,74597,Baden-Württemberg
 537138,Cramberg,65558,Rheinland-Pfalz
 1432657,Cramme,38312,Niedersachsen
 1444884,Cramonshagen,19071,Mecklenburg-Vorpommern
@@ -2017,7 +2146,7 @@ osm_id,ort,plz,bundesland
 449933,Crivitz,19089,Mecklenburg-Vorpommern
 1246782,Cronenberg,67744,Rheinland-Pfalz
 2778362,Crossen an der Elster,07613,Thüringen
-1307667,Crostwitz,01920,Sachsen
+1307667,Crostwitz - Chrósćicy,01920,Sachsen
 536635,Crottendorf,09474,Sachsen
 1289809,Cumlosen,19322,Brandenburg
 1309661,Cunewalde,02733,Sachsen
@@ -2041,9 +2170,6 @@ osm_id,ort,plz,bundesland
 1113742,Dackscheid,54649,Rheinland-Pfalz
 1420450,Dagebüll,25899,Schleswig-Holstein
 447345,Dägeling,25578,Schleswig-Holstein
-55738,Dahlem,14169,Berlin
-55738,Dahlem,14193,Berlin
-55738,Dahlem,14195,Berlin
 158155,Dahlem,53949,Nordrhein-Westfalen
 1152673,Dahlem,54636,Rheinland-Pfalz
 1895692,Dahlem,21368,Niedersachsen
@@ -2135,6 +2261,7 @@ osm_id,ort,plz,bundesland
 532371,Deesen,56237,Rheinland-Pfalz
 959809,Deggendorf,94469,Bayern
 2783887,Deggenhausertal,88693,Baden-Württemberg
+2772181,Deggingen,73312,Baden-Württemberg
 2772181,Deggingen,73326,Baden-Württemberg
 1249974,Deidesheim,67146,Rheinland-Pfalz
 1249974,Deidesheim,67157,Rheinland-Pfalz
@@ -2175,7 +2302,6 @@ osm_id,ort,plz,bundesland
 1074567,Densborn,54570,Rheinland-Pfalz
 534183,Dentlein am Forst,91599,Bayern
 1970186,Denzlingen,79211,Baden-Württemberg
-1970186,Denzlingen,79312,Baden-Württemberg
 1184655,Derental,37691,Niedersachsen
 2889828,Dermbach,36466,Thüringen
 1021835,Dernau,53507,Rheinland-Pfalz
@@ -2188,7 +2314,6 @@ osm_id,ort,plz,bundesland
 1451579,Dersenow,19260,Mecklenburg-Vorpommern
 1474193,Dersum,26906,Niedersachsen
 1244062,Desloch,55592,Rheinland-Pfalz
-1168907,Despetal,31035,Niedersachsen
 62526,Dessau-Roßlau,06842,Sachsen-Anhalt
 62526,Dessau-Roßlau,06844,Sachsen-Anhalt
 62526,Dessau-Roßlau,06846,Sachsen-Anhalt
@@ -2323,9 +2448,9 @@ osm_id,ort,plz,bundesland
 415413,Döbeln,04720,Sachsen
 1322948,Doberlug-Kirchhain,03253,Brandenburg
 1322603,Döbern,03159,Brandenburg
-1309671,Doberschau-Gaußig,01877,Sachsen
-1309671,Doberschau-Gaußig,02633,Sachsen
-1309671,Doberschau-Gaußig,02692,Sachsen
+1309671,Doberschau-Gaußig - Dobruša-Huska,01877,Sachsen
+1309671,Doberschau-Gaußig - Dobruša-Huska,02633,Sachsen
+1309671,Doberschau-Gaußig - Dobruša-Huska,02692,Sachsen
 446698,Doberschütz,04838,Sachsen
 289174,Dobersdorf,24232,Schleswig-Holstein
 449946,Dobin am See,19067,Mecklenburg-Vorpommern
@@ -2348,7 +2473,6 @@ osm_id,ort,plz,bundesland
 445841,Dollern,21739,Niedersachsen
 1149278,Dollerup,24989,Schleswig-Holstein
 943536,Dollnstein,91795,Bayern
-1149235,Dollrottfeld,24392,Schleswig-Holstein
 2817225,Döllstädt,99100,Thüringen
 534091,Dombühl,91601,Bayern
 1451530,Dömitz,19303,Mecklenburg-Vorpommern
@@ -2522,7 +2646,7 @@ osm_id,ort,plz,bundesland
 1399072,Duderstadt,37115,Niedersachsen
 965016,Duggendorf,93182,Bayern
 965016,Duggendorf,93195,Bayern
-1168897,Duingen,31089,Niedersachsen
+6683478,Duingen,31089,Niedersachsen
 62456,Duisburg,47051,Nordrhein-Westfalen
 62456,Duisburg,47053,Nordrhein-Westfalen
 62456,Duisburg,47055,Nordrhein-Westfalen
@@ -2633,7 +2757,6 @@ osm_id,ort,plz,bundesland
 936944,Eberfing,82390,Bayern
 1399066,Ebergötzen,37136,Niedersachsen
 2801319,Eberhardzell,88436,Baden-Württemberg
-1182647,Eberholzen,31079,Niedersachsen
 1028562,Ebermannsdorf,92263,Bayern
 1080480,Ebermannstadt,91320,Bayern
 388838,Ebern,96106,Bayern
@@ -2771,27 +2894,6 @@ osm_id,ort,plz,bundesland
 1130291,Eimeldingen,79591,Baden-Württemberg
 2014130,Eimen,37632,Niedersachsen
 1460254,Eimke,29578,Niedersachsen
-30243,Eimsbüttel,20144,Hamburg
-30243,Eimsbüttel,20146,Hamburg
-30243,Eimsbüttel,20148,Hamburg
-30243,Eimsbüttel,20149,Hamburg
-30243,Eimsbüttel,20249,Hamburg
-30243,Eimsbüttel,20253,Hamburg
-30243,Eimsbüttel,20255,Hamburg
-30243,Eimsbüttel,20257,Hamburg
-30243,Eimsbüttel,20259,Hamburg
-30243,Eimsbüttel,20354,Hamburg
-30243,Eimsbüttel,20357,Hamburg
-30243,Eimsbüttel,22453,Hamburg
-30243,Eimsbüttel,22455,Hamburg
-30243,Eimsbüttel,22457,Hamburg
-30243,Eimsbüttel,22459,Hamburg
-30243,Eimsbüttel,22523,Hamburg
-30243,Eimsbüttel,22525,Hamburg
-30243,Eimsbüttel,22527,Hamburg
-30243,Eimsbüttel,22529,Hamburg
-30243,Eimsbüttel,22547,Hamburg
-30243,Eimsbüttel,22769,Hamburg
 1245839,Eimsheim,55278,Rheinland-Pfalz
 156752,Einbeck,37574,Niedersachsen
 2778364,Eineborn,07646,Thüringen
@@ -2816,7 +2918,6 @@ osm_id,ort,plz,bundesland
 539716,Eisighofen,56370,Rheinland-Pfalz
 57786,Eisingen,75239,Baden-Württemberg
 180683,Eisingen,97249,Bayern
-2409291,Eisleben,06295,Sachsen-Anhalt
 2792100,Eislingen/Fils,73054,Baden-Württemberg
 453831,Eitelborn,56337,Rheinland-Pfalz
 943547,Eitensheim,85117,Bayern
@@ -2832,6 +2933,7 @@ osm_id,ort,plz,bundesland
 1416146,Elbingerode,37412,Niedersachsen
 324301,Elbtal,65627,Hessen
 907240,Elchesheim-Illingen,76477,Baden-Württemberg
+941078,Elchingen,89081,Bayern
 941078,Elchingen,89275,Bayern
 1244327,Elchweiler,55765,Rheinland-Pfalz
 1451573,Eldena,19294,Mecklenburg-Vorpommern
@@ -2884,10 +2986,10 @@ osm_id,ort,plz,bundesland
 533248,Elsoff (Westerwald),56479,Rheinland-Pfalz
 2404585,Elsteraue,06729,Sachsen-Anhalt
 446591,Elsterberg,07985,Sachsen
-1309584,Elsterheide,02979,Sachsen
+1309584,Elsterheide - Halštrowska Hola,02979,Sachsen
 420241,Elstertrebnitz,04523,Sachsen
 1303791,Elsterwerda,04910,Brandenburg
-1307660,Elstra,01920,Sachsen
+1307660,Elstra - Halštrow,01920,Sachsen
 536630,Elterlein,09481,Sachsen
 387775,Eltmann,97483,Bayern
 408592,Eltville am Rhein,65343,Hessen
@@ -2955,7 +3057,7 @@ osm_id,ort,plz,bundesland
 152288,Ennigerloh,59320,Nordrhein-Westfalen
 1255938,Ensch,54340,Rheinland-Pfalz
 1028544,Ensdorf,92266,Bayern
-1184563,Ensdorf,66806,Saarland
+1184563,Ensdorf/Saar,66806,Saarland
 153511,Ense,59469,Nordrhein-Westfalen
 1248402,Ensheim,55232,Rheinland-Pfalz
 535005,Enspel,57647,Rheinland-Pfalz
@@ -3144,7 +3246,6 @@ osm_id,ort,plz,bundesland
 1246580,Etschberg,66871,Rheinland-Pfalz
 939317,Ettal,82488,Bayern
 1140553,Etteldorf,54655,Rheinland-Pfalz
-2894244,Ettenhausen a.d. Suhl,99819,Thüringen
 453009,Ettenheim,77955,Baden-Württemberg
 1015147,Ettenstatt,91796,Bayern
 2856992,Ettersburg,99439,Thüringen
@@ -3171,7 +3272,6 @@ osm_id,ort,plz,bundesland
 1252776,Eußerthal,76857,Rheinland-Pfalz
 382408,Eutin,23701,Schleswig-Holstein
 935841,Eutingen im Gäu,72184,Baden-Württemberg
-1168908,Everode,31085,Niedersachsen
 2012364,Eversmeer,26556,Niedersachsen
 152294,Everswinkel,48351,Nordrhein-Westfalen
 1432635,Evessen,38173,Niedersachsen
@@ -3188,25 +3288,20 @@ osm_id,ort,plz,bundesland
 1410899,Fahrenwalde,17309,Mecklenburg-Vorpommern
 30014,Fahrenzhausen,85777,Bayern
 1259313,Faid,56814,Rheinland-Pfalz
-412166,Falkenberg,13057,Berlin
 957045,Falkenberg,84326,Bayern
 968894,Falkenberg,95685,Bayern
 1332949,Falkenberg,16259,Brandenburg
 1303469,Falkenberg/Elster,04895,Brandenburg
 959638,Falkenfels,94350,Bayern
-409212,Falkenhagener Feld,13583,Berlin
-409212,Falkenhagener Feld,13585,Berlin
-409212,Falkenhagener Feld,13589,Berlin
-409212,Falkenhagener Feld,13591,Berlin
 1332950,Falkenhagen (Mark),15306,Brandenburg
 1251557,Falkensee,14612,Brandenburg
-444321,Falkenstein,08223,Sachsen
-444321,Falkenstein,08239,Sachsen
 961329,Falkenstein,93167,Bayern
 1254709,Falkenstein,67808,Rheinland-Pfalz
 64313,Falkenstein/Harz,06333,Sachsen-Anhalt
 64313,Falkenstein/Harz,06463,Sachsen-Anhalt
 64313,Falkenstein/Harz,06543,Sachsen-Anhalt
+444321,Falkenstein/Vogtland,08223,Sachsen
+444321,Falkenstein/Vogtland,08239,Sachsen
 2820964,Fambach,98597,Thüringen
 939345,Farchant,82490,Bayern
 176741,Fargau-Pratjau,24256,Schleswig-Holstein
@@ -3245,8 +3340,6 @@ osm_id,ort,plz,bundesland
 548489,Felm,24214,Schleswig-Holstein
 548489,Felm,24244,Schleswig-Holstein
 452193,Felsberg,34587,Hessen
-407715,Fennpfuhl,10367,Berlin
-407715,Fennpfuhl,10369,Berlin
 421920,Fensdorf,57580,Rheinland-Pfalz
 962182,Fensterbach,92269,Bayern
 1410797,Ferdinandshof,17379,Mecklenburg-Vorpommern
@@ -3265,12 +3358,11 @@ osm_id,ort,plz,bundesland
 176737,Fiefbergen,24217,Schleswig-Holstein
 418138,Fiersbach,57635,Rheinland-Pfalz
 2796535,Filderstadt,70794,Baden-Württemberg
+2796535,Filderstadt,71111,Baden-Württemberg
 536241,Filsen,56341,Rheinland-Pfalz
 1187427,Filsum,26849,Niedersachsen
 1269809,Filz,56766,Rheinland-Pfalz
 1424148,Fincken,17209,Mecklenburg-Vorpommern
-1126105,Findorff,28215,Bremen
-1126105,Findorff,28219,Bremen
 1253879,Finkenbach-Gersweiler,67822,Rheinland-Pfalz
 2020633,Finkenthal,17179,Mecklenburg-Vorpommern
 2402383,Finne,06647,Sachsen-Anhalt
@@ -3343,7 +3435,8 @@ osm_id,ort,plz,bundesland
 1124264,Forchheim,79362,Baden-Württemberg
 376921,Forchtenberg,74670,Baden-Württemberg
 962452,Forheim,86735,Bayern
-1273175,Föritz,96524,Thüringen
+8439259,Föritztal,96515,Thüringen
+8439259,Föritztal,96524,Thüringen
 420583,Forst,57537,Rheinland-Pfalz
 659811,Forst,76694,Baden-Württemberg
 1249972,Forst an der Weinstraße,67147,Rheinland-Pfalz
@@ -3351,14 +3444,14 @@ osm_id,ort,plz,bundesland
 934759,Forstern,85659,Bayern
 1269738,Forst (Hunsrück),56858,Rheinland-Pfalz
 929820,Forstinning,85661,Bayern
-1322605,Forst (Lausitz),03149,Brandenburg
+1322605,Forst (Lausitz) - Baršć,03149,Brandenburg
 418141,Forstmehren,57635,Rheinland-Pfalz
 1248579,Framersheim,55234,Rheinland-Pfalz
 349418,Frammersbach,97833,Bayern
 1253781,Frankelbach,67737,Rheinland-Pfalz
 443586,Frankenau,35110,Hessen
-411424,Frankenberg,09669,Sachsen
 443587,Frankenberg,35066,Hessen
+411424,Frankenberg/Sachsen,09669,Sachsen
 1946809,Frankenblick,96528,Thüringen
 2856993,Frankendorf,99441,Thüringen
 1249988,Frankeneck,67468,Rheinland-Pfalz
@@ -3420,9 +3513,6 @@ osm_id,ort,plz,bundesland
 1252556,Frankweiler,76833,Rheinland-Pfalz
 374149,Franzburg,18461,Mecklenburg-Vorpommern
 1256089,Franzenheim,54316,Rheinland-Pfalz
-404576,Französisch Buchholz,13127,Berlin
-404576,Französisch Buchholz,13129,Berlin
-404576,Französisch Buchholz,13156,Berlin
 2186922,Frasdorf,83112,Bayern
 959171,Frauenau,94258,Bayern
 1246408,Frauenberg,55776,Rheinland-Pfalz
@@ -3430,7 +3520,6 @@ osm_id,ort,plz,bundesland
 929916,Frauenneuharting,83553,Bayern
 929916,Frauenneuharting,83565,Bayern
 2778366,Frauenprießnitz,07774,Thüringen
-2898245,Frauensee,36460,Thüringen
 416543,Frauenstein,09623,Sachsen
 331385,Frauenwald,98711,Thüringen
 934761,Fraunberg,85447,Bayern
@@ -3439,7 +3528,7 @@ osm_id,ort,plz,bundesland
 1250500,Freckenfeld,76872,Rheinland-Pfalz
 1471099,Fredeburg,23909,Schleswig-Holstein
 445844,Fredenbeck,21717,Niedersachsen
-1168899,Freden (Leine),31084,Niedersachsen
+6680431,Freden (Leine),31084,Niedersachsen
 1332959,Fredersdorf-Vogelsdorf,15370,Brandenburg
 422731,Fredesdorf,23826,Schleswig-Holstein
 1124270,Freiamt,79348,Baden-Württemberg
@@ -3502,16 +3591,11 @@ osm_id,ort,plz,bundesland
 2806598,Frickingen,88699,Baden-Württemberg
 1231980,Fridingen an der Donau,78567,Baden-Württemberg
 941659,Fridolfing,83413,Bayern
-393689,Friedberg,61169,Hessen
-395731,Friedberg,86316,Bayern
+395731,Friedberg (Bayern),86316,Bayern
+393689,Friedberg (Hessen),61169,Hessen
 1187676,Friedeburg,26446,Niedersachsen
 2831119,Friedelshausen,98634,Thüringen
 1249961,Friedelsheim,67159,Rheinland-Pfalz
-55752,Friedenau,10827,Berlin
-55752,Friedenau,12159,Berlin
-55752,Friedenau,12161,Berlin
-55752,Friedenau,12163,Berlin
-55752,Friedenau,14197,Berlin
 975240,Friedenfels,95688,Bayern
 319270,Friedenweiler,79877,Baden-Württemberg
 1263904,Friedersdorf,98701,Thüringen
@@ -3521,24 +3605,16 @@ osm_id,ort,plz,bundesland
 1399098,Friedland,37133,Niedersachsen
 1419709,Friedland,17098,Mecklenburg-Vorpommern
 2800107,Friedrichroda,99894,Thüringen
+417339,Friedrichsdorf,61273,Hessen
 417339,Friedrichsdorf,61381,Hessen
-412167,Friedrichsfelde,10315,Berlin
-412167,Friedrichsfelde,10317,Berlin
-412167,Friedrichsfelde,10319,Berlin
 447161,Friedrichsgabekoog,25764,Schleswig-Holstein
 556604,Friedrichsgraben,24799,Schleswig-Holstein
 2783849,Friedrichshafen,88045,Baden-Württemberg
 2783849,Friedrichshafen,88046,Baden-Württemberg
 2783849,Friedrichshafen,88048,Baden-Württemberg
-409210,Friedrichshagen,12587,Berlin
-55763,Friedrichshain,10243,Berlin
-55763,Friedrichshain,10245,Berlin
-55763,Friedrichshain,10247,Berlin
-55763,Friedrichshain,10249,Berlin
 556628,Friedrichsholm,24799,Schleswig-Holstein
 935243,Friedrichskoog,25718,Schleswig-Holstein
 449902,Friedrichsruhe,19089,Mecklenburg-Vorpommern
-449902,Friedrichsruhe,19374,Mecklenburg-Vorpommern
 1402987,Friedrichstadt,25840,Schleswig-Holstein
 419191,Friedrichsthal,66299,Saarland
 2400564,Friedrichsthal,99735,Thüringen
@@ -3557,10 +3633,8 @@ osm_id,ort,plz,bundesland
 1231979,Frittlingen,78665,Baden-Württemberg
 452194,Fritzlar,34560,Hessen
 422238,Frohburg,04654,Sachsen
-16330,Frohnau,13465,Berlin
 1244184,Fröhnd,79677,Baden-Württemberg
 1246452,Frohnhofen,66903,Rheinland-Pfalz
-2778471,Frohnsdorf,04618,Thüringen
 2410084,Frömmstedt,99638,Thüringen
 158444,Fröndenberg/Ruhr,58730,Nordrhein-Westfalen
 225499,Fronhausen,35112,Hessen
@@ -3605,7 +3679,7 @@ osm_id,ort,plz,bundesland
 1240885,Furtwangen im Schwarzwald,78120,Baden-Württemberg
 448298,Füssen,87629,Bayern
 422698,Fußgönheim,67136,Rheinland-Pfalz
-1310516,Gablenz,02953,Sachsen
+1310516,Gablenz - Jabłońc,02953,Sachsen
 445873,Gablingen,86456,Bayern
 1248407,Gabsheim,55288,Rheinland-Pfalz
 943716,Gachenbach,86565,Bayern
@@ -3613,7 +3687,6 @@ osm_id,ort,plz,bundesland
 1444913,Gadebusch,19205,Mecklenburg-Vorpommern
 387768,Gädheim,97503,Bayern
 1481719,Gägelow,23968,Mecklenburg-Vorpommern
-1437796,Gager,18586,Mecklenburg-Vorpommern
 907232,Gaggenau,76571,Baden-Württemberg
 453396,Gaiberg,69251,Baden-Württemberg
 2785093,Gaienhofen,78343,Baden-Württemberg
@@ -3664,7 +3737,6 @@ osm_id,ort,plz,bundesland
 1433096,Garz,17419,Mecklenburg-Vorpommern
 1332957,Garzau-Garzin,15345,Brandenburg
 1437550,Garz/Rügen,18574,Mecklenburg-Vorpommern
-409217,Gatow,14089,Berlin
 1021703,Gattendorf,95185,Bayern
 1239622,Gau-Algesheim,55435,Rheinland-Pfalz
 1248626,Gau-Bickelheim,55599,Rheinland-Pfalz
@@ -3700,7 +3772,6 @@ osm_id,ort,plz,bundesland
 2362539,Gehofen,06571,Thüringen
 1817414,Gehrde,49596,Niedersachsen
 2012731,Gehrden,30989,Niedersachsen
-168371,Gehren,98708,Thüringen
 1253973,Gehrweiler,67724,Rheinland-Pfalz
 1171860,Geichlingen,54675,Rheinland-Pfalz
 959166,Geiersthal,94244,Bayern
@@ -3727,9 +3798,10 @@ osm_id,ort,plz,bundesland
 162711,Gelchsheim,97255,Bayern
 167992,Geldern,47608,Nordrhein-Westfalen
 318744,Geldersheim,97505,Bayern
-536590,Gelenau/Erzgeb.,09423,Sachsen
+536590,Gelenau/Erzgebirge,09423,Sachsen
 1075156,Gelenberg,53539,Rheinland-Pfalz
 535928,Gelnhausen,63571,Hessen
+535928,Gelnhausen,63589,Hessen
 62522,Gelsenkirchen,45879,Nordrhein-Westfalen
 62522,Gelsenkirchen,45881,Nordrhein-Westfalen
 62522,Gelsenkirchen,45883,Nordrhein-Westfalen
@@ -3816,6 +3888,7 @@ osm_id,ort,plz,bundesland
 2890264,Gerstengrund,36419,Thüringen
 2772184,Gerstetten,89547,Baden-Württemberg
 443126,Gersthofen,86368,Bayern
+2885197,Gerstungen,99819,Thüringen
 2885197,Gerstungen,99834,Thüringen
 1334093,Gerswalde,17268,Brandenburg
 2395069,Gerterode,37355,Thüringen
@@ -3829,18 +3902,11 @@ osm_id,ort,plz,bundesland
 534082,Geslau,91608,Bayern
 443321,Gessertshausen,86459,Bayern
 959863,Gestratz,88167,Bayern
-28426,Gesundbrunnen,13347,Berlin
-28426,Gesundbrunnen,13353,Berlin
-28426,Gesundbrunnen,13355,Berlin
-28426,Gesundbrunnen,13357,Berlin
-28426,Gesundbrunnen,13359,Berlin
-28426,Gesundbrunnen,13409,Berlin
 2012573,Getelo,49843,Niedersachsen
 548491,Gettorf,24214,Schleswig-Holstein
 1956782,Gevelsberg,58285,Nordrhein-Westfalen
 1269815,Gevenich,56825,Rheinland-Pfalz
 1446644,Gevensleben,38384,Niedersachsen
-1180883,Geversdorf,21784,Niedersachsen
 536589,Geyer,09468,Sachsen
 162360,Giebelstadt,97232,Bayern
 1399094,Gieboldehausen,37434,Niedersachsen
@@ -3848,6 +3914,7 @@ osm_id,ort,plz,bundesland
 418869,Gieleroth,57610,Rheinland-Pfalz
 1258412,Gielert,54424,Rheinland-Pfalz
 1427279,Gielow,17139,Mecklenburg-Vorpommern
+2791802,Giengen an der Brenz,89522,Baden-Württemberg
 2791802,Giengen an der Brenz,89537,Baden-Württemberg
 543121,Gierschnach,56294,Rheinland-Pfalz
 416407,Giershausen,57632,Rheinland-Pfalz
@@ -3920,7 +3987,7 @@ osm_id,ort,plz,bundesland
 1149288,Glücksburg,24960,Schleswig-Holstein
 447206,Glückstadt,25348,Schleswig-Holstein
 964253,Glüsing,25779,Schleswig-Holstein
-935953,Gmund am Tegernsee,83703,Bayern
+935953,Gmund,83703,Bayern
 1050510,Gnarrenburg,27442,Niedersachsen
 2778368,Gneus,07646,Thüringen
 449953,Gneven,19065,Mecklenburg-Vorpommern
@@ -3932,11 +3999,12 @@ osm_id,ort,plz,bundesland
 167969,Goch,47574,Nordrhein-Westfalen
 318303,Gochsheim,97469,Bayern
 1252728,Göcklingen,76831,Rheinland-Pfalz
-1309677,Göda,02633,Sachsen
+1309677,Göda - Hodźij,02633,Sachsen
 533583,Goddert,56244,Rheinland-Pfalz
 1419602,Godendorf,17237,Mecklenburg-Vorpommern
 1204723,Gödenroth,56290,Rheinland-Pfalz
 310364,Gödenstorf,21376,Niedersachsen
+2406473,Goethestadt Bad Lauchstädt,06246,Sachsen-Anhalt
 915435,Göggingen,73571,Baden-Württemberg
 382417,Göhl,23758,Schleswig-Holstein
 1451585,Göhlen,19288,Mecklenburg-Vorpommern
@@ -3966,7 +4034,6 @@ osm_id,ort,plz,bundesland
 1184654,Golmbach,37640,Niedersachsen
 2778369,Golmsdorf,07751,Thüringen
 1389402,Golßen,15938,Brandenburg
-1149339,Goltoft,24864,Schleswig-Holstein
 540423,Golzow,14778,Brandenburg
 1332916,Golzow,15328,Brandenburg
 2773186,Gomadingen,72532,Baden-Württemberg
@@ -3992,6 +4059,7 @@ osm_id,ort,plz,bundesland
 2792098,Göppingen,73033,Baden-Württemberg
 2792098,Göppingen,73035,Baden-Württemberg
 2792098,Göppingen,73037,Baden-Württemberg
+2792098,Göppingen,73116,Baden-Württemberg
 1322955,Gorden-Staupitz,03238,Brandenburg
 453834,Görgeshausen,56412,Rheinland-Pfalz
 448110,Görisried,87657,Bayern
@@ -4003,9 +4071,9 @@ osm_id,ort,plz,bundesland
 409676,Görlitz,02828,Sachsen
 1451525,Gorlosen,19294,Mecklenburg-Vorpommern
 1427505,Görmin,17121,Mecklenburg-Vorpommern
-422404,Gornau,09405,Sachsen
-422404,Gornau,09437,Sachsen
-422404,Gornau,09573,Sachsen
+422404,Gornau/Erzgebirge,09405,Sachsen
+422404,Gornau/Erzgebirge,09437,Sachsen
+422404,Gornau/Erzgebirge,09573,Sachsen
 1258362,Gornhausen,54472,Rheinland-Pfalz
 536009,Gornsdorf,09390,Sachsen
 2399484,Görsbach,99765,Thüringen
@@ -4086,7 +4154,6 @@ osm_id,ort,plz,bundesland
 1473804,Grambek,23883,Schleswig-Holstein
 1408063,Grambin,17375,Mecklenburg-Vorpommern
 1407735,Grambow,17322,Mecklenburg-Vorpommern
-1407735,Grambow,17329,Mecklenburg-Vorpommern
 1444881,Grambow,19071,Mecklenburg-Vorpommern
 1444881,Grambow,19073,Mecklenburg-Vorpommern
 372857,Grammendorf,18513,Mecklenburg-Vorpommern
@@ -4170,21 +4237,15 @@ osm_id,ort,plz,bundesland
 935833,Grömbach,72297,Baden-Württemberg
 382428,Grömitz,23743,Schleswig-Holstein
 162865,Gronau,48599,Nordrhein-Westfalen
-1168898,Gronau,31028,Niedersachsen
+6680417,Gronau,31028,Niedersachsen
 1286654,Gröningen,39397,Sachsen-Anhalt
 454196,Grönwohld,22956,Schleswig-Holstein
-1125640,Gröpelingen,28237,Bremen
-1125640,Gröpelingen,28239,Bremen
-409215,Gropiusstadt,12351,Berlin
-409215,Gropiusstadt,12353,Berlin
-409215,Gropiusstadt,12357,Berlin
 935175,Großaitingen,86845,Bayern
 549413,Großalmerode,37247,Hessen
 387530,Großbardorf,97633,Bayern
 310393,Großbarkau,24245,Schleswig-Holstein
 2400529,Großbartloff,37359,Thüringen
 55769,Großbeeren,14979,Brandenburg
-55769,Großbeeren,15831,Brandenburg
 2007856,Groß Berßen,49777,Niedersachsen
 2796104,Großbettlingen,72663,Baden-Württemberg
 452422,Groß-Bieberau,64395,Hessen
@@ -4198,9 +4259,9 @@ osm_id,ort,plz,bundesland
 1250672,Großbundenbach,66501,Rheinland-Pfalz
 1327477,Großderschau,16845,Brandenburg
 1469272,Groß Disnack,23911,Schleswig-Holstein
-1310452,Groß Düben,02953,Sachsen
-1310452,Groß Düben,02959,Sachsen
-1309634,Großdubrau,02694,Sachsen
+1310452,Groß Düben - Dźěwin,02953,Sachsen
+1310452,Groß Düben - Dźěwin,02959,Sachsen
+1309634,Großdubrau - Wulka Dubrawa,02694,Sachsen
 898632,Großefehn,26629,Niedersachsen
 387518,Großeibstadt,97633,Bayern
 2779242,Grosselfingen,72415,Baden-Württemberg
@@ -4273,16 +4334,14 @@ osm_id,ort,plz,bundesland
 2856445,Großobringen,99439,Thüringen
 1382927,Groß Oesingen,29393,Niedersachsen
 444135,Groß Offenseth-Aspern,25355,Schleswig-Holstein
-422392,Großolbersdorf,09429,Sachsen
 422392,Großolbersdorf,09432,Sachsen
-422392,Großolbersdorf,09434,Sachsen
 534355,Großostheim,63762,Bayern
 1467514,Groß Pampau,21493,Schleswig-Holstein
 1289796,Groß Pankow (Prignitz),16928,Brandenburg
 1424301,Groß Plasten,17192,Mecklenburg-Vorpommern
 1433747,Groß Polzin,17390,Mecklenburg-Vorpommern
 283733,Großpösna,04463,Sachsen
-1309675,Großpostwitz/O.L.,02692,Sachsen
+1309675,Großpostwitz/O.L. - Budestecy,02692,Sachsen
 1275648,Großpürschütz,07751,Thüringen
 1352952,Groß Quenstedt,38822,Sachsen-Anhalt
 1314217,Großräschen,01983,Brandenburg
@@ -4331,7 +4390,6 @@ osm_id,ort,plz,bundesland
 382424,Grube,23749,Schleswig-Holstein
 2793120,Gruibingen,73344,Baden-Württemberg
 1246770,Grumbach,67745,Rheinland-Pfalz
-151937,Grünau,12527,Berlin
 443864,Grünbach,08223,Sachsen
 418613,Grünberg,35305,Hessen
 535927,Gründau,63584,Hessen
@@ -4340,11 +4398,6 @@ osm_id,ort,plz,bundesland
 422317,Grünebach,57520,Rheinland-Pfalz
 959861,Grünenbach,88167,Bayern
 279222,Grünendeich,21720,Niedersachsen
-55742,Grunewald,10711,Berlin
-55742,Grunewald,14055,Berlin
-55742,Grunewald,14193,Berlin
-55742,Grunewald,14195,Berlin
-55742,Grunewald,14199,Berlin
 1314281,Grünewald,01945,Brandenburg
 419005,Grünhain-Beierfeld,08344,Sachsen
 422307,Grünhainichen,09579,Sachsen
@@ -4383,7 +4436,6 @@ osm_id,ort,plz,bundesland
 173858,Gummersbach,51647,Nordrhein-Westfalen
 2748749,Gumperda,07768,Thüringen
 1289820,Gumtow,16866,Brandenburg
-1289820,Gumtow,16928,Brandenburg
 1970196,Gundelfingen,79194,Baden-Württemberg
 956778,Gundelfingen a.d.Donau,89423,Bayern
 162490,Gundelsheim,96163,Bayern
@@ -4397,7 +4449,6 @@ osm_id,ort,plz,bundesland
 2410090,Günstedt,99631,Thüringen
 1239656,Guntersblum,67583,Rheinland-Pfalz
 181169,Güntersleben,97261,Bayern
-2802301,Günthersleben-Wechmar,99869,Thüringen
 448041,Günzach,87634,Bayern
 964472,Günzburg,89312,Bayern
 1015096,Gunzenhausen,91710,Bayern
@@ -4433,10 +4484,11 @@ osm_id,ort,plz,bundesland
 965591,Gyhum,27404,Niedersachsen
 1070979,Haag,95473,Bayern
 29832,Haag an der Amper,85410,Bayern
-940688,Haag i.OB,83527,Bayern
+940688,Haag in Oberbayern,83527,Bayern
 548582,Haale,24819,Schleswig-Holstein
 66527,Haan,42781,Nordrhein-Westfalen
 543186,Haar,85540,Bayern
+958113,Haarbach,94501,Bayern
 958113,Haarbach,94542,Bayern
 936939,Habach,82392,Bayern
 454707,Habichtswald,34317,Hessen
@@ -4447,9 +4499,6 @@ osm_id,ort,plz,bundesland
 324305,Hadamar,65589,Hessen
 1808865,Hademstorf,29693,Niedersachsen
 448767,Hadenfeld,25560,Schleswig-Holstein
-1135977,Häfen,27568,Bremen
-1135977,Häfen,28197,Bremen
-1135977,Häfen,28237,Bremen
 337249,Hafenlohr,97840,Bayern
 898198,Hage,26524,Niedersachsen
 1130285,Häg-Ehrsberg,79685,Baden-Württemberg
@@ -4500,9 +4549,6 @@ osm_id,ort,plz,bundesland
 962604,Hainsfarth,86744,Bayern
 2778375,Hainspitz,07607,Thüringen
 1177460,Haiterbach,72221,Baden-Württemberg
-408311,Hakenfelde,13585,Berlin
-408311,Hakenfelde,13587,Berlin
-408311,Hakenfelde,13589,Berlin
 1389621,Halbe,15757,Brandenburg
 949622,Halbemond,26524,Niedersachsen
 1352956,Halberstadt,38820,Sachsen-Anhalt
@@ -4516,9 +4562,6 @@ osm_id,ort,plz,bundesland
 957701,Haldenwang,87490,Bayern
 964240,Haldenwang,89356,Bayern
 1289816,Halenbeck-Rohlsdorf,16945,Brandenburg
-55741,Halensee,10709,Berlin
-55741,Halensee,10711,Berlin
-55741,Halensee,10713,Berlin
 2186926,Halfing,83128,Bayern
 30008,Hallbergmoos,85399,Bayern
 1184661,Halle,37620,Niedersachsen
@@ -4538,7 +4581,7 @@ osm_id,ort,plz,bundesland
 62638,Halle (Saale),06128,Sachsen-Anhalt
 62638,Halle (Saale),06130,Sachsen-Anhalt
 62638,Halle (Saale),06132,Sachsen-Anhalt
-138701,Halle (Westfalen),33790,Nordrhein-Westfalen
+138701,Halle (Westf.),33790,Nordrhein-Westfalen
 1246414,Hallgarten,67826,Rheinland-Pfalz
 1420554,Hallig Hooge,25859,Schleswig-Holstein
 1075993,Hallschlag,54611,Rheinland-Pfalz
@@ -4558,57 +4601,107 @@ osm_id,ort,plz,bundesland
 659814,Hambrücken,76707,Baden-Württemberg
 1259833,Hambuch,56761,Rheinland-Pfalz
 1799275,Hambühren,29313,Niedersachsen
-28971,Hamburg-Mitte,20095,Hamburg
-28971,Hamburg-Mitte,20097,Hamburg
-28971,Hamburg-Mitte,20099,Hamburg
-28971,Hamburg-Mitte,20354,Hamburg
-28971,Hamburg-Mitte,20355,Hamburg
-28971,Hamburg-Mitte,20357,Hamburg
-28971,Hamburg-Mitte,20359,Hamburg
-28971,Hamburg-Mitte,20457,Hamburg
-28971,Hamburg-Mitte,20459,Hamburg
-28971,Hamburg-Mitte,20535,Hamburg
-28971,Hamburg-Mitte,20537,Hamburg
-28971,Hamburg-Mitte,20539,Hamburg
-28971,Hamburg-Mitte,21107,Hamburg
-28971,Hamburg-Mitte,21109,Hamburg
-28971,Hamburg-Mitte,21129,Hamburg
-28971,Hamburg-Mitte,22087,Hamburg
-28971,Hamburg-Mitte,22089,Hamburg
-28971,Hamburg-Mitte,22111,Hamburg
-28971,Hamburg-Mitte,22113,Hamburg
-28971,Hamburg-Mitte,22115,Hamburg
-28971,Hamburg-Mitte,22117,Hamburg
-28971,Hamburg-Mitte,22119,Hamburg
-28971,Hamburg-Mitte,22767,Hamburg
-28971,Hamburg-Mitte,22769,Hamburg
-28971,Hamburg-Mitte,27499,Hamburg
-30352,Hamburg-Nord,20144,Hamburg
-30352,Hamburg-Nord,20249,Hamburg
-30352,Hamburg-Nord,20251,Hamburg
-30352,Hamburg-Nord,20253,Hamburg
-30352,Hamburg-Nord,22049,Hamburg
-30352,Hamburg-Nord,22081,Hamburg
-30352,Hamburg-Nord,22083,Hamburg
-30352,Hamburg-Nord,22085,Hamburg
-30352,Hamburg-Nord,22087,Hamburg
-30352,Hamburg-Nord,22089,Hamburg
-30352,Hamburg-Nord,22297,Hamburg
-30352,Hamburg-Nord,22299,Hamburg
-30352,Hamburg-Nord,22301,Hamburg
-30352,Hamburg-Nord,22303,Hamburg
-30352,Hamburg-Nord,22305,Hamburg
-30352,Hamburg-Nord,22307,Hamburg
-30352,Hamburg-Nord,22309,Hamburg
-30352,Hamburg-Nord,22335,Hamburg
-30352,Hamburg-Nord,22337,Hamburg
-30352,Hamburg-Nord,22339,Hamburg
-30352,Hamburg-Nord,22391,Hamburg
-30352,Hamburg-Nord,22415,Hamburg
-30352,Hamburg-Nord,22417,Hamburg
-30352,Hamburg-Nord,22419,Hamburg
-30352,Hamburg-Nord,22453,Hamburg
-30352,Hamburg-Nord,22529,Hamburg
+62782,Hamburg,20095,Hamburg
+62782,Hamburg,20097,Hamburg
+62782,Hamburg,20099,Hamburg
+62782,Hamburg,20144,Hamburg
+62782,Hamburg,20146,Hamburg
+62782,Hamburg,20148,Hamburg
+62782,Hamburg,20149,Hamburg
+62782,Hamburg,20249,Hamburg
+62782,Hamburg,20251,Hamburg
+62782,Hamburg,20253,Hamburg
+62782,Hamburg,20255,Hamburg
+62782,Hamburg,20257,Hamburg
+62782,Hamburg,20259,Hamburg
+62782,Hamburg,20354,Hamburg
+62782,Hamburg,20355,Hamburg
+62782,Hamburg,20357,Hamburg
+62782,Hamburg,20359,Hamburg
+62782,Hamburg,20457,Hamburg
+62782,Hamburg,20459,Hamburg
+62782,Hamburg,20535,Hamburg
+62782,Hamburg,20537,Hamburg
+62782,Hamburg,20539,Hamburg
+62782,Hamburg,21029,Hamburg
+62782,Hamburg,21031,Hamburg
+62782,Hamburg,21033,Hamburg
+62782,Hamburg,21035,Hamburg
+62782,Hamburg,21037,Hamburg
+62782,Hamburg,21039,Hamburg
+62782,Hamburg,21073,Hamburg
+62782,Hamburg,21075,Hamburg
+62782,Hamburg,21077,Hamburg
+62782,Hamburg,21079,Hamburg
+62782,Hamburg,21107,Hamburg
+62782,Hamburg,21109,Hamburg
+62782,Hamburg,21129,Hamburg
+62782,Hamburg,21147,Hamburg
+62782,Hamburg,21149,Hamburg
+62782,Hamburg,22041,Hamburg
+62782,Hamburg,22043,Hamburg
+62782,Hamburg,22045,Hamburg
+62782,Hamburg,22047,Hamburg
+62782,Hamburg,22049,Hamburg
+62782,Hamburg,22081,Hamburg
+62782,Hamburg,22083,Hamburg
+62782,Hamburg,22085,Hamburg
+62782,Hamburg,22087,Hamburg
+62782,Hamburg,22089,Hamburg
+62782,Hamburg,22111,Hamburg
+62782,Hamburg,22113,Hamburg
+62782,Hamburg,22115,Hamburg
+62782,Hamburg,22117,Hamburg
+62782,Hamburg,22119,Hamburg
+62782,Hamburg,22143,Hamburg
+62782,Hamburg,22145,Hamburg
+62782,Hamburg,22147,Hamburg
+62782,Hamburg,22149,Hamburg
+62782,Hamburg,22159,Hamburg
+62782,Hamburg,22175,Hamburg
+62782,Hamburg,22177,Hamburg
+62782,Hamburg,22179,Hamburg
+62782,Hamburg,22297,Hamburg
+62782,Hamburg,22299,Hamburg
+62782,Hamburg,22301,Hamburg
+62782,Hamburg,22303,Hamburg
+62782,Hamburg,22305,Hamburg
+62782,Hamburg,22307,Hamburg
+62782,Hamburg,22309,Hamburg
+62782,Hamburg,22335,Hamburg
+62782,Hamburg,22337,Hamburg
+62782,Hamburg,22339,Hamburg
+62782,Hamburg,22359,Hamburg
+62782,Hamburg,22391,Hamburg
+62782,Hamburg,22393,Hamburg
+62782,Hamburg,22395,Hamburg
+62782,Hamburg,22397,Hamburg
+62782,Hamburg,22399,Hamburg
+62782,Hamburg,22415,Hamburg
+62782,Hamburg,22417,Hamburg
+62782,Hamburg,22419,Hamburg
+62782,Hamburg,22453,Hamburg
+62782,Hamburg,22455,Hamburg
+62782,Hamburg,22457,Hamburg
+62782,Hamburg,22459,Hamburg
+62782,Hamburg,22523,Hamburg
+62782,Hamburg,22525,Hamburg
+62782,Hamburg,22527,Hamburg
+62782,Hamburg,22529,Hamburg
+62782,Hamburg,22547,Hamburg
+62782,Hamburg,22549,Hamburg
+62782,Hamburg,22559,Hamburg
+62782,Hamburg,22587,Hamburg
+62782,Hamburg,22589,Hamburg
+62782,Hamburg,22605,Hamburg
+62782,Hamburg,22607,Hamburg
+62782,Hamburg,22609,Hamburg
+62782,Hamburg,22761,Hamburg
+62782,Hamburg,22763,Hamburg
+62782,Hamburg,22765,Hamburg
+62782,Hamburg,22767,Hamburg
+62782,Hamburg,22769,Hamburg
+62782,Hamburg,27499,Hamburg
 556576,Hamdorf,24805,Schleswig-Holstein
 2014324,Hämelhausen,27324,Niedersachsen
 1730383,Hameln,31785,Niedersachsen
@@ -4683,22 +4776,12 @@ osm_id,ort,plz,bundesland
 59418,Hannover,30659,Niedersachsen
 59418,Hannover,30669,Niedersachsen
 445749,Hanroth,56316,Rheinland-Pfalz
-16567,Hansaviertel,10555,Berlin
-16567,Hansaviertel,10557,Berlin
 912078,Hanshagen,17509,Mecklenburg-Vorpommern
 318147,Hanstedt,21271,Niedersachsen
 1460235,Hanstedt,29582,Niedersachsen
 966168,Happurg,91230,Bayern
 422323,Harbach,57572,Rheinland-Pfalz
-1168913,Harbarnsen,31097,Niedersachsen
 1286656,Harbke,39365,Sachsen-Anhalt
-28964,Harburg,21073,Hamburg
-28964,Harburg,21075,Hamburg
-28964,Harburg,21077,Hamburg
-28964,Harburg,21079,Hamburg
-28964,Harburg,21129,Hamburg
-28964,Harburg,21147,Hamburg
-28964,Harburg,21149,Hamburg
 962455,Harburg (Schwaben),86655,Bayern
 423190,Hardebek,24616,Schleswig-Holstein
 1397835,Hardegsen,37181,Niedersachsen
@@ -4731,7 +4814,7 @@ osm_id,ort,plz,bundesland
 966155,Hartenstein,91235,Bayern
 402946,Hartha,04746,Sachsen
 422705,Harthausen,67376,Rheinland-Pfalz
-1959389,Hartheim,79258,Baden-Württemberg
+1959389,Hartheim am Rhein,79258,Baden-Württemberg
 2768455,Harth-Pöllnitz,07570,Thüringen
 535010,Härtlingen,56459,Rheinland-Pfalz
 412400,Hartmannsdorf,09232,Sachsen
@@ -4741,8 +4824,8 @@ osm_id,ort,plz,bundesland
 455474,Hartmannsdorf-Reichenau,01762,Sachsen
 1245806,Harxheim,55296,Rheinland-Pfalz
 1332261,Harzgerode,06493,Sachsen-Anhalt
+2400323,Harztor,99762,Thüringen
 2400323,Harztor,99768,Thüringen
-2400324,Harzungen,99762,Thüringen
 1823276,Hasbergen,49205,Niedersachsen
 1258886,Hasborn,54533,Rheinland-Pfalz
 1246589,Haschbach am Remigiusberg,66871,Rheinland-Pfalz
@@ -4752,7 +4835,6 @@ osm_id,ort,plz,bundesland
 2714343,Haselbach,04617,Thüringen
 1307649,Haselbachtal,01920,Sachsen
 443184,Haseldorf,25489,Schleswig-Holstein
-407714,Haselhorst,13599,Berlin
 1415325,Haselund,25855,Schleswig-Holstein
 1716876,Haselünne,49740,Niedersachsen
 445505,Hasenkrug,24616,Schleswig-Holstein
@@ -4906,8 +4988,6 @@ osm_id,ort,plz,bundesland
 56680,Heiligenhaus,42579,Nordrhein-Westfalen
 1253766,Heiligenmoschel,67699,Rheinland-Pfalz
 453837,Heiligenroth,56412,Rheinland-Pfalz
-55748,Heiligensee,13503,Berlin
-55748,Heiligensee,13505,Berlin
 1077568,Heiligenstadt,91332,Bayern
 452243,Heiligenstedten,25524,Schleswig-Holstein
 448708,Heiligenstedtenerkamp,25524,Schleswig-Holstein
@@ -4925,12 +5005,11 @@ osm_id,ort,plz,bundesland
 2014098,Heinade,37627,Niedersachsen
 445791,Heinbockel,21726,Niedersachsen
 1322805,Heinersbrück,03185,Brandenburg
-409202,Heinersdorf,13088,Berlin
-409202,Heinersdorf,13089,Berlin
-409202,Heinersdorf,13129,Berlin
 1071000,Heinersreuth,95500,Bayern
 1432637,Heiningen,38312,Niedersachsen
+2792615,Heiningen,73037,Baden-Württemberg
 2792615,Heiningen,73092,Baden-Württemberg
+2792615,Heiningen,73107,Baden-Württemberg
 548589,Heinkenborstel,24594,Schleswig-Holstein
 386878,Heinrichsthal,63871,Bayern
 1410794,Heinrichswalde,17379,Mecklenburg-Vorpommern
@@ -4952,10 +5031,6 @@ osm_id,ort,plz,bundesland
 1157962,Helgoland,27498,Schleswig-Holstein
 533249,Hellenhahn-Schellenberg,56479,Rheinland-Pfalz
 158157,Hellenthal,53940,Nordrhein-Westfalen
-404585,Hellersdorf,12619,Berlin
-404585,Hellersdorf,12621,Berlin
-404585,Hellersdorf,12627,Berlin
-404585,Hellersdorf,12629,Berlin
 1245106,Hellertshausen,55758,Rheinland-Pfalz
 1270321,Hellingen,98663,Thüringen
 447962,Hellschen-Heringsand-Unterschaar,25764,Schleswig-Holstein
@@ -4967,6 +5042,7 @@ osm_id,ort,plz,bundesland
 180678,Helmstadt,97264,Bayern
 454184,Helmstadt-Bargen,74921,Baden-Württemberg
 1446649,Helmstedt,38350,Niedersachsen
+1446649,Helmstedt,38372,Niedersachsen
 288961,Helmstorf,24321,Schleswig-Holstein
 1176594,Helpsen,31691,Niedersachsen
 1115033,Helsa,34298,Hessen
@@ -4975,10 +5051,6 @@ osm_id,ort,plz,bundesland
 357094,Helvesiek,27389,Niedersachsen
 965020,Hemau,93155,Bayern
 444154,Hemdingen,25485,Schleswig-Holstein
-1128466,Hemelingen,28207,Bremen
-1128466,Hemelingen,28307,Bremen
-1128466,Hemelingen,28309,Bremen
-1128466,Hemelingen,28329,Bremen
 2063637,Hemer,58675,Nordrhein-Westfalen
 1016516,Hemhofen,91334,Bayern
 2388433,Hemleben,06577,Thüringen
@@ -5047,11 +5119,9 @@ osm_id,ort,plz,bundesland
 2791803,Hermaringen,89568,Baden-Württemberg
 1251043,Hermersberg,66919,Rheinland-Pfalz
 1257084,Hermeskeil,54411,Rheinland-Pfalz
-55746,Hermsdorf,13465,Berlin
-55746,Hermsdorf,13467,Berlin
-455479,Hermsdorf,01776,Sachsen
 1314278,Hermsdorf,01945,Brandenburg
 2778378,Hermsdorf,07629,Thüringen
+455479,Hermsdorf/Erzgebirge,01776,Sachsen
 62396,Herne,44623,Nordrhein-Westfalen
 62396,Herne,44625,Nordrhein-Westfalen
 62396,Herne,44627,Nordrhein-Westfalen
@@ -5072,7 +5142,6 @@ osm_id,ort,plz,bundesland
 548042,Herresbach,56729,Rheinland-Pfalz
 534186,Herrieden,91567,Bayern
 1240404,Herrischried,79737,Baden-Württemberg
-2400325,Herrmannsacker,99762,Thüringen
 956644,Herrngiersdorf,84097,Bayern
 418716,Herrnhut,02747,Sachsen
 2410092,Herrnschwende,99631,Thüringen
@@ -5107,7 +5176,6 @@ osm_id,ort,plz,bundesland
 2012930,Hesel,26835,Niedersachsen
 1169357,Hespe,31693,Niedersachsen
 1016534,Heßdorf,91093,Bayern
-451799,Hesseneck,64754,Hessen
 422695,Heßheim,67258,Rheinland-Pfalz
 405303,Hessigheim,74394,Baden-Württemberg
 549417,Hessisch Lichtenau,37235,Hessen
@@ -5204,6 +5272,8 @@ osm_id,ort,plz,bundesland
 1303794,Hirschfeld,04932,Brandenburg
 2532077,Hirschfeld,07554,Thüringen
 1245186,Hirschfeld (Hunsrück),55483,Rheinland-Pfalz
+537069,Hirschhorn,64757,Hessen
+537069,Hirschhorn,69412,Hessen
 537069,Hirschhorn,69434,Hessen
 1253780,Hirschhorn/ Pfalz,67732,Rheinland-Pfalz
 549804,Hirschstein,01594,Sachsen
@@ -5211,7 +5281,6 @@ osm_id,ort,plz,bundesland
 548043,Hirten,56729,Rheinland-Pfalz
 450110,Hirzenhain,63697,Hessen
 418134,Hirz-Maulsbach,57635,Rheinland-Pfalz
-1152707,Hisel,54646,Rheinland-Pfalz
 1948875,Hittbergen,21522,Niedersachsen
 1821294,Hitzacker,29456,Niedersachsen
 943551,Hitzhofen,85122,Bayern
@@ -5220,13 +5289,14 @@ osm_id,ort,plz,bundesland
 1248785,Hochborn,55234,Rheinland-Pfalz
 939498,Hochdonn,25712,Schleswig-Holstein
 2792736,Hochdorf,73269,Baden-Württemberg
+2801320,Hochdorf,88436,Baden-Württemberg
 2801320,Hochdorf,88454,Baden-Württemberg
 422701,Hochdorf-Assenheim,67126,Rheinland-Pfalz
 1240390,Höchenschwand,79862,Baden-Württemberg
 414755,Hochheim,65239,Hessen
 2818246,Hochheim,99869,Thüringen
 387525,Höchheim,97633,Bayern
-1309660,Hochkirch,02627,Sachsen
+1309660,Hochkirch - Bukecy,02627,Sachsen
 1258364,Hochscheid,54472,Rheinland-Pfalz
 1186710,Hochspeyer,67691,Rheinland-Pfalz
 1016532,Höchstadt a.d.Aisch,91315,Bayern
@@ -5238,7 +5308,7 @@ osm_id,ort,plz,bundesland
 1075145,Höchstberg,56767,Rheinland-Pfalz
 453161,Höchstenbach,57629,Rheinland-Pfalz
 1244114,Hochstetten-Dhaun,55606,Rheinland-Pfalz
-451778,Höchst i. Odw.,64739,Hessen
+451778,Höchst im Odenwald,64739,Hessen
 453413,Hockenheim,68766,Baden-Württemberg
 1256088,Hockweiler,54316,Rheinland-Pfalz
 1808866,Hodenhagen,29693,Niedersachsen
@@ -5280,7 +5350,7 @@ osm_id,ort,plz,bundesland
 1303816,Hohenbucko,04936,Brandenburg
 1028558,Hohenburg,92277,Bayern
 1979185,Hohen Demzin,17166,Mecklenburg-Vorpommern
-1310797,Hohendubrau,02906,Sachsen
+1310797,Hohendubrau - Wysoka Dubrawa,02906,Sachsen
 189454,Hohenfelde,24257,Schleswig-Holstein
 394347,Hohenfelde,18209,Mecklenburg-Vorpommern
 394347,Hohenfelde,18211,Mecklenburg-Vorpommern
@@ -5440,8 +5510,6 @@ osm_id,ort,plz,bundesland
 1466178,Hornbek,21514,Schleswig-Holstein
 453006,Hornberg,78132,Baden-Württemberg
 445840,Horneburg,21640,Niedersachsen
-1128667,Horn-Lehe,28357,Bremen
-1128667,Horn-Lehe,28359,Bremen
 2903162,Hornsömmern,99955,Thüringen
 1515586,Hornstorf,23970,Mecklenburg-Vorpommern
 1515586,Hornstorf,23974,Mecklenburg-Vorpommern
@@ -5476,11 +5544,9 @@ osm_id,ort,plz,bundesland
 148593,Höxter,37671,Nordrhein-Westfalen
 2014322,Hoya,27318,Niedersachsen
 2014323,Hoyerhagen,27318,Niedersachsen
-1168901,Hoyershausen,31093,Niedersachsen
-409630,Hoyerswerda,02977,Sachsen
+409630,Hoyerswerda - Wojerecy,02977,Sachsen
 453840,Hübingen,56412,Rheinland-Pfalz
 533251,Hüblingen,56479,Rheinland-Pfalz
-1137601,Huchting,28259,Bremen
 158005,Hückelhoven,41836,Nordrhein-Westfalen
 173818,Hückeswagen,42499,Nordrhein-Westfalen
 1403982,Hude,25876,Schleswig-Holstein
@@ -5507,7 +5573,6 @@ osm_id,ort,plz,bundesland
 2831124,Hümpfershausen,98634,Thüringen
 1418942,Humptrup,25923,Schleswig-Holstein
 959647,Hunderdorf,94336,Bayern
-2393822,Hundeshagen,37339,Thüringen
 2803564,Hundhaupten,07557,Thüringen
 959805,Hunding,94551,Bayern
 534480,Hundsangen,56414,Rheinland-Pfalz
@@ -5585,8 +5650,9 @@ osm_id,ort,plz,bundesland
 2806036,Illmensee,88636,Baden-Württemberg
 1028541,Illschwang,92278,Bayern
 165440,Ilmenau,98693,Thüringen
+165440,Ilmenau,98704,Thüringen
+165440,Ilmenau,98708,Thüringen
 396550,Ilmmünster,85304,Bayern
-396203,Ilmtal,99326,Thüringen
 3410017,Ilmtal-Weinstraße,99510,Thüringen
 4447414,Ilsede,31241,Niedersachsen
 4447414,Ilsede,31246,Niedersachsen
@@ -5613,7 +5679,6 @@ osm_id,ort,plz,bundesland
 161968,Inchenhofen,86570,Bayern
 162463,Inden,52459,Nordrhein-Westfalen
 418872,Ingelbach,57610,Rheinland-Pfalz
-1446660,Ingeleben,38385,Niedersachsen
 376922,Ingelfingen,74653,Baden-Württemberg
 80449,Ingelheim am Rhein,55218,Rheinland-Pfalz
 1152680,Ingendorf,54636,Rheinland-Pfalz
@@ -5686,7 +5751,7 @@ osm_id,ort,plz,bundesland
 1157533,Jagel,24878,Schleswig-Holstein
 409705,Jagsthausen,74249,Baden-Württemberg
 915561,Jagstzell,73489,Baden-Württemberg
-536011,Jahnsdorf/Erzgeb.,09387,Sachsen
+536011,Jahnsdorf/Erzgebirge,09387,Sachsen
 556094,Jahrsdorf,24594,Schleswig-Holstein
 374153,Jakobsdorf,18442,Mecklenburg-Vorpommern
 1254063,Jakobsweiler,67814,Rheinland-Pfalz
@@ -5735,9 +5800,6 @@ osm_id,ort,plz,bundesland
 534053,Johannesberg,63867,Bayern
 419012,Johanngeorgenstadt,08349,Sachsen
 957048,Johanniskirchen,84381,Bayern
-55758,Johannisthal,12437,Berlin
-55758,Johannisthal,12487,Berlin
-55758,Johannisthal,12489,Berlin
 536627,Jöhstadt,09477,Sachsen
 1415666,Joldelund,25862,Schleswig-Holstein
 2778477,Jonaswalde,04626,Thüringen
@@ -5749,9 +5811,7 @@ osm_id,ort,plz,bundesland
 1285578,Jübar,38489,Sachsen-Anhalt
 1156163,Jübek,24855,Schleswig-Holstein
 168486,Jüchen,41363,Nordrhein-Westfalen
-2778478,Jückelberg,04618,Thüringen
 1113729,Jucken,54689,Rheinland-Pfalz
-1273174,Judenbach,96515,Thüringen
 1245312,Jugenheim in Rheinhessen,55270,Rheinland-Pfalz
 1399086,Jühnde,37127,Niedersachsen
 897895,Juist,26571,Niedersachsen
@@ -5817,7 +5877,7 @@ osm_id,ort,plz,bundesland
 2536324,Kaltenwestheim,98634,Thüringen
 310407,Kalübbe,24326,Schleswig-Holstein
 158453,Kamen,59174,Nordrhein-Westfalen
-1307664,Kamenz,01917,Sachsen
+1307664,Kamenz - Kamjenc,01917,Sachsen
 1284741,Kamern,39524,Sachsen-Anhalt
 964148,Kammeltal,89358,Bayern
 453347,Kammerforst,56206,Rheinland-Pfalz
@@ -5829,7 +5889,6 @@ osm_id,ort,plz,bundesland
 1147133,Kampen (Sylt),25999,Schleswig-Holstein
 53370,Kämpfelbach,75236,Baden-Württemberg
 58619,Kamp-Lintfort,47475,Nordrhein-Westfalen
-1273358,Kamsdorf,07334,Thüringen
 1250501,Kandel,76870,Rheinland-Pfalz
 1130283,Kandern,79400,Baden-Württemberg
 1467345,Kankelau,21514,Schleswig-Holstein
@@ -5860,7 +5919,6 @@ osm_id,ort,plz,bundesland
 934461,Karlsfeld,85757,Bayern
 1432809,Karlshagen,17449,Mecklenburg-Vorpommern
 1171851,Karlshausen,54673,Rheinland-Pfalz
-409207,Karlshorst,10318,Berlin
 943728,Karlshuld,86668,Bayern
 943710,Karlskron,85123,Bayern
 62518,Karlsruhe,76131,Baden-Württemberg
@@ -5881,7 +5939,6 @@ osm_id,ort,plz,bundesland
 1418484,Karlum,25926,Schleswig-Holstein
 374162,Karnin,18469,Mecklenburg-Vorpommern
 946202,Karolinenkoog,25774,Schleswig-Holstein
-404664,Karow,13125,Berlin
 449889,Karrenzin,19372,Mecklenburg-Vorpommern
 350014,Karsbach,97783,Bayern
 2396084,Karsdorf,06638,Sachsen-Anhalt
@@ -5932,9 +5989,6 @@ osm_id,ort,plz,bundesland
 62349,Kaufbeuren,87600,Bayern
 936640,Kaufering,86916,Bayern
 1115036,Kaufungen,34260,Hessen
-404586,Kaulsdorf,12619,Berlin
-404586,Kaulsdorf,12621,Berlin
-404586,Kaulsdorf,12623,Berlin
 1273360,Kaulsdorf,07338,Thüringen
 421924,Kausen,57520,Rheinland-Pfalz
 422678,Kayhude,23863,Schleswig-Holstein
@@ -6037,6 +6091,7 @@ osm_id,ort,plz,bundesland
 943545,Kipfenberg,85110,Bayern
 453011,Kippenheim,77971,Baden-Württemberg
 451709,Kirburg,57629,Rheinland-Pfalz
+941672,Kirchanschöring,83329,Bayern
 941672,Kirchanschöring,83417,Bayern
 410524,Kirchardt,74912,Baden-Württemberg
 310394,Kirchbarkau,24245,Schleswig-Holstein
@@ -6051,12 +6106,9 @@ osm_id,ort,plz,bundesland
 940709,Kirchdorf,83527,Bayern
 956658,Kirchdorf,93348,Bayern
 1675313,Kirchdorf,27245,Niedersachsen
-30016,Kirchdorf a.d.Amper,85414,Bayern
 957067,Kirchdorf a.Inn,84375,Bayern
-2801148,Kirchdorf an der Iller,88450,Baden-Württemberg
-2801148,Kirchdorf an der Iller,88453,Baden-Württemberg
+30016,Kirchdorf an der Amper,85414,Bayern
 2801148,Kirchdorf an der Iller,88457,Baden-Württemberg
-2801148,Kirchdorf an der Iller,88459,Baden-Württemberg
 959167,Kirchdorf i.Wald,94261,Bayern
 1080457,Kirchehrenbach,91356,Bayern
 418139,Kircheib,57635,Rheinland-Pfalz
@@ -6123,7 +6175,6 @@ osm_id,ort,plz,bundesland
 1476163,Kittlitz,23911,Schleswig-Holstein
 283610,Kitzingen,97318,Bayern
 420482,Kitzscher,04567,Sachsen
-409216,Kladow,14089,Berlin
 288962,Klamp,24321,Schleswig-Holstein
 1418656,Klanxbüll,25924,Schleswig-Holstein
 1149336,Klappholz,24860,Schleswig-Holstein
@@ -6152,7 +6203,6 @@ osm_id,ort,plz,bundesland
 1258372,Kleinich,54483,Rheinland-Pfalz
 533991,Kleinkahl,63828,Bayern
 410313,Kleinkarlbach,67271,Rheinland-Pfalz
-393354,Klein Kussewitz,18184,Mecklenburg-Vorpommern
 1108058,Kleinlangenfeld,54597,Rheinland-Pfalz
 283684,Kleinlangheim,97355,Bayern
 447955,Kleinmachnow,14532,Brandenburg
@@ -6197,14 +6247,13 @@ osm_id,ort,plz,bundesland
 1284752,Klietz,39524,Sachsen-Anhalt
 539704,Klingelbach,56368,Rheinland-Pfalz
 2673574,Klingenberg,01774,Sachsen
-394450,Klingenberg a. Main,63911,Bayern
+394450,Klingenberg am Main,63911,Bayern
 1252822,Klingenmünster,76889,Rheinland-Pfalz
 443782,Klingenthal,08248,Sachsen
 443782,Klingenthal,08267,Sachsen
 1424299,Klink,17192,Mecklenburg-Vorpommern
 1463295,Klinkrade,23898,Schleswig-Holstein
 549805,Klipphausen,01665,Sachsen
-549805,Klipphausen,01683,Sachsen
 1420393,Klixbüll,25899,Schleswig-Holstein
 1424314,Klocksin,17194,Mecklenburg-Vorpommern
 1241649,Klosterkumbd,55469,Rheinland-Pfalz
@@ -6250,11 +6299,9 @@ osm_id,ort,plz,bundesland
 1022760,Ködnitz,95361,Bayern
 964625,Köfering,93096,Bayern
 1451580,Kogel,19246,Mecklenburg-Vorpommern
-1451580,Kogel,19260,Mecklenburg-Vorpommern
 1059460,Kohlberg,92702,Bayern
 2796175,Kohlberg,72664,Baden-Württemberg
 176740,Köhn,24257,Schleswig-Holstein
-422241,Kohren-Sahlis,04655,Sachsen
 2168247,Kolbermoor,83059,Bayern
 1231966,Kolbingen,78600,Baden-Württemberg
 535014,Kölbingen,56459,Rheinland-Pfalz
@@ -6346,7 +6393,7 @@ osm_id,ort,plz,bundesland
 534526,Königstein,01824,Sachsen
 1028542,Königstein,92281,Bayern
 536632,Königswalde,09471,Sachsen
-1307708,Königswartha,02699,Sachsen
+1307708,Königswartha - Rakecy,02699,Sachsen
 173113,Königswinter,53639,Nordrhein-Westfalen
 55777,Königs Wusterhausen,15711,Brandenburg
 55777,Königs Wusterhausen,15712,Brandenburg
@@ -6354,7 +6401,6 @@ osm_id,ort,plz,bundesland
 1246585,Konken,66871,Rheinland-Pfalz
 390045,Könnern,06420,Sachsen-Anhalt
 968896,Konnersreuth,95692,Bayern
-56724,Konradshöhe,13505,Berlin
 568493,Konradsreuth,95176,Bayern
 2784842,Konstanz,78462,Baden-Württemberg
 2784842,Konstanz,78464,Baden-Württemberg
@@ -6362,14 +6408,10 @@ osm_id,ort,plz,bundesland
 2784842,Konstanz,78467,Baden-Württemberg
 1255968,Konz,54329,Rheinland-Pfalz
 959636,Konzell,94357,Bayern
-409209,Köpenick,12459,Berlin
-409209,Köpenick,12555,Berlin
-409209,Köpenick,12557,Berlin
-409209,Köpenick,12559,Berlin
-409209,Köpenick,12587,Berlin
 1074558,Kopp,54574,Rheinland-Pfalz
 401698,Korb,71404,Baden-Württemberg
 198578,Korbach,34497,Hessen
+198578,Korbach,34513,Hessen
 1246586,Körborn,66871,Rheinland-Pfalz
 2531760,Korbußen,07554,Thüringen
 1255895,Kordel,54306,Rheinland-Pfalz
@@ -6413,7 +6455,7 @@ osm_id,ort,plz,bundesland
 448112,Kraftisried,87647,Bayern
 2787179,Kraftsdorf,07586,Thüringen
 1250986,Krähenberg,66894,Rheinland-Pfalz
-941066,Kraiburg a.Inn,84559,Bayern
+941066,Kraiburg,84559,Bayern
 659843,Kraichtal,76703,Baden-Württemberg
 932431,Krailling,82152,Bayern
 932431,Krailling,82349,Bayern
@@ -6427,14 +6469,14 @@ osm_id,ort,plz,bundesland
 1419601,Kratzeburg,17237,Mecklenburg-Vorpommern
 1182302,Kratzenburg,56283,Rheinland-Pfalz
 2805975,Krauchenwies,72505,Baden-Württemberg
-1311127,Krauschwitz,02957,Sachsen
+1311127,Krauschwitz - Krušwica,02957,Sachsen
 1389279,Krausnick-Groß Wasserburg,15910,Brandenburg
 1268971,Krauthausen,99819,Thüringen
 376875,Krautheim,74238,Baden-Württemberg
 2856448,Krautheim,99439,Thüringen
 1113731,Krautscheid,54673,Rheinland-Pfalz
 3409926,Krayenberggemeinde,36460,Thüringen
-1311119,Kreba-Neudorf,02906,Sachsen
+1311119,Kreba-Neudorf - Chrjebja-Nowa Wjes,02906,Sachsen
 1399099,Krebeck,37434,Niedersachsen
 62748,Krefeld,47798,Nordrhein-Westfalen
 62748,Krefeld,47799,Nordrhein-Westfalen
@@ -6468,14 +6510,6 @@ osm_id,ort,plz,bundesland
 2404547,Kretzschau,06712,Sachsen-Anhalt
 935952,Kreuth,83708,Bayern
 163314,Kreuzau,52372,Nordrhein-Westfalen
-55765,Kreuzberg,10785,Berlin
-55765,Kreuzberg,10961,Berlin
-55765,Kreuzberg,10963,Berlin
-55765,Kreuzberg,10965,Berlin
-55765,Kreuzberg,10967,Berlin
-55765,Kreuzberg,10969,Berlin
-55765,Kreuzberg,10997,Berlin
-55765,Kreuzberg,10999,Berlin
 2394946,Kreuzebra,37351,Thüringen
 163254,Kreuztal,57223,Nordrhein-Westfalen
 336534,Kreuzwertheim,97892,Bayern
@@ -6541,7 +6575,7 @@ osm_id,ort,plz,bundesland
 1515587,Krusenhagen,23974,Mecklenburg-Vorpommern
 1469079,Krüzen,21483,Schleswig-Holstein
 1419912,Kublank,17349,Mecklenburg-Vorpommern
-1309658,Kubschütz,02627,Sachsen
+1309658,Kubschütz - Kubšicy,02627,Sachsen
 1965799,Kuchelmiß,18292,Mecklenburg-Vorpommern
 2772186,Kuchen,73329,Baden-Württemberg
 2000657,Kuckssee,17217,Mecklenburg-Vorpommern
@@ -6565,6 +6599,7 @@ osm_id,ort,plz,bundesland
 2515183,Küllstedt,37359,Thüringen
 975286,Kulmain,95508,Bayern
 1022764,Kulmbach,95326,Bayern
+1022764,Kulmbach,96369,Bayern
 1470174,Kulpin,23911,Schleswig-Holstein
 401803,Külsheim,97900,Baden-Württemberg
 1241642,Külz (Hunsrück),55471,Rheinland-Pfalz
@@ -6622,6 +6657,7 @@ osm_id,ort,plz,bundesland
 2007807,Lahn,49757,Niedersachsen
 215979,Lahnau,35633,Hessen
 450079,Lahnstein,56112,Rheinland-Pfalz
+450079,Lahnstein,56130,Rheinland-Pfalz
 225489,Lahntal,35094,Hessen
 1171879,Lahr,54675,Rheinland-Pfalz
 1266505,Lahr,56288,Rheinland-Pfalz
@@ -6640,7 +6676,7 @@ osm_id,ort,plz,bundesland
 1256085,Lampaden,54316,Rheinland-Pfalz
 537050,Lampertheim,68623,Hessen
 551154,Lampertswalde,01561,Sachsen
-1168896,Lamspringe,31195,Niedersachsen
+6681691,Lamspringe,31195,Niedersachsen
 445757,Lamstedt,21769,Niedersachsen
 1437798,Lancken-Granitz,18586,Mecklenburg-Vorpommern
 959908,Landau an der Isar,94405,Bayern
@@ -6652,6 +6688,7 @@ osm_id,ort,plz,bundesland
 448711,Landrecht,25554,Schleswig-Holstein
 2407132,Landsberg,06188,Sachsen-Anhalt
 932270,Landsberg am Lech,86899,Bayern
+932270,Landsberg am Lech,86932,Bayern
 933536,Landsberied,82290,Bayern
 1259141,Landscheid,54526,Rheinland-Pfalz
 448014,Landscheide,25572,Schleswig-Holstein
@@ -6661,7 +6698,6 @@ osm_id,ort,plz,bundesland
 62484,Landshut,84034,Bayern
 62484,Landshut,84036,Bayern
 1185519,Landstuhl,66849,Rheinland-Pfalz
-1168916,Landwehr,31087,Niedersachsen
 1149286,Langballig,24977,Schleswig-Holstein
 959168,Langdorf,94264,Bayern
 444155,Langeln,25485,Schleswig-Holstein
@@ -6711,7 +6747,6 @@ osm_id,ort,plz,bundesland
 935171,Langerringen,86853,Bayern
 162550,Langerwehe,52379,Nordrhein-Westfalen
 1384822,Langewahl,15518,Brandenburg
-165441,Langewiesen,98704,Thüringen
 534182,Langfurth,91731,Bayern
 418619,Langgöns,35428,Hessen
 1797623,Langlingen,29364,Niedersachsen
@@ -6727,8 +6762,6 @@ osm_id,ort,plz,bundesland
 1253815,Langwieden,66894,Rheinland-Pfalz
 2402524,Lanitz-Hassel-Tal,06628,Sachsen-Anhalt
 1471101,Lankau,23881,Schleswig-Holstein
-55736,Lankwitz,12247,Berlin
-55736,Lankwitz,12249,Berlin
 1289798,Lanz,19309,Brandenburg
 1469080,Lanze,21483,Schleswig-Holstein
 965014,Lappersdorf,93138,Bayern
@@ -6812,7 +6845,6 @@ osm_id,ort,plz,bundesland
 1183264,Leese,31633,Niedersachsen
 898640,Leezdorf,26529,Niedersachsen
 422747,Leezen,23816,Schleswig-Holstein
-449941,Leezen,19065,Mecklenburg-Vorpommern
 449941,Leezen,19067,Mecklenburg-Vorpommern
 958684,Legau,87764,Bayern
 162875,Legden,48739,Nordrhein-Westfalen
@@ -6917,6 +6949,7 @@ osm_id,ort,plz,bundesland
 382411,Lensahn,23738,Schleswig-Holstein
 2396105,Lenterode,37318,Thüringen
 423182,Lentföhrden,24632,Schleswig-Holstein
+423182,Lentföhrden,24640,Schleswig-Holstein
 943556,Lenting,85101,Bayern
 1289788,Lenzen (Elbe),19309,Brandenburg
 1289803,Lenzerwische,19309,Brandenburg
@@ -6960,32 +6993,16 @@ osm_id,ort,plz,bundesland
 414486,Lichtenau,09244,Sachsen
 534384,Lichtenau,91586,Bayern
 1188850,Lichtenau,77839,Baden-Württemberg
-409206,Lichtenberg,10315,Berlin
-409206,Lichtenberg,10317,Berlin
-409206,Lichtenberg,10365,Berlin
-409206,Lichtenberg,10367,Berlin
-409206,Lichtenberg,10369,Berlin
 1021701,Lichtenberg,95192,Bayern
 1307640,Lichtenberg,01896,Sachsen
-416501,Lichtenberg/Erzgeb.,09638,Sachsen
+416501,Lichtenberg/Erzgebirge,09638,Sachsen
 1113726,Lichtenborn,54619,Rheinland-Pfalz
 198603,Lichtenfels,35104,Hessen
 1026859,Lichtenfels,96215,Bayern
-157665,Lichtenrade,12107,Berlin
-157665,Lichtenrade,12305,Berlin
-157665,Lichtenrade,12307,Berlin
-157665,Lichtenrade,12309,Berlin
-417027,Lichtenstein,09350,Sachsen
 2772600,Lichtenstein,72805,Baden-Württemberg
+417027,Lichtenstein/Sachsen,09350,Sachsen
 417078,Lichtentanne,08115,Sachsen
 2792897,Lichtenwald,73669,Baden-Württemberg
-55737,Lichterfelde,12203,Berlin
-55737,Lichterfelde,12205,Berlin
-55737,Lichterfelde,12207,Berlin
-55737,Lichterfelde,12209,Berlin
-55737,Lichterfelde,14167,Berlin
-55737,Lichterfelde,14169,Berlin
-55737,Lichterfelde,14195,Berlin
 1322949,Lichterfeld-Schacksdorf,03238,Brandenburg
 455279,Liebenau,34396,Hessen
 1183247,Liebenau,31618,Niedersachsen
@@ -7011,19 +7028,20 @@ osm_id,ort,plz,bundesland
 1332905,Lietzen,15306,Brandenburg
 1437546,Lietzow,18528,Mecklenburg-Vorpommern
 423195,Lilienthal,28865,Niedersachsen
-403737,Limbach,74838,Baden-Württemberg
+446590,Limbach,08468,Sachsen
 446590,Limbach,08491,Sachsen
 453164,Limbach,57629,Rheinland-Pfalz
 1244081,Limbach,55606,Rheinland-Pfalz
+403737,Limbach (Baden),74838,Baden-Württemberg
 283719,Limbach-Oberfrohna,09212,Sachsen
-324307,Limburg,65549,Hessen
-324307,Limburg,65550,Hessen
-324307,Limburg,65551,Hessen
-324307,Limburg,65552,Hessen
-324307,Limburg,65553,Hessen
-324307,Limburg,65554,Hessen
-324307,Limburg,65555,Hessen
-324307,Limburg,65556,Hessen
+324307,Limburg a. d. Lahn,65549,Hessen
+324307,Limburg a. d. Lahn,65550,Hessen
+324307,Limburg a. d. Lahn,65551,Hessen
+324307,Limburg a. d. Lahn,65552,Hessen
+324307,Limburg a. d. Lahn,65553,Hessen
+324307,Limburg a. d. Lahn,65554,Hessen
+324307,Limburg a. d. Lahn,65555,Hessen
+324307,Limburg a. d. Lahn,65556,Hessen
 418404,Limburgerhof,67117,Rheinland-Pfalz
 450112,Limeshain,63694,Hessen
 1465816,Linau,22959,Schleswig-Holstein
@@ -7119,7 +7137,7 @@ osm_id,ort,plz,bundesland
 225498,Lohra,35102,Hessen
 337282,Lohr am Main,97816,Bayern
 538925,Lohrheim,65558,Rheinland-Pfalz
-1309581,Lohsa,02999,Sachsen
+1309581,Lohsa - Łaz,02999,Sachsen
 959900,Loiching,84180,Bayern
 2337633,Loissin,17509,Mecklenburg-Vorpommern
 1149228,Loit,24888,Schleswig-Holstein
@@ -7164,7 +7182,6 @@ osm_id,ort,plz,bundesland
 1415324,Löwenstedt,25864,Schleswig-Holstein
 410483,Löwenstein,74245,Baden-Württemberg
 1161995,Loxstedt,27612,Niedersachsen
-409234,Lübars,13469,Berlin
 145290,Lübbecke,32312,Nordrhein-Westfalen
 1322898,Lübbenau/Spreewald,03222,Brandenburg
 1389285,Lübben (Spreewald),15907,Brandenburg
@@ -7185,8 +7202,6 @@ osm_id,ort,plz,bundesland
 1451596,Lübesse,19077,Mecklenburg-Vorpommern
 1451552,Lüblow,19288,Mecklenburg-Vorpommern
 1432697,Lubmin,17509,Mecklenburg-Vorpommern
-1504867,Lübow,23966,Mecklenburg-Vorpommern
-1504867,Lübow,23970,Mecklenburg-Vorpommern
 1504867,Lübow,23972,Mecklenburg-Vorpommern
 1408067,Lübs,17379,Mecklenburg-Vorpommern
 1444900,Lübstorf,19069,Mecklenburg-Vorpommern
@@ -7220,6 +7235,7 @@ osm_id,ort,plz,bundesland
 405292,Ludwigsburg,71638,Baden-Württemberg
 405292,Ludwigsburg,71640,Baden-Württemberg
 405292,Ludwigsburg,71642,Baden-Württemberg
+405292,Ludwigsburg,71672,Baden-Württemberg
 1022779,Ludwigschorgast,95364,Bayern
 422432,Ludwigsfelde,14974,Brandenburg
 62347,Ludwigshafen am Rhein,67059,Rheinland-Pfalz
@@ -7264,6 +7280,10 @@ osm_id,ort,plz,bundesland
 1250343,Lustadt,67363,Rheinland-Pfalz
 1467755,Lütau,21483,Schleswig-Holstein
 898200,Lütetsburg,26524,Niedersachsen
+2409291,Lutherstadt Eisleben,06295,Sachsen-Anhalt
+1060610,Lutherstadt Wittenberg,06886,Sachsen-Anhalt
+1060610,Lutherstadt Wittenberg,06888,Sachsen-Anhalt
+1060610,Lutherstadt Wittenberg,06889,Sachsen-Anhalt
 288963,Lütjenburg,24321,Schleswig-Holstein
 1415664,Lütjenholm,25842,Schleswig-Holstein
 454200,Lütjensee,22952,Schleswig-Holstein
@@ -7310,7 +7330,6 @@ osm_id,ort,plz,bundesland
 62481,Magdeburg,39130,Sachsen-Anhalt
 722147,Magstadt,71106,Baden-Württemberg
 453010,Mahlberg,77972,Baden-Württemberg
-164713,Mahlsdorf,12623,Berlin
 1231954,Mahlstetten,78601,Baden-Württemberg
 534482,Mähren,56459,Rheinland-Pfalz
 968890,Mähring,95695,Bayern
@@ -7346,7 +7365,6 @@ osm_id,ort,plz,bundesland
 1258419,Malborn,54426,Rheinland-Pfalz
 1427274,Malchin,17139,Mecklenburg-Vorpommern
 958119,Malching,94094,Bayern
-407926,Malchow,13051,Berlin
 1424390,Malchow,17213,Mecklenburg-Vorpommern
 382435,Malente,23714,Schleswig-Holstein
 957054,Malgersdorf,84333,Bayern
@@ -7356,7 +7374,7 @@ osm_id,ort,plz,bundesland
 1130289,Malsburg-Marzell,79429,Baden-Württemberg
 453401,Malsch,69254,Baden-Württemberg
 659837,Malsch,76316,Baden-Württemberg
-2678596,Malschwitz,02694,Sachsen
+2678596,Malschwitz - Malešecy,02694,Sachsen
 452211,Malsfeld,34323,Hessen
 1124267,Malterdingen,79364,Baden-Württemberg
 418889,Mammelzen,57636,Rheinland-Pfalz
@@ -7401,21 +7419,9 @@ osm_id,ort,plz,bundesland
 181161,Margetshöchheim,97276,Bayern
 959669,Mariaposching,94553,Bayern
 422286,Marienberg,09496,Sachsen
-162900,Mariendorf,12099,Berlin
-162900,Mariendorf,12103,Berlin
-162900,Mariendorf,12105,Berlin
-162900,Mariendorf,12107,Berlin
-162900,Mariendorf,12109,Berlin
-162900,Mariendorf,12277,Berlin
-55753,Marienfelde,12107,Berlin
-55753,Marienfelde,12249,Berlin
-55753,Marienfelde,12277,Berlin
-55753,Marienfelde,12279,Berlin
-55753,Marienfelde,12307,Berlin
 540461,Marienfels,56357,Rheinland-Pfalz
 1289804,Marienfließ,16945,Brandenburg
 898641,Marienhafe,26529,Niedersachsen
-1168894,Marienhagen,31094,Niedersachsen
 444326,Marienhausen,56269,Rheinland-Pfalz
 173853,Marienheide,51709,Nordrhein-Westfalen
 148594,Marienmünster,37696,Nordrhein-Westfalen
@@ -7430,10 +7436,7 @@ osm_id,ort,plz,bundesland
 1389676,Märkisch Buchholz,15748,Brandenburg
 1389281,Märkische Heide,15913,Brandenburg
 1332936,Märkische Höhe,15377,Brandenburg
-55744,Märkisches Viertel,13435,Berlin
-55744,Märkisches Viertel,13439,Berlin
 1302388,Märkisch Linden,16818,Brandenburg
-1302388,Märkisch Linden,16845,Brandenburg
 1266347,Märkisch Luch,14715,Brandenburg
 93399,Markkleeberg,04416,Sachsen
 1334091,Mark Landin,16278,Brandenburg
@@ -7441,7 +7444,6 @@ osm_id,ort,plz,bundesland
 1183265,Marklohe,31608,Niedersachsen
 443525,Markneukirchen,08258,Sachsen
 420238,Markranstädt,04420,Sachsen
-2894252,Marksuhl,99819,Thüringen
 356768,Marktbergel,91613,Bayern
 1015119,Markt Berolzheim,91801,Bayern
 356749,Markt Bibart,91477,Bayern
@@ -7495,11 +7497,6 @@ osm_id,ort,plz,bundesland
 307326,Marxen,21439,Niedersachsen
 962386,Marxheim,86688,Bayern
 309861,Marxzell,76359,Baden-Württemberg
-404584,Marzahn,12679,Berlin
-404584,Marzahn,12681,Berlin
-404584,Marzahn,12685,Berlin
-404584,Marzahn,12687,Berlin
-404584,Marzahn,12689,Berlin
 453168,Marzhausen,57627,Rheinland-Pfalz
 30004,Marzling,85417,Bayern
 448130,Masburg,56761,Rheinland-Pfalz
@@ -7530,6 +7527,7 @@ osm_id,ort,plz,bundesland
 962126,Maxhütte-Haidhof,93142,Bayern
 533589,Maxsain,56244,Rheinland-Pfalz
 541668,Mayen,56727,Rheinland-Pfalz
+541668,Mayen,56729,Rheinland-Pfalz
 1021824,Mayschoß,53508,Rheinland-Pfalz
 2857007,Mechelroda,99441,Thüringen
 158142,Mechernich,53894,Nordrhein-Westfalen
@@ -7595,7 +7593,6 @@ osm_id,ort,plz,bundesland
 1085139,Melle,49326,Niedersachsen
 1085139,Melle,49328,Niedersachsen
 1273288,Mellenbach-Glasbach,98746,Thüringen
-1433086,Mellenthin,17406,Mecklenburg-Vorpommern
 1433086,Mellenthin,17429,Mecklenburg-Vorpommern
 2857008,Mellingen,99441,Thüringen
 2014018,Mellinghausen,27249,Niedersachsen
@@ -7693,7 +7690,6 @@ osm_id,ort,plz,bundesland
 451803,Michelstadt,64720,Hessen
 332537,Michendorf,14552,Brandenburg
 935163,Mickhausen,86866,Bayern
-1437800,Middelhagen,18586,Mecklenburg-Vorpommern
 1428586,Midlum,25938,Schleswig-Holstein
 540462,Miehlen,56357,Rheinland-Pfalz
 554771,Mielkendorf,24247,Schleswig-Holstein
@@ -7729,15 +7725,6 @@ osm_id,ort,plz,bundesland
 1070976,Mistelbach,95511,Bayern
 1070974,Mistelgau,95490,Bayern
 1964351,Mistorf,18276,Mecklenburg-Vorpommern
-16566,Mitte,10115,Berlin
-16566,Mitte,10117,Berlin
-16566,Mitte,10119,Berlin
-16566,Mitte,10178,Berlin
-16566,Mitte,10179,Berlin
-16566,Mitte,10435,Berlin
-1127350,Mitte,28195,Bremen
-1127350,Mitte,28203,Bremen
-1127350,Mitte,28215,Bremen
 2790946,Mittelangeln,24986,Schleswig-Holstein
 2801322,Mittelbiberach,88441,Baden-Württemberg
 1253825,Mittelbrunn,66851,Rheinland-Pfalz
@@ -7764,11 +7751,6 @@ osm_id,ort,plz,bundesland
 414696,Mittweida,09648,Sachsen
 1021752,Mitwitz,96268,Bayern
 1384841,Mixdorf,15299,Brandenburg
-28339,Moabit,10551,Berlin
-28339,Moabit,10553,Berlin
-28339,Moabit,10555,Berlin
-28339,Moabit,10557,Berlin
-28339,Moabit,10559,Berlin
 1283579,Möckern,39279,Sachsen-Anhalt
 1283579,Möckern,39291,Sachsen-Anhalt
 2778390,Möckern,07646,Thüringen
@@ -7790,7 +7772,6 @@ osm_id,ort,plz,bundesland
 1149237,Mohrkirch,24392,Schleswig-Holstein
 1149237,Mohrkirch,24405,Schleswig-Holstein
 1149237,Mohrkirch,24891,Schleswig-Holstein
-303369,Moisburg,21279,Niedersachsen
 303369,Moisburg,21647,Niedersachsen
 2404040,Molauer Land,06618,Sachsen-Anhalt
 1101319,Molbergen,49696,Niedersachsen
@@ -7804,7 +7785,6 @@ osm_id,ort,plz,bundesland
 2818334,Molschleben,99869,Thüringen
 1432805,Mölschow,17449,Mecklenburg-Vorpommern
 1248699,Mölsheim,67591,Rheinland-Pfalz
-2676471,Moltzow,17139,Mecklenburg-Vorpommern
 2676471,Moltzow,17194,Mecklenburg-Vorpommern
 421923,Molzhain,57520,Rheinland-Pfalz
 534045,Mömbris,63776,Bayern
@@ -7825,6 +7805,7 @@ osm_id,ort,plz,bundesland
 62410,Mönchengladbach,41238,Nordrhein-Westfalen
 62410,Mönchengladbach,41239,Nordrhein-Westfalen
 2857009,Mönchenholzhausen,99198,Thüringen
+7885533,Mönchgut,18586,Mecklenburg-Vorpommern
 393340,Mönchhagen,18182,Mecklenburg-Vorpommern
 2387351,Mönchpfiffel-Nikolausrieth,06556,Thüringen
 962449,Mönchsdeggingen,86751,Bayern
@@ -7905,7 +7886,7 @@ osm_id,ort,plz,bundesland
 2406074,Mücheln (Geiseltal),06268,Sachsen-Anhalt
 2406074,Mücheln (Geiseltal),06632,Sachsen-Anhalt
 1451556,Muchow,19300,Mecklenburg-Vorpommern
-1316259,Mücka,02906,Sachsen
+1316259,Mücka - Mikow,02906,Sachsen
 418338,Mücke,35325,Hessen
 1085809,Mückeln,54558,Rheinland-Pfalz
 403736,Mudau,69427,Baden-Württemberg
@@ -7915,7 +7896,6 @@ osm_id,ort,plz,bundesland
 422320,Mudersbach,57555,Rheinland-Pfalz
 538931,Mudershausen,65623,Rheinland-Pfalz
 535249,Mügeln,04769,Sachsen
-410443,Müggelheim,12559,Berlin
 907209,Muggensturm,76461,Baden-Württemberg
 455486,Müglitztal,01809,Sachsen
 553520,Mühbrook,24582,Schleswig-Holstein
@@ -7923,7 +7903,7 @@ osm_id,ort,plz,bundesland
 412401,Mühlau,09241,Sachsen
 1303470,Mühlberg/Elbe,04895,Brandenburg
 1303470,Mühlberg/Elbe,04931,Brandenburg
-941004,Mühldorf a.Inn,84453,Bayern
+941004,Mühldorf a. Inn,84453,Bayern
 453021,Mühlenbach,77796,Baden-Württemberg
 450225,Mühlenbarbek,25548,Schleswig-Holstein
 1310093,Mühlenbecker Land,16515,Brandenburg
@@ -7938,9 +7918,9 @@ osm_id,ort,plz,bundesland
 453374,Mühlhausen,69242,Baden-Württemberg
 1016517,Mühlhausen,96172,Bayern
 1028809,Mühlhausen,92360,Bayern
+2895773,Mühlhausen,99974,Thüringen
 1104552,Mühlhausen-Ehingen,78259,Baden-Württemberg
 2788184,Mühlhausen im Täle,73347,Baden-Württemberg
-2895773,Mühlhausen/Thüringen,99974,Thüringen
 659749,Mühlheim am Main,63165,Hessen
 1231978,Mühlheim an der Donau,78570,Baden-Württemberg
 1236165,Mühlingen,78357,Baden-Württemberg
@@ -7949,7 +7929,7 @@ osm_id,ort,plz,bundesland
 452413,Mühltal,64367,Hessen
 1015094,Muhr am See,91735,Bayern
 1152668,Mülbach,54636,Rheinland-Pfalz
-416542,Mulda/Sa.,09619,Sachsen
+416542,Mulda/Sachsen,09619,Sachsen
 443783,Muldenhammer,08262,Sachsen
 1329610,Muldestausee,06774,Sachsen-Anhalt
 376870,Mulfingen,74673,Baden-Württemberg
@@ -8080,14 +8060,14 @@ osm_id,ort,plz,bundesland
 62591,Münster,48163,Nordrhein-Westfalen
 62591,Münster,48165,Nordrhein-Westfalen
 62591,Münster,48167,Nordrhein-Westfalen
-452392,Münster,64839,Hessen
 962251,Münster,86692,Bayern
 1253882,Münsterappel,67822,Rheinland-Pfalz
 450519,Münsterdorf,25587,Schleswig-Holstein
 964149,Münsterhausen,86505,Bayern
+452392,Münster (Hessen),64839,Hessen
 543127,Münstermaifeld,56294,Rheinland-Pfalz
 1239648,Münster-Sarmsheim,55424,Rheinland-Pfalz
-72264,Münstertal,79244,Baden-Württemberg
+72264,Münstertal/Schwarzwald,79244,Baden-Württemberg
 446510,Münzenberg,35516,Hessen
 1433744,Murchin,17390,Mecklenburg-Vorpommern
 2787776,Murg,79730,Baden-Württemberg
@@ -8115,16 +8095,14 @@ osm_id,ort,plz,bundesland
 1022869,Nagel,95697,Bayern
 1177445,Nagold,72202,Baden-Württemberg
 422706,Nahe,23866,Schleswig-Holstein
-1271109,Nahetal-Waldau,98553,Thüringen
-1271109,Nahetal-Waldau,98667,Thüringen
 1376687,Nahrendorf,21369,Niedersachsen
 1021706,Naila,95119,Bayern
 1184568,Nalbach,66809,Saarland
 1184601,Namborn,66640,Saarland
+29825,Nandlstadt,85395,Bayern
 29825,Nandlstadt,85405,Bayern
 1241647,Nannhausen,55469,Rheinland-Pfalz
 1246487,Nanzdietschweiler,66909,Rheinland-Pfalz
-422240,Narsdorf,04657,Sachsen
 1171886,Nasingen,54673,Rheinland-Pfalz
 540068,Nassau,56377,Rheinland-Pfalz
 943542,Nassenfels,85128,Bayern
@@ -8150,7 +8128,7 @@ osm_id,ort,plz,bundesland
 2778392,Nausnitz,07616,Thüringen
 2899676,Nazza,99826,Thüringen
 1428597,Nebel,25946,Schleswig-Holstein
-1307668,Nebelschütz,01920,Sachsen
+1307668,Nebelschütz - Njebjelčicy,01920,Sachsen
 2395647,Nebra (Unstrut),06642,Sachsen-Anhalt
 453371,Neckarbischofsheim,74924,Baden-Württemberg
 453391,Neckargemünd,69151,Baden-Württemberg
@@ -8198,7 +8176,7 @@ osm_id,ort,plz,bundesland
 1074565,Neroth,54570,Rheinland-Pfalz
 941074,Nersingen,89278,Bayern
 1246774,Nerzweiler,67749,Rheinland-Pfalz
-1307710,Neschwitz,02699,Sachsen
+1307710,Neschwitz - Njeswačidło,02699,Sachsen
 2816450,Nesse-Apfelstädt,99192,Thüringen
 448300,Nesselwang,87484,Bayern
 163260,Netphen,57250,Nordrhein-Westfalen
@@ -8227,6 +8205,7 @@ osm_id,ort,plz,bundesland
 1183344,Neubulach,75387,Baden-Württemberg
 1515659,Neuburg,23974,Mecklenburg-Vorpommern
 964465,Neuburg a.d.Kammel,86476,Bayern
+958106,Neuburg a.Inn,94036,Bayern
 958106,Neuburg a.Inn,94127,Bayern
 1250484,Neuburg am Rhein,76776,Rheinland-Pfalz
 943684,Neuburg an der Donau,86633,Bayern
@@ -8246,7 +8225,7 @@ osm_id,ort,plz,bundesland
 534383,Neuendettelsau,91564,Bayern
 349449,Neuendorf,97788,Bayern
 1108047,Neuendorf,54597,Rheinland-Pfalz
-447189,Neuendorf b. Elmshorn,25335,Schleswig-Holstein
+447189,Neuendorf bei Elmshorn,25335,Schleswig-Holstein
 448018,Neuendorf-Sachsenbande,25554,Schleswig-Holstein
 2778393,Neuengönna,07778,Thüringen
 422841,Neuengörs,23818,Schleswig-Holstein
@@ -8294,17 +8273,11 @@ osm_id,ort,plz,bundesland
 416545,Neuhausen/Erzgebirge,09544,Sachsen
 1231969,Neuhausen ob Eck,78579,Baden-Württemberg
 1322563,Neuhausen/Spree,03058,Brandenburg
-1273179,Neuhaus-Schierschnitz,96524,Thüringen
 1140563,Neuheilenbach,54597,Rheinland-Pfalz
 1186698,Neuhemsbach,67680,Rheinland-Pfalz
 454881,Neuhof,36119,Hessen
-1186466,Neuhof,31195,Niedersachsen
 357053,Neuhof a.d.Zenn,90616,Bayern
 418403,Neuhofen,67141,Rheinland-Pfalz
-413420,Neu-Hohenschönhausen,13051,Berlin
-413420,Neu-Hohenschönhausen,13053,Berlin
-413420,Neu-Hohenschönhausen,13057,Berlin
-413420,Neu-Hohenschönhausen,13059,Berlin
 349416,Neuhütten,97843,Bayern
 1257092,Neuhütten,54422,Rheinland-Pfalz
 659742,Neu-Isenburg,63263,Hessen
@@ -8327,18 +8300,6 @@ osm_id,ort,plz,bundesland
 958116,Neukirchen vorm Wald,94154,Bayern
 1307620,Neukirch/Lausitz,01904,Sachsen
 1515759,Neukloster,23992,Mecklenburg-Vorpommern
-409213,Neukölln,10965,Berlin
-409213,Neukölln,10967,Berlin
-409213,Neukölln,12043,Berlin
-409213,Neukölln,12045,Berlin
-409213,Neukölln,12047,Berlin
-409213,Neukölln,12049,Berlin
-409213,Neukölln,12051,Berlin
-409213,Neukölln,12053,Berlin
-409213,Neukölln,12055,Berlin
-409213,Neukölln,12057,Berlin
-409213,Neukölln,12059,Berlin
-409213,Neukölln,12099,Berlin
 1432537,Neu Kosenow,17398,Mecklenburg-Vorpommern
 1474207,Neulehe,26909,Niedersachsen
 1249677,Neuleiningen,67271,Rheinland-Pfalz
@@ -8349,7 +8310,8 @@ osm_id,ort,plz,bundesland
 1258387,Neumagen-Dhron,54347,Rheinland-Pfalz
 446596,Neumark,08496,Sachsen
 2856454,Neumark,99439,Thüringen
-1028812,Neumarkt in der Oberpfalz,92318,Bayern
+1028812,Neumarkt i.d.OPf.,92318,Bayern
+1028812,Neumarkt i.d.OPf.,92348,Bayern
 944899,Neumarkt-Sankt Veit,84494,Bayern
 2788892,Neumühle/Elster,07980,Thüringen
 62528,Neumünster,24534,Schleswig-Holstein
@@ -8371,7 +8333,7 @@ osm_id,ort,plz,bundesland
 1258417,Neunkirchen,54426,Rheinland-Pfalz
 1080490,Neunkirchen a.Brand,91077,Bayern
 1246625,Neunkirchen am Potzberg,66887,Rheinland-Pfalz
-1017484,Neunkirchen am Sand,91233,Bayern
+1017484,Neunkirchen a. Sand,91233,Bayern
 173122,Neunkirchen-Seelscheid,53819,Nordrhein-Westfalen
 942028,Neuötting,84524,Bayern
 1314218,Neupetershain,03103,Brandenburg
@@ -8403,27 +8365,23 @@ osm_id,ort,plz,bundesland
 163307,Neuss,41470,Nordrhein-Westfalen
 163307,Neuss,41472,Nordrhein-Westfalen
 225497,Neustadt,35279,Hessen
-444284,Neustadt,08223,Sachsen
-1136702,Neustadt,28199,Bremen
-1136702,Neustadt,28201,Bremen
-1136702,Neustadt,28277,Bremen
 956656,Neustadt a.d.Donau,93333,Bayern
-1059448,Neustadt a.d.Waldnaab,92660,Bayern
 335458,Neustadt a.Main,97845,Bayern
 1059431,Neustadt am Kulm,95514,Bayern
 168359,Neustadt am Rennsteig,98701,Thüringen
 1162990,Neustadt am Rübenberge,31535,Niedersachsen
 357040,Neustadt an der Aisch,91413,Bayern
 2179198,Neustadt an der Orla,07806,Thüringen
+1059448,Neustadt an der Waldnaab,92660,Bayern
 62724,Neustadt an der Weinstraße,67433,Rheinland-Pfalz
 62724,Neustadt an der Weinstraße,67434,Rheinland-Pfalz
 62724,Neustadt an der Weinstraße,67435,Rheinland-Pfalz
 956803,Neustadt b.Coburg,96465,Bayern
 1302391,Neustadt (Dosse),16845,Brandenburg
 1457062,Neustadt-Glewe,19306,Mecklenburg-Vorpommern
-2400326,Neustadt/Harz,99762,Thüringen
 382433,Neustadt in Holstein,23730,Schleswig-Holstein
 2321819,Neustadt in Sachsen,01844,Sachsen
+444284,Neustadt/Vogtland,08223,Sachsen
 533255,Neustadt/ Westerwald,56479,Rheinland-Pfalz
 443470,Neustadt (Wied),53577,Rheinland-Pfalz
 2778911,Neustetten,72149,Baden-Württemberg
@@ -8523,10 +8481,6 @@ osm_id,ort,plz,bundesland
 1258870,Niederscheidweiler,54533,Rheinland-Pfalz
 1251118,Niederschlettenbach,76891,Rheinland-Pfalz
 962265,Niederschönenfeld,86694,Bayern
-55759,Niederschöneweide,12437,Berlin
-55759,Niederschöneweide,12439,Berlin
-407652,Niederschönhausen,13156,Berlin
-407652,Niederschönhausen,13158,Berlin
 1245179,Niedersohren,55487,Rheinland-Pfalz
 1085795,Niederstadtfeld,54570,Rheinland-Pfalz
 1252362,Niederstaufenbach,66879,Rheinland-Pfalz
@@ -8562,7 +8516,7 @@ osm_id,ort,plz,bundesland
 1399095,Niemetal,37127,Niedersachsen
 548596,Nienborstel,24819,Schleswig-Holstein
 390042,Nienburg (Saale),06429,Sachsen-Anhalt
-1183257,Nienburg (Weser),31582,Niedersachsen
+1183257,Nienburg/Weser,31582,Niedersachsen
 448769,Nienbüttel,25596,Schleswig-Holstein
 1479254,Niendorf,23923,Mecklenburg-Vorpommern
 1464849,Niendorf bei Berkenthin,23919,Schleswig-Holstein
@@ -8579,10 +8533,6 @@ osm_id,ort,plz,bundesland
 1115034,Nieste,34329,Hessen
 1115031,Niestetal,34266,Hessen
 535690,Nievern,56132,Rheinland-Pfalz
-409219,Nikolassee,14109,Berlin
-409219,Nikolassee,14129,Berlin
-409219,Nikolassee,14163,Berlin
-409219,Nikolassee,14193,Berlin
 2179199,Nimritz,07381,Thüringen
 1108053,Nimshuscheid,54612,Rheinland-Pfalz
 1108039,Nimsreuland,54614,Rheinland-Pfalz
@@ -8621,7 +8571,6 @@ osm_id,ort,plz,bundesland
 962288,Norderheistedt,25779,Schleswig-Holstein
 415727,Nordermeldorf,25704,Schleswig-Holstein
 2456879,Norderney,26548,Niedersachsen
-1157805,Norderstapel,25868,Schleswig-Holstein
 422634,Norderstedt,22844,Schleswig-Holstein
 422634,Norderstedt,22846,Schleswig-Holstein
 422634,Norderstedt,22848,Schleswig-Holstein
@@ -8634,6 +8583,7 @@ osm_id,ort,plz,bundesland
 1352963,Nordharz,38871,Sachsen-Anhalt
 412881,Nordhastedt,25785,Schleswig-Holstein
 2400430,Nordhausen,99734,Thüringen
+2400430,Nordhausen,99762,Thüringen
 410500,Nordheim,74226,Baden-Württemberg
 283687,Nordheim a.Main,97334,Bayern
 386920,Nordheim v.d.Rhön,97647,Bayern
@@ -8762,7 +8712,7 @@ osm_id,ort,plz,bundesland
 161956,Obergriesbach,86573,Bayern
 915447,Obergröningen,73569,Baden-Württemberg
 448038,Obergünzburg,87634,Bayern
-1309669,Obergurig,02692,Sachsen
+1309669,Obergurig - Hornja Hórka,02692,Sachsen
 538893,Oberhaching,82041,Bayern
 538893,Oberhaching,82064,Bayern
 532374,Oberhaid,56237,Rheinland-Pfalz
@@ -8821,21 +8771,20 @@ osm_id,ort,plz,bundesland
 1253868,Obermoschel,67823,Rheinland-Pfalz
 416404,Obernau,57638,Rheinland-Pfalz
 282306,Obernbreit,97342,Bayern
-395322,Obernburg a.Main,63785,Bayern
+395322,Obernburg am Main,63785,Bayern
 1180888,Oberndorf,21787,Niedersachsen
 1253874,Oberndorf,67821,Rheinland-Pfalz
 962253,Oberndorf a.Lech,86698,Bayern
 943741,Oberndorf am Neckar,78727,Baden-Württemberg
 538924,Oberneisen,65558,Rheinland-Pfalz
 941041,Oberneukirchen,84565,Bayern
-1128654,Oberneuland,28325,Bremen
-1128654,Oberneuland,28355,Bremen
 1399090,Obernfeld,37434,Niedersachsen
 2779387,Obernheim,72364,Baden-Württemberg
 1250987,Obernheim-Kirchenarnbach,66919,Rheinland-Pfalz
 540054,Obernhof,56379,Rheinland-Pfalz
 1392724,Obernholz,29386,Niedersachsen
 1169369,Obernkirchen,31683,Niedersachsen
+958111,Obernzell,94107,Bayern
 958111,Obernzell,94130,Bayern
 357055,Obernzenn,91619,Bayern
 1258883,Oberöfflingen,54533,Rheinland-Pfalz
@@ -8869,7 +8818,6 @@ osm_id,ort,plz,bundesland
 416472,Oberschöna,09600,Sachsen
 3066478,Oberschönau,98587,Thüringen
 958259,Oberschönegg,87770,Bayern
-413421,Oberschöneweide,12459,Berlin
 318256,Oberschwarzach,97516,Bayern
 933513,Oberschweinbach,82294,Bayern
 1251157,Obersimten,66957,Rheinland-Pfalz
@@ -8902,8 +8850,6 @@ osm_id,ort,plz,bundesland
 1334107,Oberuckersee,17291,Brandenburg
 417461,Oberursel,61440,Hessen
 961853,Oberviechtach,92526,Bayern
-1137744,Obervieland,28277,Bremen
-1137744,Obervieland,28279,Bremen
 540468,Oberwallmenach,56357,Rheinland-Pfalz
 418868,Oberwambach,57614,Rheinland-Pfalz
 2536250,Oberweid,98634,Thüringen
@@ -8920,6 +8866,7 @@ osm_id,ort,plz,bundesland
 536633,Oberwiesenthal,09484,Sachsen
 453005,Oberwolfach,77709,Baden-Württemberg
 1245132,Oberwörresbach,55758,Rheinland-Pfalz
+7876002,Oberzent,64760,Hessen
 1050577,Oberzissen,56651,Rheinland-Pfalz
 2396187,Obhausen,06268,Sachsen-Anhalt
 941624,Obing,83119,Bayern
@@ -8954,8 +8901,8 @@ osm_id,ort,plz,bundesland
 151333,Oelde,59302,Nordrhein-Westfalen
 450518,Oelixdorf,25524,Schleswig-Holstein
 540469,Oelsberg,56357,Rheinland-Pfalz
-443861,Oelsnitz,08606,Sachsen
 536017,Oelsnitz/Erzgebirge,09376,Sachsen
+443861,Oelsnitz/Vogtland,08606,Sachsen
 2831170,Oepfershausen,98634,Thüringen
 1079021,Oerel,27432,Niedersachsen
 63502,Oer-Erkenschwick,45739,Nordrhein-Westfalen
@@ -9087,7 +9034,7 @@ osm_id,ort,plz,bundesland
 62631,Osnabrück,49086,Niedersachsen
 62631,Osnabrück,49088,Niedersachsen
 62631,Osnabrück,49090,Niedersachsen
-1307711,Oßling,01920,Sachsen
+1307711,Oßling - Wóslink,01920,Sachsen
 152289,Ostbevern,48346,Nordrhein-Westfalen
 898642,Osteel,26529,Niedersachsen
 933496,Ostelsheim,75395,Baden-Württemberg
@@ -9107,9 +9054,6 @@ osm_id,ort,plz,bundesland
 2084704,"Osterheide, gemfr. Bezirk",29683,Niedersachsen
 1395416,Osterhever,25836,Schleswig-Holstein
 959824,Osterhofen,94486,Bayern
-1128540,Osterholz,28307,Bremen
-1128540,Osterholz,28325,Bremen
-1128540,Osterholz,28327,Bremen
 188238,Osterholz-Scharmbeck,27711,Niedersachsen
 444183,Osterhorn,25364,Schleswig-Holstein
 1329406,Osternienburger Land,06386,Sachsen-Anhalt
@@ -9125,10 +9069,8 @@ osm_id,ort,plz,bundesland
 447640,Osterzell,87662,Bayern
 2793022,Ostfildern,73760,Baden-Württemberg
 1177208,Osthausen-Wülfershausen,99310,Thüringen
-386931,Ostheim vor der Rhön,97645,Bayern
+386931,Ostheim v.d.Rhön,97645,Bayern
 902668,Osthofen,67574,Rheinland-Pfalz
-1128428,Östliche Vorstadt,28203,Bremen
-1128428,Östliche Vorstadt,28205,Bremen
 2805481,Ostrach,88356,Baden-Württemberg
 2410099,Ostramondra,99636,Thüringen
 415411,Ostrau,04749,Sachsen
@@ -9197,9 +9139,6 @@ osm_id,ort,plz,bundesland
 1451521,Pampow,19075,Mecklenburg-Vorpommern
 288914,Panker,24321,Schleswig-Holstein
 1318329,Panketal,16341,Brandenburg
-407712,Pankow,10439,Berlin
-407712,Pankow,13187,Berlin
-407712,Pankow,13189,Berlin
 1307659,Panschwitz-Kuckau,01920,Sachsen
 374197,Pantelitz,18442,Mecklenburg-Vorpommern
 1465974,Panten,23896,Schleswig-Holstein
@@ -9266,7 +9205,6 @@ osm_id,ort,plz,bundesland
 413428,Penig,09322,Sachsen
 1424395,Penkow,17213,Mecklenburg-Vorpommern
 1407737,Penkun,17328,Mecklenburg-Vorpommern
-1268665,Pennewitz,98708,Thüringen
 1183246,Pennigsehl,31621,Niedersachsen
 964626,Pentling,93080,Bayern
 936920,Penzberg,82377,Bayern
@@ -9309,7 +9247,6 @@ osm_id,ort,plz,bundesland
 1244008,Pfaffen-Schwabenheim,55546,Rheinland-Pfalz
 1946219,Pfaffenweiler,79292,Baden-Württemberg
 2186931,Pfaffing,83539,Bayern
-422248,Pfaffroda,09526,Sachsen
 2813152,Pfaffschwende,37308,Thüringen
 966626,Pfakofen,93101,Bayern
 1182308,Pfalzfeld,56291,Rheinland-Pfalz
@@ -9372,8 +9309,6 @@ osm_id,ort,plz,bundesland
 553875,Planetal,14806,Brandenburg
 1071004,Plankenfels,95515,Bayern
 454168,Plankstadt,68723,Baden-Württemberg
-55761,Plänterwald,12435,Berlin
-55761,Plänterwald,12437,Berlin
 1171876,Plascheid,54673,Rheinland-Pfalz
 449930,Plate,19086,Mecklenburg-Vorpommern
 1259127,Platten,54518,Rheinland-Pfalz
@@ -9493,15 +9428,6 @@ osm_id,ort,plz,bundesland
 936771,Prem,86984,Bayern
 1266353,Premnitz,14727,Brandenburg
 1334102,Prenzlau,17291,Brandenburg
-407713,Prenzlauer Berg,10119,Berlin
-407713,Prenzlauer Berg,10247,Berlin
-407713,Prenzlauer Berg,10249,Berlin
-407713,Prenzlauer Berg,10405,Berlin
-407713,Prenzlauer Berg,10407,Berlin
-407713,Prenzlauer Berg,10409,Berlin
-407713,Prenzlauer Berg,10435,Berlin
-407713,Prenzlauer Berg,10437,Berlin
-407713,Prenzlauer Berg,10439,Berlin
 374252,Prerow,18375,Mecklenburg-Vorpommern
 1059457,Pressath,92690,Bayern
 1022769,Presseck,95355,Bayern
@@ -9546,7 +9472,7 @@ osm_id,ort,plz,bundesland
 1269718,Pünderich,56862,Rheinland-Pfalz
 933964,Pürgen,86932,Bayern
 1016406,Puschendorf,90617,Bayern
-1307709,Puschwitz,02699,Sachsen
+1307709,Puschwitz - Bóšicy,02699,Sachsen
 1437551,Putbus,18581,Mecklenburg-Vorpommern
 1437948,Putgarten,18556,Mecklenburg-Vorpommern
 1289785,Putlitz,16949,Brandenburg
@@ -9572,7 +9498,7 @@ osm_id,ort,plz,bundesland
 533591,Quirnbach,56242,Rheinland-Pfalz
 1246489,Quirnbach/Pfalz,66909,Rheinland-Pfalz
 1249732,Quirnheim,67280,Rheinland-Pfalz
-1311143,Quitzdorf am See,02906,Sachsen
+1311143,Quitzdorf am See - Kwětanecy,02906,Sachsen
 443299,Raa-Besenbek,25335,Schleswig-Holstein
 1145351,Rabel,24376,Schleswig-Holstein
 418612,Rabenau,35466,Hessen
@@ -9582,7 +9508,7 @@ osm_id,ort,plz,bundesland
 449935,Raben Steinfeld,19065,Mecklenburg-Vorpommern
 556295,Rabenstein/Fläming,14823,Brandenburg
 1446646,Räbke,38375,Niedersachsen
-1307665,Räckelwitz,01920,Sachsen
+1307665,Räckelwitz - Worklecy,01920,Sachsen
 418884,Racksen,57612,Rheinland-Pfalz
 444743,Rackwitz,04519,Sachsen
 1392132,Radbruch,21449,Niedersachsen
@@ -9595,20 +9521,19 @@ osm_id,ort,plz,bundesland
 548592,Rade b. Hohenwestedt,24594,Schleswig-Holstein
 551230,Radeburg,01471,Sachsen
 173815,Radevormwald,42477,Nordrhein-Westfalen
-1309632,Radibor,02627,Sachsen
-2784987,Radolfzell am Bodensee,78315,Baden-Württemberg
+1309632,Radibor - Radwor,02627,Sachsen
+2784987,Radolfzell,78315,Baden-Württemberg
 162718,Raesfeld,46348,Nordrhein-Westfalen
 1384834,Ragow-Merz,15848,Brandenburg
 1329609,Raguhn-Jeßnitz,06779,Sachsen-Anhalt
 1329609,Raguhn-Jeßnitz,06800,Sachsen-Anhalt
 145233,Rahden,32369,Nordrhein-Westfalen
-409211,Rahnsdorf,12589,Berlin
 959634,Rain,94369,Bayern
 962252,Rain,86641,Bayern
 915551,Rainau,73492,Baden-Württemberg
 936834,Raisting,82399,Bayern
 1015140,Raitenbuch,91790,Bayern
-1307706,Ralbitz-Rosenthal,01920,Sachsen
+1307706,Ralbitz-Rosenthal - Ralbicy-Róžant,01920,Sachsen
 1260068,Ralingen,54310,Rheinland-Pfalz
 1437543,Ralswiek,18528,Mecklenburg-Vorpommern
 1252767,Ramberg,76829,Rheinland-Pfalz
@@ -9621,7 +9546,7 @@ osm_id,ort,plz,bundesland
 1307628,Rammenau,01877,Sachsen
 937638,Rammingen,89192,Baden-Württemberg
 968911,Rammingen,86871,Bayern
-941797,Ramsau b. Berchtesgaden,83486,Bayern
+941797,Ramsau bei Berchtesgaden,83486,Bayern
 1254495,Ramsen,67305,Rheinland-Pfalz
 2857015,Ramsla,99439,Thüringen
 1405166,Ramstedt,25876,Schleswig-Holstein
@@ -9652,7 +9577,6 @@ osm_id,ort,plz,bundesland
 2410100,Rastenberg,99636,Thüringen
 289958,Rastorf,24211,Schleswig-Holstein
 1451572,Rastow,19077,Mecklenburg-Vorpommern
-1451572,Rastow,19288,Mecklenburg-Vorpommern
 382445,Ratekau,23611,Schleswig-Holstein
 382445,Ratekau,23626,Schleswig-Holstein
 382445,Ratekau,23669,Schleswig-Holstein
@@ -9756,12 +9680,13 @@ osm_id,ort,plz,bundesland
 961326,Reichenbach,93189,Bayern
 1021745,Reichenbach,96358,Bayern
 1245056,Reichenbach,55776,Rheinland-Pfalz
-1311106,Reichenbach,02894,Sachsen
 2778403,Reichenbach,07629,Thüringen
 5818742,Reichenbach,08468,Sachsen
+5818742,Reichenbach,08491,Sachsen
 5818742,Reichenbach,08499,Sachsen
 1231964,Reichenbach am Heuberg,78564,Baden-Württemberg
 2792737,Reichenbach an der Fils,73262,Baden-Württemberg
+1311106,Reichenbach/Oberlausitz,02894,Sachsen
 1253794,Reichenbach-Steegen,66879,Rheinland-Pfalz
 163746,Reichenberg,97234,Bayern
 539911,Reichenberg,56357,Rheinland-Pfalz
@@ -9790,17 +9715,12 @@ osm_id,ort,plz,bundesland
 1964781,Reimershagen,18276,Mecklenburg-Vorpommern
 962466,Reimlingen,86756,Bayern
 335683,Reinbek,21465,Schleswig-Holstein
+335683,Reinbek,21521,Schleswig-Holstein
 532401,Reinfeld,23858,Schleswig-Holstein
 943199,Reinhardshagen,34359,Hessen
 534533,Reinhardtsdorf-Schöna,01814,Sachsen
 452423,Reinheim,64354,Hessen
 2813794,Reinholterode,37308,Thüringen
-16328,Reinickendorf,13403,Berlin
-16328,Reinickendorf,13405,Berlin
-16328,Reinickendorf,13407,Berlin
-16328,Reinickendorf,13409,Berlin
-16328,Reinickendorf,13437,Berlin
-16328,Reinickendorf,13509,Berlin
 416000,Reinsberg,09629,Sachsen
 416000,Reinsberg,09634,Sachsen
 447165,Reinsbüttel,25764,Schleswig-Holstein
@@ -9824,7 +9744,8 @@ osm_id,ort,plz,bundesland
 1427002,Remchingen,75196,Baden-Württemberg
 1273348,Remda-Teichel,07407,Thüringen
 180677,Remlingen,97280,Bayern
-1432636,Remlingen,38319,Niedersachsen
+6680396,Remlingen-Semmenstedt,38319,Niedersachsen
+6680396,Remlingen-Semmenstedt,38327,Niedersachsen
 548594,Remmels,24594,Schleswig-Holstein
 2179211,Remptendorf,07368,Thüringen
 62455,Remscheid,42853,Nordrhein-Westfalen
@@ -9870,7 +9791,6 @@ osm_id,ort,plz,bundesland
 1416815,Reußenköge,25821,Schleswig-Holstein
 957050,Reut,84367,Bayern
 1970197,Reute,79276,Baden-Württemberg
-444816,Reuth,08538,Sachsen
 1075991,Reuth,54597,Rheinland-Pfalz
 62392,Reuth b.Erbendorf,92717,Bayern
 2772661,Reutlingen,72760,Baden-Württemberg
@@ -9885,7 +9805,6 @@ osm_id,ort,plz,bundesland
 78727,Rheda-Wiedenbrück,33378,Nordrhein-Westfalen
 162717,Rhede,46414,Nordrhein-Westfalen
 1470261,Rhede (Ems),26899,Niedersachsen
-1168911,Rheden,31039,Niedersachsen
 452971,Rheinau,77866,Baden-Württemberg
 173125,Rheinbach,53359,Nordrhein-Westfalen
 58643,Rheinberg,47495,Nordrhein-Westfalen
@@ -9956,7 +9875,7 @@ osm_id,ort,plz,bundesland
 1231965,Rietheim-Weilheim,78604,Baden-Württemberg
 2410101,Riethgen,99638,Thüringen
 2411246,Riethnordhausen,99195,Thüringen
-1311129,Rietschen,02956,Sachsen
+1311129,Rietschen - Rěčicy,02956,Sachsen
 1384840,Rietz-Neuendorf,15848,Brandenburg
 1389286,Rietzneuendorf-Staakow,15910,Brandenburg
 537059,Rimbach,64668,Hessen
@@ -9977,6 +9896,7 @@ osm_id,ort,plz,bundesland
 1169354,Rinteln,31737,Niedersachsen
 1244273,Rinzenberg,55767,Rheinland-Pfalz
 1255897,Riol,54340,Rheinland-Pfalz
+5335199,Rippershausen,98639,Thüringen
 1417210,Risum-Lindholm,25920,Schleswig-Holstein
 2828345,Ritschenhausen,98617,Thüringen
 423193,Ritterhude,27721,Niedersachsen
@@ -10075,7 +9995,7 @@ osm_id,ort,plz,bundesland
 238966,Ronshausen,36217,Hessen
 1258416,Rorodt,54411,Rheinland-Pfalz
 2821145,Rosa,98590,Thüringen
-450122,Rosbach vor der Höhe,61191,Hessen
+450122,Rosbach v. d. Höhe,61191,Hessen
 1252489,Roschbach,76835,Rheinland-Pfalz
 1460227,Rosche,29571,Niedersachsen
 1113727,Roscheid,54619,Rheinland-Pfalz
@@ -10100,8 +10020,6 @@ osm_id,ort,plz,bundesland
 2168233,Rosenheim,83026,Bayern
 1250671,Rosenkopf,66894,Rheinland-Pfalz
 1427690,Rosenow,17091,Mecklenburg-Vorpommern
-407651,Rosenthal,13156,Berlin
-407651,Rosenthal,13158,Berlin
 443595,Rosenthal,35119,Hessen
 534527,Rosenthal-Bielatal,01824,Sachsen
 2778488,Rositz,04617,Thüringen
@@ -10151,7 +10069,6 @@ osm_id,ort,plz,bundesland
 535018,Rothenbach,56459,Rheinland-Pfalz
 959855,Röthenbach (Allgäu),88167,Bayern
 966170,Röthenbach an der Pegnitz,90552,Bayern
-451802,Rothenberg,64757,Hessen
 387541,Rothenbuch,63860,Bayern
 387541,Rothenbuch,97840,Bayern
 287759,Rothenburg ob der Tauber,91541,Bayern
@@ -10205,11 +10122,6 @@ osm_id,ort,plz,bundesland
 409093,Rüdesheim am Rhein,65385,Hessen
 1318332,Rüdnitz,16321,Brandenburg
 1273347,Rudolstadt,07407,Thüringen
-55757,Rudow,12351,Berlin
-55757,Rudow,12353,Berlin
-55757,Rudow,12355,Berlin
-55757,Rudow,12357,Berlin
-55757,Rudow,12359,Berlin
 1022777,Rugendorf,95365,Bayern
 1149230,Rügge,24392,Schleswig-Holstein
 1149230,Rügge,24405,Schleswig-Holstein
@@ -10227,7 +10139,6 @@ osm_id,ort,plz,bundesland
 1978258,Rullstorf,21379,Niedersachsen
 1250429,Rülzheim,76761,Rheinland-Pfalz
 1251121,Rumbach,76891,Rheinland-Pfalz
-409204,Rummelsburg,10317,Berlin
 1244000,Rümmelsheim,55452,Rheinland-Pfalz
 1130278,Rümmingen,79595,Baden-Württemberg
 548509,Rumohr,24254,Schleswig-Holstein
@@ -10261,7 +10172,6 @@ osm_id,ort,plz,bundesland
 2179213,Saalburg-Ebersdorf,07929,Thüringen
 941756,Saaldorf-Surheim,83416,Bayern
 2856465,Saaleplatte,99510,Thüringen
-1273356,Saalfelder Höhe,07422,Thüringen
 1273359,Saalfeld/Saale,07318,Thüringen
 1250997,Saalstadt,66919,Rheinland-Pfalz
 2804575,Saara,07589,Thüringen
@@ -10343,7 +10253,6 @@ osm_id,ort,plz,bundesland
 158642,Sankt Augustin,53757,Nordrhein-Westfalen
 1270376,Sankt Bernhard,98660,Thüringen
 959665,Sankt Englmar,94379,Bayern
-1242296,Sankt Georgen im Schwarzwald,78112,Baden-Württemberg
 1190015,Sankt Goar,56329,Rheinland-Pfalz
 539918,Sankt Goarshausen,56346,Rheinland-Pfalz
 1184823,Sankt Ingbert,66386,Saarland
@@ -10475,7 +10384,6 @@ osm_id,ort,plz,bundesland
 1444902,Schildetal,19209,Mecklenburg-Vorpommern
 1256081,Schillingen,54429,Rheinland-Pfalz
 534092,Schillingsfürst,91583,Bayern
-2410103,Schillingstedt,99625,Thüringen
 310414,Schillsdorf,24637,Schleswig-Holstein
 943748,Schiltach,77761,Baden-Württemberg
 161915,Schiltberg,86576,Bayern
@@ -10511,7 +10419,7 @@ osm_id,ort,plz,bundesland
 1152670,Schleid,54636,Rheinland-Pfalz
 2898843,Schleid,36419,Thüringen
 158147,Schleiden,53937,Nordrhein-Westfalen
-1310638,Schleife,02959,Sachsen
+1310638,Schleife - Slepo,02959,Sachsen
 2778408,Schleifreisen,07629,Thüringen
 2179215,Schleiz,07907,Thüringen
 374281,Schlemmin,18320,Mecklenburg-Vorpommern
@@ -10545,11 +10453,9 @@ osm_id,ort,plz,bundesland
 405627,Schmalensee,24638,Schleswig-Holstein
 423180,Schmalfeld,24640,Schleswig-Holstein
 2849661,Schmalkalden,98574,Thüringen
+2849661,Schmalkalden,98587,Thüringen
 157418,Schmallenberg,57392,Nordrhein-Westfalen
 548517,Schmalstede,24241,Schleswig-Holstein
-164785,Schmargendorf,14193,Berlin
-164785,Schmargendorf,14195,Berlin
-164785,Schmargendorf,14199,Berlin
 1433757,Schmatzin,17390,Mecklenburg-Vorpommern
 935736,Schmedeswurth,25724,Schleswig-Holstein
 1273259,Schmeheim,98530,Thüringen
@@ -10571,7 +10477,6 @@ osm_id,ort,plz,bundesland
 1269812,Schmitt,56825,Rheinland-Pfalz
 418358,Schmitten,61389,Hessen
 1244064,Schmittweiler,67829,Rheinland-Pfalz
-151950,Schmöckwitz,12527,Berlin
 1328962,Schmogrow-Fehrow,03096,Brandenburg
 2527958,Schmölln,04626,Thüringen
 1307609,Schmölln-Putzkau,01877,Sachsen
@@ -10612,7 +10517,7 @@ osm_id,ort,plz,bundesland
 454182,Schönau,69250,Baden-Württemberg
 957066,Schönau,84337,Bayern
 387354,Schönau a.d.Brend,97659,Bayern
-941800,Schönau a. Königssee,83471,Bayern
+941800,Schönau am Königssee,83471,Bayern
 418649,Schönau-Berzdorf auf dem Eigen,02899,Sachsen
 1244186,Schönau im Schwarzwald,79677,Baden-Württemberg
 1251114,Schönau (Pfalz),66996,Rheinland-Pfalz
@@ -10640,23 +10545,6 @@ osm_id,ort,plz,bundesland
 384303,Schondra,97795,Bayern
 65420,Schönebeck (Elbe),39217,Sachsen-Anhalt
 65420,Schönebeck (Elbe),39218,Sachsen-Anhalt
-55751,Schöneberg,10777,Berlin
-55751,Schöneberg,10779,Berlin
-55751,Schöneberg,10781,Berlin
-55751,Schöneberg,10783,Berlin
-55751,Schöneberg,10785,Berlin
-55751,Schöneberg,10787,Berlin
-55751,Schöneberg,10789,Berlin
-55751,Schöneberg,10823,Berlin
-55751,Schöneberg,10825,Berlin
-55751,Schöneberg,10827,Berlin
-55751,Schöneberg,10829,Berlin
-55751,Schöneberg,10965,Berlin
-55751,Schöneberg,12101,Berlin
-55751,Schöneberg,12103,Berlin
-55751,Schöneberg,12105,Berlin
-55751,Schöneberg,12157,Berlin
-55751,Schöneberg,12159,Berlin
 416450,Schöneberg,57638,Rheinland-Pfalz
 1243991,Schöneberg,55444,Rheinland-Pfalz
 1334082,Schöneberg,16278,Brandenburg
@@ -10748,24 +10636,23 @@ osm_id,ort,plz,bundesland
 1245803,Schwabenheim an der Selz,55270,Rheinland-Pfalz
 934460,Schwabhausen,85247,Bayern
 2802321,Schwabhausen,99869,Thüringen
+2792080,Schwäbisch Gmünd,73072,Baden-Württemberg
 2792080,Schwäbisch Gmünd,73525,Baden-Württemberg
 2792080,Schwäbisch Gmünd,73527,Baden-Württemberg
 2792080,Schwäbisch Gmünd,73529,Baden-Württemberg
+2792080,Schwäbisch Gmünd,73550,Baden-Württemberg
+2792080,Schwäbisch Gmünd,73553,Baden-Württemberg
 391370,Schwäbisch Hall,74523,Baden-Württemberg
 935178,Schwabmünchen,86830,Bayern
 936731,Schwabsoien,86987,Bayern
 1404024,Schwabstedt,25876,Schleswig-Holstein
-1130741,Schwachhausen,28209,Bremen
-1130741,Schwachhausen,28211,Bremen
-1130741,Schwachhausen,28213,Bremen
-1130741,Schwachhausen,28329,Bremen
 1461196,Schwaförden,27252,Niedersachsen
 966158,Schwaig bei Nürnberg,90571,Bayern
 939356,Schwaigen,82445,Bayern
 410521,Schwaigern,74193,Baden-Württemberg
 401696,Schwaikheim,71409,Baden-Württemberg
 414833,Schwalbach,65824,Hessen
-1184565,Schwalbach,66773,Saarland
+1184565,Schwalbach (Saar),66773,Saarland
 1182303,Schwall,56281,Rheinland-Pfalz
 2831169,Schwallungen,98590,Thüringen
 452200,Schwalmstadt,34613,Hessen
@@ -10797,7 +10684,7 @@ osm_id,ort,plz,bundesland
 1021714,Schwarzenbach a.d.Saale,95126,Bayern
 1021704,Schwarzenbach a.Wald,95131,Bayern
 1469085,Schwarzenbek,21493,Schleswig-Holstein
-419006,Schwarzenberg/Erzgeb.,08340,Sachsen
+419006,Schwarzenberg/Erzgebirge,08340,Sachsen
 452201,Schwarzenborn,34639,Hessen
 1258881,Schwarzenborn,54533,Rheinland-Pfalz
 966163,Schwarzenbruck,90592,Bayern
@@ -10876,7 +10763,6 @@ osm_id,ort,plz,bundesland
 932388,Seefeld,82229,Bayern
 448306,Seeg,87637,Bayern
 2408187,Seegebiet Mansfelder Land,06317,Sachsen-Anhalt
-1136098,Seehausen,28197,Bremen
 1284745,Seehausen,39615,Sachsen-Anhalt
 939382,Seehausen am Staffelsee,82418,Bayern
 452414,Seeheim-Jugenheim,64342,Hessen
@@ -10917,7 +10803,6 @@ osm_id,ort,plz,bundesland
 282305,Segnitz,97340,Bayern
 550778,Sehestedt,24814,Schleswig-Holstein
 1432643,Sehlde,38279,Niedersachsen
-1168895,Sehlem,31196,Niedersachsen
 1259136,Sehlem,54518,Rheinland-Pfalz
 1437553,Sehlen,18528,Mecklenburg-Vorpommern
 536636,Sehmatal,09465,Sachsen
@@ -10952,7 +10837,6 @@ osm_id,ort,plz,bundesland
 1245827,Selzen,55278,Rheinland-Pfalz
 1250335,Sembach,67681,Rheinland-Pfalz
 372361,Semlow,18334,Mecklenburg-Vorpommern
-1432651,Semmenstedt,38327,Niedersachsen
 157741,Senden,48308,Nordrhein-Westfalen
 941091,Senden,89250,Bayern
 152287,Sendenhorst,48324,Nordrhein-Westfalen
@@ -10963,7 +10847,6 @@ osm_id,ort,plz,bundesland
 1113759,Sengerich,54619,Rheinland-Pfalz
 1259316,Senheim,56820,Rheinland-Pfalz
 318304,Sennfeld,97526,Bayern
-451800,Sensbachtal,64759,Hessen
 1060411,Senscheid,53520,Rheinland-Pfalz
 1245130,Sensweiler,55758,Rheinland-Pfalz
 2778412,Serba,07616,Thüringen
@@ -10982,7 +10865,7 @@ osm_id,ort,plz,bundesland
 1113725,Sevenig (Our),54617,Rheinland-Pfalz
 1112860,Sexau,79350,Baden-Württemberg
 1071013,Seybothenreuth,95517,Bayern
-1182649,Sibbesse,31079,Niedersachsen
+6680435,Sibbesse,31079,Niedersachsen
 2813153,Sickerode,37308,Thüringen
 1432655,Sickte,38173,Niedersachsen
 1252554,Siebeldingen,76833,Rheinland-Pfalz
@@ -11006,9 +10889,6 @@ osm_id,ort,plz,bundesland
 1384838,Siehdichum,15890,Brandenburg
 454193,Siek,22962,Schleswig-Holstein
 161896,Sielenbach,86577,Bayern
-410446,Siemensstadt,13599,Berlin
-410446,Siemensstadt,13627,Berlin
-410446,Siemensstadt,13629,Berlin
 1245075,Sien,55758,Rheinland-Pfalz
 1245071,Sienhachenbach,55758,Rheinland-Pfalz
 382434,Sierksdorf,23730,Schleswig-Holstein
@@ -11030,8 +10910,8 @@ osm_id,ort,plz,bundesland
 1252775,Silz,76857,Rheinland-Pfalz
 1424140,Silz,17214,Mecklenburg-Vorpommern
 450062,Silzen,25551,Schleswig-Holstein
+957049,Simbach,84359,Bayern
 959909,Simbach,94436,Bayern
-957049,Simbach a.Inn,84359,Bayern
 35117,Simmelsdorf,91245,Bayern
 158021,Simmerath,52152,Nordrhein-Westfalen
 453850,Simmern,56337,Rheinland-Pfalz
@@ -11067,7 +10947,7 @@ osm_id,ort,plz,bundesland
 1246732,Soderstorf,21388,Niedersachsen
 153481,Soest,59494,Nordrhein-Westfalen
 1744936,Sögel,49751,Niedersachsen
-1309657,Sohland a. d. Spree,02689,Sachsen
+1309657,Sohland an der Spree,02689,Sachsen
 1168903,Söhlde,31185,Niedersachsen
 1245187,Sohren,55487,Rheinland-Pfalz
 1115035,Söhrewald,34320,Hessen
@@ -11083,7 +10963,7 @@ osm_id,ort,plz,bundesland
 62699,Solingen,42719,Nordrhein-Westfalen
 2179220,Solkwitz,07381,Thüringen
 1156130,Sollerup,24852,Schleswig-Holstein
-1446647,Söllingen,38387,Niedersachsen
+6683583,Söllingen,38387,Niedersachsen
 2400613,Sollstedt,99759,Thüringen
 1415323,Sollwitt,25884,Schleswig-Holstein
 215980,Solms,35606,Hessen
@@ -11093,6 +10973,7 @@ osm_id,ort,plz,bundesland
 283686,Sommerach,97334,Bayern
 1256954,Sommerau,54317,Rheinland-Pfalz
 2410104,Sömmerda,99610,Thüringen
+2410104,Sömmerda,99625,Thüringen
 163736,Sommerhausen,97286,Bayern
 534000,Sommerkahl,63825,Bayern
 447196,Sommerland,25358,Schleswig-Holstein
@@ -11131,12 +11012,6 @@ osm_id,ort,plz,bundesland
 1231960,Spaichingen,78549,Baden-Württemberg
 1244225,Spall,55595,Rheinland-Pfalz
 158420,Spalt,91174,Bayern
-408310,Spandau,13581,Berlin
-408310,Spandau,13583,Berlin
-408310,Spandau,13585,Berlin
-408310,Spandau,13587,Berlin
-408310,Spandau,13597,Berlin
-408310,Spandau,14052,Berlin
 1162785,Spangdahlem,54529,Rheinland-Pfalz
 452202,Spangenberg,34286,Hessen
 1432555,Spantekow,17391,Mecklenburg-Vorpommern
@@ -11171,17 +11046,13 @@ osm_id,ort,plz,bundesland
 1416964,Sprakebüll,25917,Schleswig-Holstein
 1392733,Sprakensehl,29365,Niedersachsen
 1384810,Spreenhagen,15528,Brandenburg
-1309580,Spreetal,02979,Sachsen
+1309580,Spreetal - Sprjewiny Doł,02979,Sachsen
 1388874,Spreewaldheide,15913,Brandenburg
 1322562,Spremberg,03130,Brandenburg
 1239649,Sprendlingen,55576,Rheinland-Pfalz
 396873,Springe,31832,Niedersachsen
-2829559,Springstille,98587,Thüringen
 162829,Sprockhövel,45549,Nordrhein-Westfalen
 2411281,Sprötau,99610,Thüringen
-410445,Staaken,13581,Berlin
-410445,Staaken,13591,Berlin
-410445,Staaken,13593,Berlin
 394346,Stäbelow,18198,Mecklenburg-Vorpommern
 444799,Stade,21680,Niedersachsen
 444799,Stade,21682,Niedersachsen
@@ -11204,12 +11075,8 @@ osm_id,ort,plz,bundesland
 162876,Stadtlohn,48703,Nordrhein-Westfalen
 1184616,Stadtoldendorf,37627,Niedersachsen
 394510,Stadtprozelten,97909,Bayern
-404577,Stadtrandsiedlung Malchow,13051,Berlin
-404577,Stadtrandsiedlung Malchow,13088,Berlin
-404577,Stadtrandsiedlung Malchow,13129,Berlin
 2778420,Stadtroda,07646,Thüringen
 1022770,Stadtsteinach,95346,Bayern
-534522,Stadt Wehlen,01829,Sachsen
 1416963,Stadum,25917,Schleswig-Holstein
 1461191,Staffhorst,27254,Niedersachsen
 548585,Stafstedt,24816,Schleswig-Holstein
@@ -11228,6 +11095,7 @@ osm_id,ort,plz,bundesland
 2179221,Stanau,07806,Thüringen
 1254397,Standenbühl,67816,Rheinland-Pfalz
 1145089,Stangheck,24395,Schleswig-Holstein
+8111540,Stapel,25879,Schleswig-Holstein
 454246,Stapelfeld,22145,Schleswig-Holstein
 2778489,Starkenberg,04617,Thüringen
 1261709,Starkenburg,56843,Rheinland-Pfalz
@@ -11259,14 +11127,6 @@ osm_id,ort,plz,bundesland
 1077557,Stegaurach,96135,Bayern
 74462,Stegen,79252,Baden-Württemberg
 417026,St. Egidien,09356,Sachsen
-55735,Steglitz,12157,Berlin
-55735,Steglitz,12161,Berlin
-55735,Steglitz,12163,Berlin
-55735,Steglitz,12165,Berlin
-55735,Steglitz,12167,Berlin
-55735,Steglitz,12169,Berlin
-55735,Steglitz,12247,Berlin
-55735,Steglitz,14195,Berlin
 2396127,Steigra,06268,Sachsen-Anhalt
 1183251,Steimbke,31634,Niedersachsen
 445738,Steimel,57614,Rheinland-Pfalz
@@ -11284,7 +11144,7 @@ osm_id,ort,plz,bundesland
 2813805,Steinbach,37308,Thüringen
 1267644,Steinbach am Donnersberg,67808,Rheinland-Pfalz
 1246488,Steinbach am Glan,66909,Rheinland-Pfalz
-1021755,Steinbach a.Wald,96361,Bayern
+1021755,Steinbach am Wald,96361,Bayern
 2818530,Steinbach-Hallenberg,98587,Thüringen
 444396,Steinberg,08237,Sachsen
 1145087,Steinberg,24972,Schleswig-Holstein
@@ -11337,7 +11197,6 @@ osm_id,ort,plz,bundesland
 1236171,Steißlingen,78256,Baden-Württemberg
 252884,Stelle,21435,Niedersachsen
 415686,Stelle-Wittenwurth,25795,Schleswig-Holstein
-191521,Stelzenberg,67661,Rheinland-Pfalz
 191521,Stelzenberg,67705,Rheinland-Pfalz
 357987,Stemmen,27389,Niedersachsen
 1675746,Stemshorn,49448,Niedersachsen
@@ -11358,13 +11217,13 @@ osm_id,ort,plz,bundesland
 388842,Stettfeld,96188,Bayern
 222354,Steyerberg,31595,Niedersachsen
 2778417,St. Gangloff,07629,Thüringen
+1242296,St. Georgen im Schwarzwald,78112,Baden-Württemberg
 959864,Stiefenhofen,88167,Bayern
 390789,Stimpfach,74597,Baden-Württemberg
 1180884,Stinstedt,21772,Niedersachsen
 442917,Stipsdorf,23795,Schleswig-Holstein
 1245102,Stipshausen,55758,Rheinland-Pfalz
 2773184,St. Johann,72813,Baden-Württemberg
-1266456,St. Kilian,98553,Thüringen
 453402,St. Leon-Rot,68789,Baden-Württemberg
 308238,St. Märgen,79274,Baden-Württemberg
 1236173,Stockach,78333,Baden-Württemberg
@@ -11387,11 +11246,9 @@ osm_id,ort,plz,bundesland
 536019,Stollberg/Erzgebirge,09366,Sachsen
 310416,Stolpe,24601,Schleswig-Holstein
 449895,Stolpe,19372,Mecklenburg-Vorpommern
-1432534,Stolpe,17391,Mecklenburg-Vorpommern
+1432534,Stolpe an der Peene,17391,Mecklenburg-Vorpommern
 1433098,Stolpe auf Usedom,17406,Mecklenburg-Vorpommern
 534528,Stolpen,01833,Sachsen
-1145352,Stoltebüll,24402,Schleswig-Holstein
-1145352,Stoltebüll,24407,Schleswig-Holstein
 1145352,Stoltebüll,24409,Schleswig-Holstein
 189482,Stoltenberg,24256,Schleswig-Holstein
 1183244,Stolzenau,31592,Niedersachsen
@@ -11427,7 +11284,6 @@ osm_id,ort,plz,bundesland
 411425,Striegistal,09661,Sachsen
 1451595,Strohkirchen,19230,Mecklenburg-Vorpommern
 1085803,Strohn,54558,Rheinland-Pfalz
-1136097,Strom,28197,Bremen
 1243984,Stromberg,55442,Rheinland-Pfalz
 1085798,Strotzbüsch,54552,Rheinland-Pfalz
 447963,Strübbel,25792,Schleswig-Holstein
@@ -11488,6 +11344,7 @@ osm_id,ort,plz,bundesland
 422848,Stuvenborn,24641,Schleswig-Holstein
 449893,Suckow,19376,Mecklenburg-Vorpommern
 898634,Südbrookmerland,26624,Niedersachsen
+898634,Südbrookmerland,26759,Niedersachsen
 2902868,Südeichsfeld,99976,Thüringen
 2902868,Südeichsfeld,99988,Thüringen
 447255,Süderau,25361,Schleswig-Holstein
@@ -11496,7 +11353,6 @@ osm_id,ort,plz,bundesland
 447964,Süderdeich,25764,Schleswig-Holstein
 966769,Süderdorf,25782,Schleswig-Holstein
 1428587,Süderende,25938,Schleswig-Holstein
-1149337,Süderfahrenstedt,24860,Schleswig-Holstein
 1149337,Süderfahrenstedt,24890,Schleswig-Holstein
 1709452,Südergellersen,21394,Niedersachsen
 1156125,Süderhackstedt,24852,Schleswig-Holstein
@@ -11508,7 +11364,6 @@ osm_id,ort,plz,bundesland
 1418485,Süderlügum,25923,Schleswig-Holstein
 1405170,Südermarsch,25813,Schleswig-Holstein
 1405170,Südermarsch,25840,Schleswig-Holstein
-1157803,Süderstapel,25879,Schleswig-Holstein
 2398912,Südharz,06536,Sachsen-Anhalt
 4447328,Südheide,29303,Niedersachsen
 4447328,Südheide,29320,Niedersachsen
@@ -11567,7 +11422,6 @@ osm_id,ort,plz,bundesland
 1474251,Surwold,26903,Niedersachsen
 382407,Süsel,23701,Schleswig-Holstein
 2792112,Süßen,73079,Baden-Württemberg
-2013997,Süstedt,27305,Niedersachsen
 2010636,Sustrum,49762,Niedersachsen
 1169363,Suthfeld,31555,Niedersachsen
 172208,Swisttal,53913,Nordrhein-Westfalen
@@ -11576,10 +11430,9 @@ osm_id,ort,plz,bundesland
 1147134,Sylt,25980,Schleswig-Holstein
 956147,Syrgenstein,89428,Bayern
 1149333,Taarstedt,24893,Schleswig-Holstein
-2816590,Tabarz,99891,Thüringen
 1256021,Taben-Rodt,54441,Rheinland-Pfalz
 941603,Tacherting,83342,Bayern
-941675,Taching a. See,83373,Bayern
+941675,Taching am See,83373,Bayern
 548604,Tackesdorf,24797,Schleswig-Holstein
 548604,Tackesdorf,25585,Schleswig-Holstein
 915421,Täferrot,73527,Baden-Württemberg
@@ -11632,14 +11485,6 @@ osm_id,ort,plz,bundesland
 449911,Techentin,19399,Mecklenburg-Vorpommern
 155574,Tecklenburg,49545,Nordrhein-Westfalen
 2179223,Tegau,07907,Thüringen
-55747,Tegel,13403,Berlin
-55747,Tegel,13405,Berlin
-55747,Tegel,13503,Berlin
-55747,Tegel,13505,Berlin
-55747,Tegel,13507,Berlin
-55747,Tegel,13509,Berlin
-55747,Tegel,13599,Berlin
-55747,Tegel,13629,Berlin
 964615,Tegernheim,93105,Bayern
 935954,Tegernsee,83684,Bayern
 1322804,Teichland,03185,Brandenburg
@@ -11658,13 +11503,6 @@ osm_id,ort,plz,bundesland
 1334111,Temmen-Ringenwalde,17268,Brandenburg
 1302396,Temnitzquell,16818,Brandenburg
 1302382,Temnitztal,16845,Brandenburg
-162894,Tempelhof,10965,Berlin
-162894,Tempelhof,12099,Berlin
-162894,Tempelhof,12101,Berlin
-162894,Tempelhof,12103,Berlin
-162894,Tempelhof,12105,Berlin
-162894,Tempelhof,12109,Berlin
-162894,Tempelhof,12279,Berlin
 1334098,Templin,17268,Brandenburg
 2785260,Tengen,78250,Baden-Württemberg
 1124271,Teningen,79312,Baden-Württemberg
@@ -11684,6 +11522,7 @@ osm_id,ort,plz,bundesland
 1314272,Tettau,01945,Brandenburg
 958098,Tettenweis,94167,Bayern
 2783824,Tettnang,88069,Baden-Württemberg
+2783824,Tettnang,88079,Baden-Württemberg
 962125,Teublitz,93158,Bayern
 2405054,Teuchern,06682,Sachsen-Anhalt
 956655,Teugn,93356,Bayern
@@ -11722,7 +11561,6 @@ osm_id,ort,plz,bundesland
 2778431,Thierschneck,07774,Thüringen
 1022891,Thiersheim,95707,Bayern
 1022875,Thierstein,95199,Bayern
-1437801,Thiessow,18586,Mecklenburg-Vorpommern
 1184606,Tholey,66636,Saarland
 1387434,Thomasburg,21401,Niedersachsen
 1256944,Thomm,54317,Rheinland-Pfalz
@@ -11749,16 +11587,10 @@ osm_id,ort,plz,bundesland
 1241652,Tiefenbach,55471,Rheinland-Pfalz
 2801352,Tiefenbach,88422,Baden-Württemberg
 307959,Tiefenbronn,75233,Baden-Württemberg
-1268947,Tiefenort,36460,Thüringen
-1268947,Tiefenort,36469,Thüringen
 1244014,Tiefenthal,55546,Rheinland-Pfalz
 1249750,Tiefenthal,67311,Rheinland-Pfalz
 1157806,Tielen,24803,Schleswig-Holstein
 966681,Tielenhemme,25794,Schleswig-Holstein
-55750,Tiergarten,10557,Berlin
-55750,Tiergarten,10785,Berlin
-55750,Tiergarten,10787,Berlin
-55750,Tiergarten,10963,Berlin
 548560,Timmaspe,24644,Schleswig-Holstein
 382444,Timmendorfer Strand,23669,Schleswig-Holstein
 1417216,Tinningstedt,25917,Schleswig-Holstein
@@ -11821,7 +11653,7 @@ osm_id,ort,plz,bundesland
 422433,Trebbin,14959,Brandenburg
 1821884,Trebel,29494,Niedersachsen
 2714344,Treben,04617,Thüringen
-1310640,Trebendorf,02959,Sachsen
+1310640,Trebendorf - Trjebin,02959,Sachsen
 1022774,Trebgast,95367,Bayern
 2388838,Trebra,99718,Thüringen
 422916,Trebsen/Mulde,04687,Sachsen
@@ -11903,7 +11735,6 @@ osm_id,ort,plz,bundesland
 932435,Tutzing,82327,Bayern
 1427899,Tützpatz,17091,Mecklenburg-Vorpommern
 1149340,Twedt,24894,Schleswig-Holstein
-1446666,Twieflingen,38388,Niedersachsen
 1815278,Twist,49767,Niedersachsen
 198579,Twistetal,34477,Hessen
 1461201,Twistringen,27239,Niedersachsen
@@ -11954,6 +11785,7 @@ osm_id,ort,plz,bundesland
 62495,Ulm,89077,Baden-Württemberg
 62495,Ulm,89079,Baden-Württemberg
 62495,Ulm,89081,Baden-Württemberg
+62495,Ulm,89160,Baden-Württemberg
 1269805,Ulmen,56766,Rheinland-Pfalz
 1246620,Ulmet,66887,Rheinland-Pfalz
 418339,Ulrichstein,35327,Hessen
@@ -12073,8 +11905,6 @@ osm_id,ort,plz,bundesland
 1432660,Vahlberg,38170,Niedersachsen
 2013294,Vahlbruch,37647,Niedersachsen
 357091,Vahlde,27389,Niedersachsen
-1128652,Vahr,28327,Bremen
-1128652,Vahr,28329,Bremen
 405820,Vaihingen an der Enz,71665,Baden-Württemberg
 547364,Vallendar,56179,Rheinland-Pfalz
 935955,Valley,83626,Bayern
@@ -12091,9 +11921,6 @@ osm_id,ort,plz,bundesland
 337335,Vechelde,38159,Niedersachsen
 1336408,Vechta,49377,Niedersachsen
 1444911,Veelböken,19205,Mecklenburg-Vorpommern
-1100344,Vegesack,28755,Bremen
-1100344,Vegesack,28757,Bremen
-1100344,Vegesack,28759,Bremen
 1263899,Veilsdorf,98669,Thüringen
 1016401,Veitsbronn,90587,Bayern
 183778,Veitshöchheim,97209,Bayern
@@ -12108,9 +11935,7 @@ osm_id,ort,plz,bundesland
 1258368,Veldenz,54472,Rheinland-Pfalz
 162729,Velen,46342,Nordrhein-Westfalen
 374155,Velgast,18469,Mecklenburg-Vorpommern
-1451529,Vellahn,19246,Mecklenburg-Vorpommern
 1451529,Vellahn,19260,Mecklenburg-Vorpommern
-1451529,Vellahn,19273,Mecklenburg-Vorpommern
 390785,Vellberg,74541,Baden-Württemberg
 532030,Vellmar,34246,Hessen
 1446655,Velpke,38458,Niedersachsen
@@ -12158,7 +11983,7 @@ osm_id,ort,plz,bundesland
 192229,Vilsbiburg,84137,Bayern
 1028549,Vilseck,92249,Bayern
 191420,Vilsheim,84186,Bayern
-958090,Vilshofen a.d.Donau,94474,Bayern
+958090,Vilshofen an der Donau,94474,Bayern
 1251153,Vinningen,66957,Rheinland-Pfalz
 1406978,Viöl,25884,Schleswig-Holstein
 2856468,Vippachedelhausen,99439,Thüringen
@@ -12176,7 +12001,7 @@ osm_id,ort,plz,bundesland
 2190047,Vogtareuth,83569,Bayern
 2902654,Vogtei,99986,Thüringen
 70147,Vogtsburg im Kaiserstuhl,79235,Baden-Württemberg
-380987,Vohburg an der Donau,85088,Bayern
+380987,Vohburg a.d.Donau,85088,Bayern
 1059462,Vohenstrauß,92648,Bayern
 198601,Vöhl,34516,Hessen
 1242238,Vöhrenbach,78147,Baden-Württemberg
@@ -12244,7 +12069,7 @@ osm_id,ort,plz,bundesland
 1384590,Wagenhoff,38559,Niedersachsen
 1149238,Wagersrott,24392,Schleswig-Holstein
 659808,Waghäusel,68753,Baden-Württemberg
-941680,Waging a. See,83329,Bayern
+941680,Waging am See,83329,Bayern
 1241627,Wahlbach,55494,Rheinland-Pfalz
 1245181,Wahlenau,55491,Rheinland-Pfalz
 2813779,Wahlhausen,37318,Thüringen
@@ -12262,7 +12087,6 @@ osm_id,ort,plz,bundesland
 453370,Waibstadt,74915,Baden-Württemberg
 1059443,Waidhaus,92726,Bayern
 943708,Waidhofen,86579,Bayern
-110113,Waidmannslust,13469,Berlin
 533265,Waigandshain,56477,Rheinland-Pfalz
 325518,Waigolshausen,97534,Bayern
 2801102,Wain,88489,Baden-Württemberg
@@ -12328,7 +12152,7 @@ osm_id,ort,plz,bundesland
 1269717,Walhausen,56865,Rheinland-Pfalz
 405306,Walheim,74399,Baden-Württemberg
 2029541,Walkendorf,17179,Mecklenburg-Vorpommern
-1416147,Walkenried,37445,Niedersachsen
+6683592,Walkenried,37445,Niedersachsen
 935168,Walkertshofen,86877,Bayern
 1465817,Walksfelde,23896,Schleswig-Holstein
 2831177,Wallbach,98639,Thüringen
@@ -12336,9 +12160,6 @@ osm_id,ort,plz,bundesland
 2831181,Walldorf,98639,Thüringen
 403727,Walldürn,63928,Baden-Württemberg
 403727,Walldürn,74731,Baden-Württemberg
-1943368,Walle,28217,Bremen
-1943368,Walle,28219,Bremen
-1943368,Walle,28237,Bremen
 964249,Wallen,25788,Schleswig-Holstein
 1085818,Wallenborn,54570,Rheinland-Pfalz
 1163510,Wallendorf,54675,Rheinland-Pfalz
@@ -12383,31 +12204,6 @@ osm_id,ort,plz,bundesland
 156058,Walzbachtal,75045,Baden-Württemberg
 1156126,Wanderup,24997,Schleswig-Holstein
 1335915,Wandlitz,16348,Brandenburg
-30353,Wandsbek,22041,Hamburg
-30353,Wandsbek,22043,Hamburg
-30353,Wandsbek,22045,Hamburg
-30353,Wandsbek,22047,Hamburg
-30353,Wandsbek,22049,Hamburg
-30353,Wandsbek,22087,Hamburg
-30353,Wandsbek,22089,Hamburg
-30353,Wandsbek,22143,Hamburg
-30353,Wandsbek,22145,Hamburg
-30353,Wandsbek,22147,Hamburg
-30353,Wandsbek,22149,Hamburg
-30353,Wandsbek,22159,Hamburg
-30353,Wandsbek,22175,Hamburg
-30353,Wandsbek,22177,Hamburg
-30353,Wandsbek,22179,Hamburg
-30353,Wandsbek,22309,Hamburg
-30353,Wandsbek,22339,Hamburg
-30353,Wandsbek,22359,Hamburg
-30353,Wandsbek,22391,Hamburg
-30353,Wandsbek,22393,Hamburg
-30353,Wandsbek,22395,Hamburg
-30353,Wandsbek,22397,Hamburg
-30353,Wandsbek,22399,Hamburg
-30353,Wandsbek,22415,Hamburg
-30353,Wandsbek,22417,Hamburg
 549420,Wanfried,37281,Hessen
 29829,Wang,85368,Bayern
 1467718,Wangelau,21483,Schleswig-Holstein
@@ -12420,7 +12216,6 @@ osm_id,ort,plz,bundesland
 1187506,Wangerooge,26486,Niedersachsen
 310415,Wankendorf,24601,Schleswig-Holstein
 1180093,Wanna,21776,Niedersachsen
-409218,Wannsee,14109,Berlin
 2772827,Wannweil,72827,Baden-Württemberg
 1286627,Wanzleben-Börde,39164,Sachsen-Anhalt
 556096,Wapelfeld,24594,Schleswig-Holstein
@@ -12448,8 +12243,6 @@ osm_id,ort,plz,bundesland
 448771,Warringholz,25560,Schleswig-Holstein
 1451506,Warsow,19075,Mecklenburg-Vorpommern
 153401,Warstein,59581,Nordrhein-Westfalen
-409205,Wartenberg,13051,Berlin
-409205,Wartenberg,13059,Berlin
 418334,Wartenberg,36367,Hessen
 934742,Wartenberg,85456,Bayern
 1254708,Wartenberg-Rohrbach,67681,Rheinland-Pfalz
@@ -12483,22 +12276,12 @@ osm_id,ort,plz,bundesland
 962645,Wechingen,86759,Bayern
 413430,Wechselburg,09306,Sachsen
 423185,Weddelbrook,24576,Schleswig-Holstein
-28267,Wedding,13347,Berlin
-28267,Wedding,13349,Berlin
-28267,Wedding,13351,Berlin
-28267,Wedding,13353,Berlin
-28267,Wedding,13357,Berlin
-28267,Wedding,13359,Berlin
-28267,Wedding,13405,Berlin
-28267,Wedding,13407,Berlin
-28267,Wedding,13409,Berlin
 413440,Weddingstedt,25795,Schleswig-Holstein
 3370039,Wedel,22880,Schleswig-Holstein
 1177823,Wedemark,30900,Niedersachsen
 1746116,Wedendorfersee,19217,Mecklenburg-Vorpommern
 442914,Weede,23795,Schleswig-Holstein
 1255862,Weener,26826,Niedersachsen
-1168906,Weenzen,31096,Niedersachsen
 1149283,Wees,24999,Schleswig-Holstein
 1156026,Weesby,24994,Schleswig-Holstein
 167976,Weeze,47652,Nordrhein-Westfalen
@@ -12507,6 +12290,7 @@ osm_id,ort,plz,bundesland
 1332260,Wegeleben,38828,Sachsen-Anhalt
 958088,Wegscheid,94110,Bayern
 1231984,Wehingen,78564,Baden-Württemberg
+534522,Wehlen,01829,Sachsen
 2393864,Wehnde,37339,Thüringen
 1050579,Wehr,56653,Rheinland-Pfalz
 2787781,Wehr,79664,Baden-Württemberg
@@ -12581,7 +12365,7 @@ osm_id,ort,plz,bundesland
 1244229,Weinsheim,55595,Rheinland-Pfalz
 401694,Weinstadt,71384,Baden-Württemberg
 2179227,Weira,07806,Thüringen
-445226,Weischlitz,08538,Sachsen
+6906105,Weischlitz,08538,Sachsen
 539915,Weisel,56348,Rheinland-Pfalz
 1289789,Weisen,19322,Brandenburg
 907246,Weisenbach,76599,Baden-Württemberg
@@ -12595,7 +12379,7 @@ osm_id,ort,plz,bundesland
 376923,Weißbach,74679,Baden-Württemberg
 2778452,Weißbach,07646,Thüringen
 1021698,Weißdorf,95237,Bayern
-1309659,Weißenberg,02627,Sachsen
+1309659,Weißenberg - Wóspork,02627,Sachsen
 549425,Weißenborn,37299,Hessen
 2778453,Weißenborn,07639,Thüringen
 416500,Weißenborn/Erzgebirge,09600,Sachsen
@@ -12607,13 +12391,11 @@ osm_id,ort,plz,bundesland
 941081,Weißenhorn,89264,Bayern
 1080482,Weißenohe,91367,Bayern
 812179,Weißensberg,88138,Bayern
-408308,Weißensee,13086,Berlin
-408308,Weißensee,13088,Berlin
 2410105,Weißensee,99631,Thüringen
 1022880,Weißenstadt,95163,Bayern
 548982,Weißenthurm,56575,Rheinland-Pfalz
-1311128,Weißkeißel,02957,Sachsen
-1310639,Weißwasser/O.L.,02943,Sachsen
+1311128,Weißkeißel - Wuskidź,02957,Sachsen
+1310639,Weißwasser/O.L. - Běła Woda,02943,Sachsen
 1124265,Weisweil,79367,Baden-Württemberg
 421957,Weitefeld,57586,Rheinland-Pfalz
 449950,Weitendorf,19412,Mecklenburg-Vorpommern
@@ -12721,12 +12503,6 @@ osm_id,ort,plz,bundesland
 936656,Weßling,82234,Bayern
 936793,Wessobrunn,82405,Bayern
 1460255,Weste,29599,Niedersachsen
-164787,Westend,14050,Berlin
-164787,Westend,14052,Berlin
-164787,Westend,14053,Berlin
-164787,Westend,14055,Berlin
-164787,Westend,14057,Berlin
-164787,Westend,14059,Berlin
 445847,Westendorf,86707,Bayern
 447637,Westendorf,87679,Bayern
 548504,Westensee,24259,Schleswig-Holstein
@@ -12752,7 +12528,6 @@ osm_id,ort,plz,bundesland
 2788339,Westerstetten,89198,Baden-Württemberg
 965593,Westertimke,27412,Niedersachsen
 965601,Westerwalsede,27386,Niedersachsen
-1182652,Westfeld,31079,Niedersachsen
 2388862,Westgreußen,99718,Thüringen
 915552,Westhausen,73463,Baden-Württemberg
 1270325,Westhausen,98663,Thüringen
@@ -12800,7 +12575,6 @@ osm_id,ort,plz,bundesland
 1190010,Wiebelsheim,56291,Rheinland-Pfalz
 374259,Wieck a. Darß,18375,Mecklenburg-Vorpommern
 453181,Wied,57629,Rheinland-Pfalz
-1416132,Wieda,37447,Niedersachsen
 444739,Wiedemar,04509,Sachsen
 1130290,Wieden,79695,Baden-Württemberg
 450070,Wiedenborstel,24613,Schleswig-Holstein
@@ -12890,11 +12664,6 @@ osm_id,ort,plz,bundesland
 62444,Wilhelmshaven,26386,Niedersachsen
 62444,Wilhelmshaven,26388,Niedersachsen
 62444,Wilhelmshaven,26389,Niedersachsen
-407650,Wilhelmsruh,13158,Berlin
-164788,Wilhelmstadt,13581,Berlin
-164788,Wilhelmstadt,13593,Berlin
-164788,Wilhelmstadt,13595,Berlin
-164788,Wilhelmstadt,13597,Berlin
 1021751,Wilhelmsthal,96352,Bayern
 1016403,Wilhermsdorf,91452,Bayern
 417709,Wilkau-Haßlau,08112,Sachsen
@@ -12911,19 +12680,6 @@ osm_id,ort,plz,bundesland
 415005,Willroth,56594,Rheinland-Pfalz
 452980,Willstätt,77731,Baden-Württemberg
 1258633,Willwerscheid,54533,Rheinland-Pfalz
-55740,Wilmersdorf,10707,Berlin
-55740,Wilmersdorf,10709,Berlin
-55740,Wilmersdorf,10713,Berlin
-55740,Wilmersdorf,10715,Berlin
-55740,Wilmersdorf,10717,Berlin
-55740,Wilmersdorf,10719,Berlin
-55740,Wilmersdorf,10777,Berlin
-55740,Wilmersdorf,10779,Berlin
-55740,Wilmersdorf,10789,Berlin
-55740,Wilmersdorf,10825,Berlin
-55740,Wilmersdorf,14195,Berlin
-55740,Wilmersdorf,14197,Berlin
-55740,Wilmersdorf,14199,Berlin
 163259,Wilnsdorf,57234,Nordrhein-Westfalen
 455469,Wilsdruff,01723,Sachsen
 455469,Wilsdruff,01737,Sachsen
@@ -12990,7 +12746,6 @@ osm_id,ort,plz,bundesland
 1108074,Winterspelt,54616,Rheinland-Pfalz
 540475,Winterwerb,56355,Rheinland-Pfalz
 1258374,Wintrich,54487,Rheinland-Pfalz
-1168917,Winzenburg,31088,Niedersachsen
 959808,Winzer,94577,Bayern
 318226,Wipfeld,97537,Bayern
 165452,Wipfratal,99310,Thüringen
@@ -13022,17 +12777,7 @@ osm_id,ort,plz,bundesland
 162826,Witten,58454,Nordrhein-Westfalen
 162826,Witten,58455,Nordrhein-Westfalen
 162826,Witten,58456,Nordrhein-Westfalen
-55743,Wittenau,13403,Berlin
-55743,Wittenau,13407,Berlin
-55743,Wittenau,13435,Berlin
-55743,Wittenau,13437,Berlin
-55743,Wittenau,13439,Berlin
-55743,Wittenau,13469,Berlin
-55743,Wittenau,13509,Berlin
 394349,Wittenbeck,18209,Mecklenburg-Vorpommern
-1060610,Wittenberg,06886,Sachsen-Anhalt
-1060610,Wittenberg,06888,Sachsen-Anhalt
-1060610,Wittenberg,06889,Sachsen-Anhalt
 1289786,Wittenberge,19322,Brandenburg
 450513,Wittenbergen,25548,Schleswig-Holstein
 422845,Wittenborn,23829,Schleswig-Holstein
@@ -13041,10 +12786,9 @@ osm_id,ort,plz,bundesland
 1451548,Wittenförden,19073,Mecklenburg-Vorpommern
 374136,Wittenhagen,18510,Mecklenburg-Vorpommern
 2411252,Witterda,99189,Thüringen
-1273275,Wittgendorf,07318,Thüringen
 532378,Wittgert,56237,Rheinland-Pfalz
 957063,Wittibreut,84384,Bayern
-1309582,Wittichenau,02997,Sachsen
+1309582,Wittichenau - Kulow,02997,Sachsen
 319195,Wittighausen,97957,Baden-Württemberg
 1392804,Wittingen,29378,Niedersachsen
 1392804,Wittingen,29379,Niedersachsen
@@ -13098,13 +12842,11 @@ osm_id,ort,plz,bundesland
 2800612,Wölfis,99885,Thüringen
 534388,Wolframs-Eschenbach,91639,Bayern
 935131,Wolfratshausen,82515,Bayern
-165453,Wolfsberg,98704,Thüringen
 62418,Wolfsburg,38440,Niedersachsen
 62418,Wolfsburg,38442,Niedersachsen
 62418,Wolfsburg,38444,Niedersachsen
 62418,Wolfsburg,38446,Niedersachsen
 62418,Wolfsburg,38448,Niedersachsen
-2894241,Wolfsburg-Unkeroda,99819,Thüringen
 2796538,Wolfschlugen,72649,Baden-Württemberg
 975302,Wolfsegg,93195,Bayern
 1245784,Wolfsheim,55578,Rheinland-Pfalz
@@ -13133,8 +12875,6 @@ osm_id,ort,plz,bundesland
 1352214,Woltersdorf,15569,Brandenburg
 1466177,Woltersdorf,21516,Schleswig-Holstein
 1818787,Woltersdorf,29497,Niedersachsen
-1168902,Woltershausen,31099,Niedersachsen
-1136070,Woltmershausen,28197,Bremen
 1245191,Womrath,55481,Rheinland-Pfalz
 387770,Wonfurt,97539,Bayern
 941681,Wonneberg,83379,Bayern
@@ -13153,8 +12893,8 @@ osm_id,ort,plz,bundesland
 915550,Wört,73499,Baden-Württemberg
 158726,Worth,21502,Schleswig-Holstein
 934776,Wörth,85457,Bayern
-179302,Wörth a. d. Isar,84109,Bayern
-394447,Wörth a.Main,63939,Bayern
+179302,Wörth a.d. Isar,84109,Bayern
+394447,Wörth am Main,63939,Bayern
 904764,Wörth am Rhein,76744,Rheinland-Pfalz
 966622,Wörth an der Donau,93086,Bayern
 932238,Wörthsee,82237,Bayern
@@ -13252,11 +12992,6 @@ osm_id,ort,plz,bundesland
 1332938,Zechin,15328,Brandenburg
 2804640,Zedlitz,07557,Thüringen
 1316017,Zehdenick,16792,Brandenburg
-164778,Zehlendorf,14129,Berlin
-164778,Zehlendorf,14163,Berlin
-164778,Zehlendorf,14165,Berlin
-164778,Zehlendorf,14167,Berlin
-164778,Zehlendorf,14169,Berlin
 1964782,Zehna,18276,Mecklenburg-Vorpommern
 533269,Zehnhausen bei Rennerod,56477,Rheinland-Pfalz
 534492,Zehnhausen bei Wallmerod,56414,Rheinland-Pfalz
@@ -13281,6 +13016,7 @@ osm_id,ort,plz,bundesland
 1269737,Zell (Mosel),56856,Rheinland-Pfalz
 1269737,Zell (Mosel),56858,Rheinland-Pfalz
 1269737,Zell (Mosel),56859,Rheinland-Pfalz
+2792704,Zell unter Aichelberg,73087,Baden-Württemberg
 2792704,Zell unter Aichelberg,73119,Baden-Württemberg
 1258363,Zeltingen-Rachtig,54492,Rheinland-Pfalz
 1258363,Zeltingen-Rachtig,54539,Rheinland-Pfalz
@@ -13308,7 +13044,6 @@ osm_id,ort,plz,bundesland
 965599,Zeven,27404,Niedersachsen
 1334116,Zichow,16306,Brandenburg
 1444878,Zickhusen,19069,Mecklenburg-Vorpommern
-2778494,Ziegelheim,04618,Thüringen
 449891,Ziegendorf,19372,Mecklenburg-Vorpommern
 416406,Ziegenhain,57632,Rheinland-Pfalz
 2179231,Ziegenrück,07924,Thüringen
@@ -13344,7 +13079,6 @@ osm_id,ort,plz,bundesland
 29831,Zolling,85406,Bayern
 2778459,Zöllnitz,07751,Thüringen
 1329608,Zörbig,06780,Sachsen-Anhalt
-1416137,Zorge,37449,Niedersachsen
 929912,Zorneding,85604,Bayern
 1245313,Zornheim,55270,Rheinland-Pfalz
 956143,Zöschingen,89447,Bayern
