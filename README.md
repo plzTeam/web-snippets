@@ -19,4 +19,4 @@ Source                      | CDN
 :--------------------------- | :--------------------------------------------------------------------
 jQuery                       | https://code.jquery.com/jquery-1.11.3.min.js
 Bootstrap                    | https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js
--                            | https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
+"                            | https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css
