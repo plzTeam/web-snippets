@@ -5,7 +5,7 @@ Mit diesem Skript-Beispiel können Sie interaktive Postleitzahlenkarten, inklusi
 ### Demo
 > [Beispiel anzeigen](https://rawgit.com/plzTeam/web-snippets/master/plz-karte/index.html)
 
-[![Interaktive PLZ Karte](https://raw.githubusercontent.com/plzTeam/web-snippets/master/plz-karte/screenshot.png)](http://rawgit.com/plzTeam/web-snippets/master/plz-karte/index.html "Interaktive PLZ Karte")
+[![Interaktive Karte](https://raw.githubusercontent.com/plzTeam/web-snippets/master/plz-karte/screenshot.png)](http://rawgit.com/plzTeam/web-snippets/master/plz-karte/index.html "Interaktive Karte")
 
 ### Datenquelle & Format der verwendeten Karten
 
