@@ -3,11 +3,11 @@
 Dieses Skript zeigt eine mögliche Einbindung einer Postleitzahlen- und Ortssuche auf der eigenen Webseite ohne serverseitiger PHP/MySQL Programmierung. 
 
 ### Demo
-> [Beispiel anzeigen](http://rawgit.com/plzTeam/web-snippets/master/plz-suche/index.html)
+> [Beispiel anzeigen](https://rawgit.com/plzTeam/web-snippets/master/plz-suche/index.html)
 
 ### PLZ Daten
 
-Für die Suchabfrage wird eine Zuordnungsdatei im CSV-Format ([Dateiformat und Gliederung](http://blog.suche-postleitzahl.org/post/129292494671/plzort-zuordnungsdatei-verwenden)) mit aktuellen Postleitzahlen und Städte/Gemeinden von Deutschland verwendet. Eine aktuelle PLZ-Liste (zuordnung_plz_ort.csv) finden Sie [hier zum Downloaden](https://www.suche-postleitzahl.org/downloads)
+Für die Suchabfrage wird eine Zuordnungsdatei im CSV-Format ([Dateiformat und Gliederung](https://blog.suche-postleitzahl.org/post/129292494671/plzort-zuordnungsdatei-verwenden)) mit aktuellen Postleitzahlen und Städte/Gemeinden von Deutschland verwendet. Eine aktuelle PLZ-Liste (zuordnung_plz_ort.csv) finden Sie [hier zum Downloaden](https://www.suche-postleitzahl.org/downloads)
 
 Diese Datei wird in regelmäßigen Abständen aktualisiert und sollte nach dem Herunterladen in folgenden Ordner verschoben werden:
 
@@ -22,7 +22,7 @@ Die verwendete CSV-Datei hat eine Größe von ~500kb/150kb(gzip) und wird in uns
 
 ### Verwendeter CSV-Parser
 
-Um die Datei zuordnung_plz_ort.csv ohne vorherige Konvertierung (z.B. in JSON) für diese PLZ-Suche nutzen zu können haben wir uns für [**Papa Parse**](http://papaparse.com/) entschieden - dieser CSV-Parser baut alleinig auf Javascript auf und benötigt kein jQuery.
+Um die Datei zuordnung_plz_ort.csv ohne vorherige Konvertierung (z.B. in JSON) für diese PLZ-Suche nutzen zu können haben wir uns für [**Papa Parse**](https://papaparse.com/) entschieden - dieser CSV-Parser baut alleinig auf Javascript auf und benötigt kein jQuery.
 
 ### Anpassungen am Script vornehmen
 
